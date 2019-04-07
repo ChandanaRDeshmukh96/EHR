@@ -16,10 +16,6 @@ var medicalStaffInfo = require('./medical-staff-info.js');
 // var familyInfo = require('./family-info.js');
 // var familyMedicalHistory = require('./family-medical-history.js');
 // var immunization = require('./immunization.js');
-var groupInsuranceInfo = require('./group-insurance-info.js');
-var insuranceInfo = require('./insurance-info.js');
-var insuranceProviderInfo = require('./insurance-provider-info.js');
-var insuranceCarrierCpt = require('./insurance-carrier-cpt.js');
 // var prescription = require('./prescription.js');
 // var patientMedicalHistory = require('./patient-medical-history.js');
 // var problemList = require('./problem-list.js');
@@ -35,19 +31,41 @@ var insuranceCarrierCpt = require('./insurance-carrier-cpt.js');
 function staffAndPatient(){
     // executing and creating JSON file for all data
     console.log("\n\ncreating staff and patient data ...\n\n");
-    providerInfo();
+    var patientInfo = require('./patient-info.js');
     patientInfo();
+    var providerInfo = require('./provider-info.js');
+    providerInfo();
+    var medicalStaffInfo = require('./medical-staff-info.js');
     medicalStaffInfo();
-
+    
 };
 // staffAndPatient();
 // patientInfo();   
 
 function insurance(){
     console.log("\n\ncreating insurance data...\n\n");
-    groupInsuranceInfo();
+    
+    var p1 = new Promise (function (resolve, reject){
+        setTimeout(()=>{
+            console.log("jk")
+            var insuranceInfo = require('./insurance-info.js');
+            insuranceInfo();
+        }, 100, "insInfo"); });
+    // insuranceInfo();
+    var p2 = new Promise (function (resolve, reject){
+        setTimeout(()=>{
+            console.log("jhjhbjh");
+            var groupInsuranceInfo = require('./group-insurance-info.js');
+            groupInsuranceInfo();
+        }, 10000, "grpInsInfo"); });
+    // groupInsuranceInfo();
+
+Promise.all([p1, p2]).then(function(values) {
+    console.log(values);
+  });
+    var insuranceProviderInfo = require('./insurance-provider-info.js');
     insuranceProviderInfo();
-    insuranceInfo();
+    var insuranceCarrierCpt = require('./insurance-carrier-cpt.js');
     insuranceCarrierCpt();
 };
 
