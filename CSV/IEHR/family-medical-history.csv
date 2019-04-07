@@ -1,0 +1,96 @@
+patientName,relationship,ifOtherRelationship,diagnosis,deceased,deathAge,deathReason
+Karrie Owens,Mother,,Breast cancer,No,NA,NA
+,Father,,Asthma,No,NA,NA
+,Brother,,Asthma,No,NA,NA
+,,,,,,
+Kevin Washington,Mother,,Diabetes,No,NA,NA
+,Father,,Congestive heart failure,No,NA,NA
+,Sister,,Melanoma,No,NA,NA
+,,,,,,
+,,,,,,
+Maria Lopez,Father,,Prostate cancer,Yes,72,Metastatic prostate cancer
+,Sister,,Hypothyroidism,No,NA,NA
+,,,,,,
+,,,,,,
+,,,,,,
+Jack Kyser,Mother,,Anxiety disorder,No,NA,NA
+,Father,,Hypercholesterolemia,No,NA,NA
+,Father,,Hypertension,No,NA,NA
+,Sister,,Congenital heart defect,Yes,8 months,Sudden cardiac arrest
+,,,,,,
+Dae Kim,Mother,,"Myocardial infarction,
+Pulmonary embolism",Yes,66,Pulmonary embolism
+,Father,,"Benign prostatic hypertrophy, 
+Hypercholesterolemia,
+Hypertension 
+",,80,Natural causes
+,Sister,,Hypertension,No,NA,NA
+,,,,,,
+,,,,,,
+Alexis Shaw,Mother,,Heart disease,No,,
+,Father,,Hypertension,Yes,58,Prostate cancer
+,,,,,,
+,,,,,,
+,,,,,,
+Alicia Matthews,Mother,,Skin cancer,No,NA,NA
+,Father,,Asthma,No,NA,NA
+,Sister,,Asthma,No,NA,NA
+,,,,,,
+Elaine Verados,Mother,,Breast cancer,No,NA,NA
+,Father,,Diabetes,No,NA,NA
+,,,,,,
+Carl Pike,Mother,,Hypertension,No,NA,NA
+,Father,,Asthma,No,NA,NA
+,Sister,,Hypertension,No,NA,NA
+,,,,,,
+James Phillips,Mother,,Heart disease,Yes,60,Motor vehicle accident
+,Father,,Hypertension,No,,
+,,,,,,
+Anna Jacobs,Mother,,Diabetes,Yes,78,Diabetic complications
+,,,,,,
+Amy Peterson,Mother,,Asthma,Yes,91,Kidney failure
+,Brother,,Diabetes Type II,no,,
+,Father,,Prostate cancer,Yes,88,Prostate cancer
+,,,,,,
+Jason Peterson,Father,,Diabetes,Yes,78,Heart attack
+,Mother,,Hyperlipidemia,Yes,69,Breast cancer
+,,,,,,
+Mark Robinski,Brother,,Asthma,No,,
+,,,,,,
+Mark Shaw,Mother,,Colon cancer,Yes,54,Colon cancer
+,Father,,Asthma,No,,
+,,,,,,
+Anna Lindstrom,Brother,,Asthma,No,,
+,,,,,,
+,,,,,,
+Cathy Hess,Father,,Diabetes,Yes,71,Heart attack
+,Mother,,Hyperlipidemia,No,,
+,,,,,,
+David Olivetti,Father,,Heart disease,No,,
+,Mother,,Skin cancer,No,,
+,Sister,,Asthma,No,,
+,,,,,,
+Juan Ortega,Sister,,Diabetes,No,,
+,,,,,,
+Ian Mikeals,Mother,,Diabetes,No,,
+,Father,,Asthma,No,,
+,,,,,,
+,,,,,,
+,,,,,,
+Gregory Mikeals,Sister,,Asthma,No,,
+,Mother,,Diabetes,Yes,70,Heart attack
+,,,,,,
+,,,,,,
+,,,,,,
+Jessie Hamilton,Mother,,Hypertension,No,,
+,,,,,,
+Cynthia Kyser,Mother,,Skin cancer,No,NA,NA
+,Father,,Asthma,No,NA,NA
+,Sister,,Asthma,No,NA,NA
+,,,,,,
+Jaden Shaw,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Jared Hess,Mother,,Diabetes,Yes,74,Diabetic complications

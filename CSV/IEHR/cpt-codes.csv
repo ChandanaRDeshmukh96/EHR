@@ -1,0 +1,96 @@
+edition,code,type,description,cost
+2018,10060,Surgery,"I&D, Abscess; Sngle/Smpl",98
+2018,10061,Surgery,I&D Abscess; Multi/Complc,215
+2018,10120,Surgery,"I&R, Foreign Body, Smpl",119
+2018,11200,Surgery,"Remove Skin Tags, 1-15",104
+2018,11201,Surgery,"Remove Skin Tags, Addl 10",55
+2018,11730,Surgery,"Avulsion of Nail Plate, 1",107
+2018,20550,Surgery,Injection Trigger Point,419
+2018,20600,Surgery,Arthrocentesis (Small Joint),180
+2018,20605,Surgery,Arthrocentesis (Med Joint),215.5
+2018,20610,Surgery,Arthrocentesis (Large Joint),269
+2018,23500,Treatment (TX),Clavicle,1349
+2018,26600,Treatment (TX),Hand MC,315
+2018,26720,Treatment (TX),Finger/Thumb,241
+2018,27530,Treatment (TX),"Tibia Fracture, Prox/Plateau",683
+2018,27750,Treatment (TX),"Tibia & Fibula Fracture, Shaft",719
+2018,45300,Surgery,Sigmoidoscopy,226
+2018,45330,Surgery,"Sigmoidoscopy, Flexible",257
+2018,45331,Surgery,"Sigmoidoscopy, w/Biopsy",275
+2018,45378,Surgery,Colonoscopy,1879
+2018,99024,E/M,Post-op Visit,48
+2018,73000,Imaging,X-ray Clavicle,82
+2018,73120,Imaging,"X-ray Hand, 2 Views",79
+2018,73130,Imaging,"X-ray Hand, 3 Views",91
+2018,71045,Imaging,"Chest X-ray Single View, Frontal",54
+2018,71046,Imaging,"Chest X-ray Two Views, Frontal and Lateral",68
+2018,73551,Imaging,X-ray Femur,94
+2018,73590,Imaging,X-ray Tibia & Fibula,89
+2018,77067,Imaging,Mammography (Bilateral),134
+2018,36415,Lab,Venipuncture (blood draw),15
+2018,69210,Procedure,Removal of Cerumen,63
+2018,80048,Lab,Basic Metabolic Panel,68
+2018,80050,Lab,General Health Panel,64
+2018,80060,Lab,Lipid Panel,64
+2018,80305,Lab,Urine Drug Screen,75
+2018,81000,Lab,Urinalysis,22
+2018,81001,Lab,Automated Dipstick Urinalysis,25
+2018,82270,Lab,Stool/Occult Blood,15
+2018,82947,Lab,Fasting Blood Glucose,15
+2018,82948,Lab,Glucose Finger Stick,15
+2018,85025,Lab,Complete CBC w/auto diff WBC,62
+2018,87081,Lab,Throat culture,15
+2018,87088,Lab,Urine Culture,34
+2018,87205,Lab,Gram Stain,28
+2018,87270,Lab,Chlamydia,30
+2018,87880,Lab,Rapid Strep Screen,22
+2018,88150,Procedure,Pap Smear,29
+2018,93000,Procedure,ECG Complete,37
+2018,93005,Procedure,EKG (tracing only),30
+2018,93015,Procedure,Treadmill,205
+2018,93040,Procedure,Rhythm ECG w/report,43
+2018,93224,Procedure,24 Hour Holter Monitor,219
+2018,93225,Procedure,Holter (set up),61
+2018,94010,Treatment (TX),Spirometry FEV/FVC,28.5
+2018,94060,Treatment (TX),"Spirometry, Post-Dilator",105
+2018,86580,IMM,Tuberculin PPD (TB Skin Test),28
+2018,90471,IMM,Immun Admin,25
+2018,90472,IMM,"Immun Admin, Ea Add'l",13
+2018,90632,IMM,Hepatitis A Immun,74
+2018,90661,IMM,Influenza Immun,68
+2018,90732,IMM,Pneumovax,32
+2018,90658,IMM,"Influenza Virus Vaccine, 3+",30
+2018,90656,IMM,Influenza Vaccine,33
+2018,90662,IMM,"Influenza Virus Vaccine, 65+",33
+2018,90718,IMM,Tetanus/Diphtheria Vaccine,25
+2018,90746,IMM,Hepatitis B Immun,105
+2018,96372,Medicine,IM injection,21
+2018,95115,Medicine,Antigen Inj SIngle,24
+2018,95117,Medicine,Antigen Inj Multiple,30
+2018,99000,Lab,Specimen Handling,21
+2018,96372,Medicine,Injection,25
+2018,J0780,Medicine,Compazine,32
+2018,J2920,Medicine,SoluMedrol,125
+2018,99201,E/M,NP Brief L1 Prob Focused,56
+2018,99202,E/M,NP Limited L2 Expanded,75
+2018,99203,E/M,NP Intermed L3 Detailed,103
+2018,99204,E/M,NP Extended L4 Comp/Mod,150
+2018,99205,E/M,NP Comp L5 Comp/High,194
+2018,99211,E/M,EP Minimal L1 Min,30
+2018,99212,E/M,EP Brief L2 Prob Focused,45
+2018,99213,E/M,EP Limited L3 Expanded,62
+2018,99214,E/M,EP Intermed L4 Detailed,91
+2018,99215,E/M,EP Comp L5 Comp/High,140
+2018,99241,E/M,Consult Focused LI Prob Focused,95
+2018,99242,E/M,Consult Expanded L2 Expnded,127
+2018,99243,E/M,Consult Detailed L3 Detailed,162
+2018,99244,E/M,Consult Comp L4 Comp/Mod,219
+2018,99245,E/M,Consult Comp L4 Comp/High,293
+2018,99384,E/M,NP Prev 12-17,178
+2018,99385,E/M,NP Prev 18-39,166
+2018,99386,E/M,NP Prev 40-64,180
+2018,99387,E/M,NP Prev 65+,200
+2018,99394,E/M,EP Prev 12-17,149
+2018,99395,E/M,EP Prev 18-39,137
+2018,99396,E/M,EP Prev 40-64,149
+2018,99397,E/M,EP Prev 65+,120

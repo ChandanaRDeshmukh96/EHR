@@ -1,0 +1,7 @@
+insuranceProvider,Address__street,Address__city,Address__state,Address__zipCode,phone,phone1,website,fax,primaryContactName,email,payerId,insurancePlan,Copay
+Medicaid,210 High St,Port Snead,XY,12345-6789,555-123-9000,,medicaidxy.gov,555-123-9001,Ralph Cramden,rcramden@medicaidxy.gov,32165,Straight Medicaid,
+Medicare,1604 Arlington Ave,Easton,XY,65472-9648,555-325-7000,,medicarexy.gov,555-325-7001,Lucie Ball,lball@medicarexy.gov,12547,Original Medicare,
+Fulton Health,30007 Clairmont Dr,Ridgemont,XY,61379-9271,555-947-3548,,fultonhealthxy.gov,555-947-3500,Tiana Williams,twilliams@fultonhealthxy.gov,85716,Indemnity fee-for-service,
+Med-Plus,311 Harper Ave,Brownstown,XY,85641-3674,555-964-1167,,med-plusxy.gov,555-964-1100,Zane Iwu,ziwu@med-plusxy.gov,13647,Managed Care HMO,
+MedCare Advantage,97114 Cotton Ave,Toledo,XY,43603-0213,555-123-4567,,medicarenationwidexy.gov ,555-234-5678,Frank DelRosa,fdelrosa@medcareadvantagexy.gov,25793,Managed Care HMO,
+McGraw-Hill Healthmark,91152 Redwood Ave,Alpena,XY,48927-6412,555-419-9898,,mcgrawhillhealthmarkxy.gov,555-419-8719,Ashanti Williams,awilliams@mcgrawhillhealthmarkxy.gov,14497,Managed Care HMO,

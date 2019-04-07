@@ -1,0 +1,9 @@
+task,assignedTo,createdBy,dueDate,completedStatus,linkedToChart
+Order medications,Benjamin Castillo,John Greenway,4/15/2022,New,NA
+Follow up labs,Dr. Ingram,Meagan Patterson,4/1/2022,New,Carl Pike
+Take lab inventory,Tori Kim,John Greenway,012/28/2021,Completed,NA
+Place ad for new MA,John Greenway,Dr. Ingram,8/25/2022,New,NA
+Update patient's address,Jorge Lopez,Dr. Ingram,2/1/2022,Completed,Juan Ortega
+Order business cards,John Greenway,Dr. Reddy,6/30/2022,New,NA
+Order new ICD and CPT editions,Pamela Little,Dr. Corrotti,10/1/2022,New,NA
+Check mammogram results,Dr. McGrath,Jennifer Holbrook,12/15/2021,Completed,Amy Peterson

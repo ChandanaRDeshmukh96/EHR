@@ -1,0 +1,70 @@
+patientName,Id,Status,Drug type,Drug name,Frequency,Dosage,Quantity,Drug Form,Route,Dose Timing,Duration,Refills,Last Refill date,Number of refills,Date Started,Date Stopped,Fill Date,Reason Stopped,Diagnosis,Default Provider
+Karrie Owens,undefined,Active,Rx,Metformin,Once a day,875 mg,1,Tablet,Oral,One once a day in morning,,,,,1/14/2008,,,NA,Type 2 Diabetes,Dr. Martinez
+,patient not found,Active,Rx,Metformin,Once a day,500 mg,1,Tablet,Oral,Once a day in evening,,,,,(today's appointment date),,,NA,Type 2 Diabetes,Dr. Martinez
+,patient not found,Inactive,Rx,Clarithromycin,Twice a day,500 mg,1,Tablet,Oral,Twice a day,2 weeks,,,,12/12/2015,12/27/2015,,Resolved,Bronchitis,Dr. Kumar
+Kevin Washington,AA002,Active,Rx,Chantix,Twice a day,1 mg,1,Tablet,Oral,Twie a day,4 months,,,,(today's appointment date),,,,Smoking cessation,Dr. Williams
+,patient not found,Inactive,Rx,Metronidazole,Four times a day,250 mg,1,Capsule,Oral,Four times a day,7 days,,,,2/1/2015,2/8/2015,,Resolved,Chlamydia,Dr. Williams
+,patient not found,Inactive,Rx,Metronidazole,Four times a day,375 mg,1,Capsule,Oral,Four times a day,2 weeks,,,,8/4/2012,8/19/2012,,Resolved,Appendicitis,Dr. Williams
+Maria Lopez,AA003,Active,Rx,Simvastatin,Once a day,40 mg,1,Tablet,Oral,Once a day,,,,,9/17/2008,,,NA,Hypercholesterolemia,Dr. Kumar
+,patient not found,Active,Rx,Tramadol,Four times a day,50 mg,1,Tablet,Oral,Four times a day as needed,2 weeks,,,,(today's appointment date),,,,Leg pain,Dr. Kumar
+,patient not found,Inactive,Rx,Bactrim DS,Twice a day,,1,Tablet,Oral,Twice a day,1 week,,,,4/30/2013,,,,UTI,Dr. Martinez
+,,,,,,,,,,,,,,,,,,,,
+Jack Kyser,AA004,Active,Rx,Clarithromycin,Twice a day,250 mg,1,Tablet,Oral,Every 12 hours,10 days,,,,,,(today's appointment date),,Pneumonia,Dr. Cheng
+,patient not found,Active,OTC,Children's multivitamin,Once a day,,1,Tablet,Oral,Once a day,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Dae Kim,AA005,Active,Rx,Metoprolol,Once a day,100 mg,1,Tablet,Oral,Once a day,,,,,10/19/2001,,,,Hypertension,Dr. Mancini
+,patient not found,Active,Rx,Imitrex,As needed,100 mg,1,Tablet,Oral,"At onset of migraine, as needed",,,,,7/15/2006,,,,Migraines,Dr. Mancini
+,patient not found,Active,Rx,Topamax,Twice a day,50 mg,1,Tablet,Oral,Twice a day,,,,,3/10/2015,,,,Migraines,Dr. Mancini
+,patient not found,Inactive,Rx,Inderal,Twice a day,40 mg,1,Tablet,Oral,Twice a day,,,,,7/15/1999,3/10/2010,,Switching to alternate medication,Migraines,Dr. Mancini
+Debra Syzmanski,AA035,,,,,,,,,,,,,,,,,,,
+Hannah Syzmanski,AA036,,,,,,,,,,,,,,,,,,,
+Hiro Tanaka,undefined,,,,,,,,,,,,,,,,,,,
+James Smith,AA031,,,,,,,,,,,,,,,,,,,
+James Smolowski,AA033,,,,,,,,,,,,,,,,,,,
+Jill Simmons,AA030,,,,,,,,,,,,,,,,,,,
+Jo Wong,AA039,,,,,,,,,,,,,,,,,,,
+Kristin Zapata,AA041,,,,,,,,,,,,,,,,,,,
+Li Wong,AA040,,,,,,,,,,,,,,,,,,,
+Lisa Wright,undefined,,,,,,,,,,,,,,,,,,,
+Michael Syzmanski,AA037,,,,,,,,,,,,,,,,,,,
+Michael Syzmanski,AA037,,,,,,,,,,,,,,,,,,,
+Michael Syzmanski,AA037,,,,,,,,,,,,,,,,,,,
+Nancy Stern,AA034,,,,,,,,,,,,,,,,,,,
+Sarabeth Smith,AA032,,,,,,,,,,,,,,,,,,,
+Sarabeth Smith,AA032,,,,,,,,,,,,,,,,,,,
+Stewart Robertson,undefined,,,,,,,,,,,,,,,,,,,
+Ali Mazloum,undefined,,,,,,,,,,,,,,,,,,,
+Susan Arlen,AA006,,,,,,,,,,,,,,,,,,,
+Anthony Battistuta,AA007,,,,,,,,,,,,,,,,,,,
+Pauline Battistuta,AA008,,,,,,,,,,,,,,,,,,,
+Herbert Bell,AA009,,,,,,,,,,,,,,,,,,,
+Janine Bell,AA010,,,,,,,,,,,,,,,,,,,
+Jonathan Bell,AA011,,,,,,,,,,,,,,,,,,,
+Samuel Bell,AA012,,,,,,,,,,,,,,,,,,,
+Sarina Bell,AA013,,,,,,,,,,,,,,,,,,,
+Lawana Brooks,AA014,,,,,,,,,,,,,,,,,,,
+Lawana Brooks,AA014,,,,,,,,,,,,,,,,,,,
+John Fitzwilliams,AA015,,,,,,,,,,,,,,,,,,,
+John Fitzwilliams,AA015,,,,,,,,,,,,,,,,,,,
+Sarah Fitzwilliams,AA016,,,,,,,,,,,,,,,,,,,
+John Gardiner,AA017,,,,,,,,,,,,,,,,,,,
+Sheila Giles,AA018,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Diane Hsu,AA019,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Edwin Hsu,AA020,,,,,,,,,,,,,,,,,,,
+Darnell Jackson,undefined,,,,,,,,,,,,,,,,,,,
+Luther Jackson,AA022,,,,,,,,,,,,,,,,,,,
+Tyrone Jackson,AA023,,,,,,,,,,,,,,,,,,,
+Elizabeth Jones,AA024,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Randall Klein,AA025,,,,,,,,,,,,,,,,,,,
+Carlos Lopez,AA026,,,,,,,,,,,,,,,,,,,
+Christopher Palmer,undefined,,,,,,,,,,,,,,,,,,,
+Raji Patel,AA027,,,,,,,,,,,,,,,,,,,
+Leila Patterson,AA028,,,,,,,,,,,,,,,,,,,
+Paul Ramos,AA029,,,,,,,,,,,,,,,,,,,
+Jorge Barrett,AA042,,,,,,,,,,,,,,,,,,,
+Blake Syzmanski,AA038,,,,,,,,,,,,,,,,,,,

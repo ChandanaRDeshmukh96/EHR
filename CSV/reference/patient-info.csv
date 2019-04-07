@@ -1,0 +1,12 @@
+id,firstName,middleName,lastName,dob,gender,maritalStatus,studentStatus,employmentStatus,Employer,email,ssn,preferredLanguage,race,ethnicity,religion,homePhone,workPhone,chartNumber,patientProfileImage,contact__cell,Address__street,Address__city,Address__state,Address__zipCode
+42,Hiro,,Tanaka,2/20/1989,Female,Single,No,Employed,McCray Manufacturing Inc.,htanaka@patient.com,812-73-6000,English,Asian,"
+
+
+
+Not Hispanic or Latino",Prefer not to answer,555-555-7373,555-555-1001,AA043,ehr/asset/img/patient-profile/default-patient.svg,555-555-0162,"80, Cedar Lane",Stephenson,MI,48089
+43,Lisa,,Wright,3/15/1984,Female,Divorced,No,Employed,"Wheeler, Sampson, and Hull",lwright@patient.com,333-46-7904,English,African American,Not Hispanic or Latino,Protestant,555-555-7059,555-086-9000,AA044,ehr/asset/img/patient-profile/default-patient.svg,555-505-1397,"39, Woodlake Rd",Stephenson,MI,48089
+44,Stewart,,Robertson,12/21/1983,Male,Divorced,No,Employed,Nichols Hardware,srobertson@patient.com,920-39-4567,English,Caucasian,Not Hispanic or Latino,Unaffiliated,555-022-3111,555-789-0200,AA045,ehr/asset/img/patient-profile/default-patient.svg,555-022-3279,"109, West Central Ave.",Stephenson,MI,48089
+45,Ali,,Mazloum,1/15/1988,Male,Divorced,No,Employed,Stephenson Food Mart,amazloum@patient.com,672-18-9731,English,Caucasian,Not Hispanic or Latino,Muslim,555-555-0894,555-315-0077,AA046,ehr/asset/img/patient-profile/default-patient.svg,,"550, Center St., Apt. 1B",Stephenson,MI,48089
+46,Darrell,,Jackson,1/13/2019,Male,Single,Yes,Not employed,,djackson@patient.com,022-36-4790,English,African American,Not Hispanic or Latino,Other Christian,555-033-4579,,AA047,ehr/asset/img/patient-profile/default-patient.svg,,"1515, Spring Valley Road",Grandville,MI,40092
+47,Christopher,,Palmer,1/5/1968,Male,Single,No,Not employed,,cpalmer@patient.com,607-50-7620,English,Caucasian,Not Hispanic or Latino,Unaffiliated,555-077-2249,,AA048,ehr/asset/img/patient-profile/default-patient.svg,555-077-2250,"17, Red Oak Lane",Jefferson,MI,40093
+48,Karrie,Lynn,Owens,12/26/1965,Female,Married,No,Full-time,ENP Enterprises,kowens@patient.com,234-56-7890,English,Caucasian,Not Hispanic or Latino,Catholic,313-555-9971,313-555-6104,AA049,ehr/asset/img/patient-profile/default-patient.svg,313-555-1019,"22147, Barrington",Harper Woods,MI,48225

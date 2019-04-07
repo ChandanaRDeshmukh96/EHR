@@ -1,0 +1,14 @@
+staffId,firstName,middleName,lastName,suffix,dob,(author use only),gender,Address__street,Address__city,Address__state,Address__zipCode,primaryPhone,primaryPhoneType,alternatePhone,alternatePhoneType,email,ssn,empStartDate,position,credentials
+mpatte02,Meagan,Marie,Patterson,,6/9/1974,,F,42807 Wright Ln,Benton Ridge,OH,45816,419-555-9725,cell,,,mpatterson@sbhc.com,648-13-2442,9/1/2014,Medical Assistant,CMA (AAMA)
+jlopez01,Jorge,,Lopez,,10/2/1992,,M,6748 Central Dr,Rawson,OH,45881,419-555-6875,cell,419-555-9009,home,jlopez@sbhc.com,934-11-4978,11/14/2019,Medical Assistant,RMA (AMT)
+apatel01,Amara,,Patel,,7/4/1994,,F,784 Westchester St,Arlington,OH,45814,419-555-0175,cell,419-555-6871,home,apatel@sbhc.com,429-68-4513,6/14/2010,Medical Assistant,CMA (AAMA)
+jholbr02,Jennifer,Lynn,Holbrook,,12/30/1988,,F,34958 Buckingham Dr,Vanlue,OH,45890,567-555-9581,cell,,,jholbrook@sbhc.com,379-43-2014,9/7/2014,Medical Assistant,RMA (AMT)
+jnowak01,Alonya,,Nowak,,9/19/1977,,F,6771 Anita Ct,Alvada,OH,44802,419-555-9109,cell,,,anowak@sbhc.com,411-79-5210,8/15/2013,Nurse,RN
+tkim01,Tori,,Kim,,11/30/1985,,F,1935 Lochmoor Dr,Bloomdale,OH,44817,419-555-8169,cell,419-555-7145,home,tkim@sbhc.com,359-14-1792,3/13/2008,Laboratory Technician,MLT (AMT)
+awilks01,Andrew,James,Wilks,Jr,11/7/1971,,M,20071 Littlestone Ln,Carey,OH,43316,567-555-7706,cell,,,awilks@sbhc.com,527-96-3002,1/30/2002,Radiologic Technician,RT(R)
+chunt01,Cheyenne,,Hunt,,6/25/1989,,F,493 Piper St,Dunkirk,OH,45836,567-555-9087,cell,,,chunt@sbhc.com,364-12-0097,3/11/2019,Phlebotomist,CPT
+plittl02,Pamela,Ann,Little,,4/22/1959,,F,5647 Cushing Dr,Mount Cory,OH,45863,567-555-8405,cell,567-555-6219,home,plittle@sbhc.com,631-99-0217,1/26/2012,Coding Specialist,CPC
+jgreen01,John,,Greenway,,5/4/1973,,M,20117 Carlyle Ave,Hoytville,OH,43529,419-555-9963,cell,,,jgreenway@sbhc.com,322-80-1867,6/29/2014,Office Manager,CPPM
+ytanak01,Yoshi,,Tanaka,,8/4/1991,,M,6721 Hampton Blvd,Findlay,OH,45839,567-555-8174,cell,,,ytanaka@sbhc.com,641-97-2850,9/12/2017,Medical Administrative Specialist,CMAS
+aacy01,Alisha,,Acy,,1/29/1977,,F,86433 Victory St,Van Buren,OH,45889,419-555-6551,cell,419-555-0160,home,aacy@sbhc.com,493-00-0197,10/19/2015,Medical Administrative Specialist,RHIT
+dbaxte01,Diane,,Baxter,,6/4/1961,,F,32799 Oaklawn Dr,Findlay,OH,45839,567-555-1054,cell,,,dbaxter@sbhc.com,379-12-6473,1/19/2014,Medical Administrative Specialist,CMAS

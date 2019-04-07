@@ -1,0 +1,66 @@
+patientName,pmhDescription,diagnosisDate,duration,resolution
+Karrie Owens,Diabetes,1/14/2008,Ongoing,Unresolved
+,Bronchitis,12/12/2015,3 weeks,Resolved
+,Tibia fracture,9/1/1994,6 weeks,Resolved
+Kevin Washington,Chlamydia,2/1/2015,2 weeks,Resolved
+,"Appendicitis, acute",8/4/2012,1 month,Resolved
+Maria Lopez,Elevated cholesterol,3/15/2015,Ongoing,Unresolved
+,Strep throat,11/9/2016,2 weeks,Resolved
+,Urinary tract infection,4/30/2013,1 week,Resolved
+,Uterine fibroids,6/10/2002,6 months,Resolved
+Jack Kyser,Varicella (chicken pox),7/12/2016,2 weeks,Resolved
+Dae Kim,Bowel obstruction,3/19/2003,1 month,Resolved
+,Shingles,5/9/2007,3 weeks,Resolved
+,Migraines,7/15/1999,Ongoing,Unresolved
+,Hypertension,10/19/2001,Ongoing,Unresolved
+Debra Syzmanski,Migraines,,Ongoing,Unresolved
+Hannah Syzmanski,Varicella,1/15/2008,2 weeks,Resolved
+Hiro Tanaka,Hypertension,,Ongoing,Unresolved
+James Smith,Allergic rhinitis,,Ongoing,Unresolved
+James Smolowski,Testicular cancer,6/1/2010,,Resolved
+Jill Simmons,Migraines,,Ongoing,Unresolved
+Jo Wong,Diabetes,,Ongoing,Unresolved
+Kristin Zapata,,,,
+Li Wong,Hypertension,,,
+Lisa Wright,,,,
+Michael Syzmanski,Acne,,Ongoing,Unresolved
+Michael Syzmanski,Eyelid laceration,,,
+Michael Syzmanski,Hemorrhoids,,,
+Nancy Stern,,,,
+Sarabeth Smith,,,,
+Sarabeth Smith,Otitis media,,,
+Stewart Robertson,,,,
+Ali Mazloum,ATV Accident,,,
+Susan Arlen,"Bronchitis, possible pnemonia",,,
+Anthony Battistuta,"Diabetes mellitus, type II",,Ongoing,Unresolved
+Pauline Battistuta,Acute URI,,,
+Herbert Bell,Epidemic parotitis,,,
+Janine Bell,Sprained right hip,,,
+Jonathan Bell,Annual exam,,,
+Samuel Bell,Epidemic parotitis,,,
+Sarina Bell,Otitis media,,,
+Lawana Brooks,Ankle sprain,,,
+Lawana Brooks,Sprain of radial collateral ligament,,,
+John Fitzwilliams,Acute gastric ulcer,,,
+John Fitzwilliams,Acute gastric ulcer,,,
+Sarah Fitzwilliams,Tetanus immunization,,,
+John Gardiner,Essential hypertension,,,
+Sheila Giles,Tetanus immunization,,,
+,Acute upper respiratory infection,,,
+Diane Hsu,Acute gastric ulcer,,,
+,Influenza,,,
+Edwin Hsu,Acute sinusitis,,,
+Darnell Jackson,Checkup and tetanus,,,
+Luther Jackson,Bronchopneumonia,,,
+Tyrone Jackson,Checkup and tetanus,,,
+Elizabeth Jones,Otitis media,,,
+,Arrhythmia,,,
+,Diabetes type II,,,
+Randall Klein,Ankle sprain,,,
+Carlos Lopez,Normal state,,,
+Christopher Palmer,Bronchopneumonia,,,
+Raji Patel,Low back pain,,,
+Leila Patterson,Poison ivy exposure,,,
+Paul Ramos,Acne,,,
+Jorge Barrett,Hypertension,,,
+Blake Syzmanski,Well-child Check,,,

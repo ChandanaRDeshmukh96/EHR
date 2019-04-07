@@ -1,0 +1,27 @@
+Patient Name,Insurance Type(Mandatory),Insurance Carrier(Mandatory),insuranceType,insuranceId,Is the plan active(Mandatory),Patient responsibility (copay/coinsurance),Copay (in $USD),Coinsurance (% patient pays),Deductible(Mandatory),Deductible met(Mandatory),Effective Start date(Mandatory),Effective end date(Mandatory),Guarantor (Yes/No),groupInsId,guarantor,Relationship (for guarantor),Group insurance ID (For guarantor) - (Mandatory for adding guarantor),Dependent Name,Relationship (for dependent),Group insurance ID (For dependent) - (Mandatory for adding dependent)
+Alexis Shaw,Managed Care HMO,MedCare Advantage,Primary,626033781,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,Yes,4168,Alexis Shaw,Self,,,,
+Alicia Matthews,Indemnity fee-for-service,Fulton Health,Primary,302758156,Yes,Coinsurance,,80-20,500,Yes,1/1/2022,012/31/2022,Yes,36541,Alicia Matthews,Self,,,,
+Alicia Matthews,Managed Care HMO,MedCare Advantage,Secondary,67199308,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,Yes,5874,Alicia Matthews,Self,,,,
+Elaine Verados,Managed Care HMO,McGraw-Hill Healthmark,Primary,239550855,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,Yes,25974,Elaine Verados,Self,,,,
+Carl Pike,Straight Medicaid,Medicaid,Primary,139225408,Yes,None,,,0,Yes,1/1/2022,012/31/2022,Yes,96325,Carl Pike,Self,,,,
+James Phillips,Indemnity fee-for-service,Fulton Health,Primary,506327426,Yes,Copay,15,,0,Yes,1/1/2022,012/31/2022,Yes,1236,James Phillips,Self,,,,
+Anna Jacobs,Original Medicare,Medicare,Primary,35068147,Yes,Coinsurance,,80-20,1000,Yes,1/1/2022,012/31/2022,Yes,71548,Anna Jacobs,Self,,,,
+Amy Peterson,Original Medicare,Medicare,Primary,457091563,Yes,Coinsurance,,80-20,1000,Yes,1/1/2022,012/31/2022,Yes,2715,Amy Peterson,Self,,,,
+Jason Peterson,Original Medicare,Medicare,Primary,369451200,Yes,Coinsurance,,80-20,1000,Yes,1/1/2022,012/31/2022,Yes,9612,Jason Peterson,Self,,,,
+Mark Robinski,Managed Care HMO,Med-Plus,Primary,80955436,Yes,Copay,25,,0,Yes,1/1/2022,012/31/2022,Yes,7215,Mark Robinski,Self,,,,
+Mark Shaw,Managed Care HMO,MedCare Advantage,Primary,626033781,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,No,4168,Alexis Shaw,Spouse,4168,Mark Shaw,Spouse,4168
+Anna Lindstrom,Managed Care HMO,McGraw-Hill Healthmark,Primary,ACL1459725,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,Yes,5711,Anna Lindstrom,Self,,,,
+Cathy Hess,Managed Care HMO,McGraw-Hill Healthmark,Primary,GAR512374,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,No,6500,Jared Hess,Spouse,6500,Cathy Hess,Spouse,6500
+David Olivetti,Managed Care HMO,MedCare Advantage,Primary,57893641,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,Yes,7519,David Olivetti,Self,,,,
+Juan Ortega,Managed Care HMO,McGraw-Hill Healthmark,Primary,JAO30077,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,Yes,2019,Juan Ortega,Self,,,,
+Ian Mikeals,Indemnity fee-for-service,Fulton Health,Primary,1037942,Yes,Copay,15,,0,Yes,1/1/2022,012/31/2022,No,2719,Gregory Mikeals,Parent,2179,Ian Mikeals,Child,2179
+Gregory Mikeals,Indemnity fee-for-service,Fulton Health,Primary,1037942,Yes,Copay,15,,0,Yes,1/1/2022,012/31/2022,Yes,2719,Gregory Mikeals,Self,,,,
+Jessie Hamilton,Managed Care HMO,MedCare Advantage,Primary,99678215,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,Yes,396,Jessie Hamilton,Self,,,,
+Karrie Owens,Indemnity fee-for-service,Fulton Health,Primary,874669127,Yes,Copay,15,,0,Yes,1/1/2022,012/31/2022,Yes,48729,Karrie Owens,Self,,,,
+Kevin Washington,Managed Care HMO,Med-Plus,Primary,516987334,Yes,Copay,25,,0,Yes,1/1/2022,012/31/2022,Yes,12936,Kevin Washington,Self,,,,
+Maria Lopez,Original Medicare,Medicare,Primary,719358462,Yes,Coinsurance,,80-20,1000,Yes,1/1/2022,012/31/2022,Yes,75963,Maria Lopez,Self,,,,
+Jack Kyser,Managed Care HMO,MedCare Advantage,Primary,214976529,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,No,5261,Cynthia Kyser,Parent,5261,Jack Kyser,Child,5261
+Dae Kim,Original Medicare,Medicare,Primary,872649887,Yes,Coinsurance,,80-20,1000,Yes,1/1/2022,012/31/2022,Yes,39751,Dae Kim,Self,,,,
+Cynthia Kyser,Managed Care HMO,MedCare Advantage,Primary,214976529,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,Yes,5261,Cynthia Kyser,Self,,,,
+Jaden Shaw,Managed Care HMO,MedCare Advantage,Primary,626033781,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,No,4168,Alexis Shaw,Parent,4168,Jaden Shaw,Child,4168
+Jared Hess,Managed Care HMO,McGraw-Hill Healthmark,Primary,GAR512374,Yes,Copay,20,,0,Yes,1/1/2022,012/31/2022,Yes,6500,Jared Hess,Self,,,,

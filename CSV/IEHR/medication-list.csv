@@ -1,0 +1,92 @@
+patientName,status,drugType,drugName,frequency,dosage,quantity,drugForm,route,doseTiming,duration,Refills,lastRefillDate,noOfRefills,dateStarted,dateStopped,fillDate,reasonStopped,diagnosis,defaultProvider
+Karrie Owens,Active,Rx,Metformin,Once a day,875 mg,1,Tablet,Oral,One once a day in morning,,,,,1/14/2008,,,NA,Type 2 Diabetes,Dr. Ingram
+,Active,Rx,Metformin,Once a day,500 mg,1,Tablet,Oral,Once a day in evening,,,,,,,,NA,Type 2 Diabetes,Dr. Ingram
+,Inactive,Rx,Clarithromycin,Twice a day,500 mg,1,Tablet,Oral,Twice a day,2 weeks,,,,12/12/2015,12/27/2015,,Resolved,Bronchitis,Dr. Ingram
+,,,,,,,,,,,,,,,,,,,
+Kevin Washington,Active,Rx,Chantix,Twice a day,1 mg,1,Tablet,Oral,Twie a day,4 months,,,,,,,,Smoking cessation,Dr. Ingram
+,Inactive,Rx,Metronidazole,Four times a day,250 mg,1,Capsule,Oral,Four times a day,7 days,,,,2/1/2015,2/8/2015,,Resolved,Chlamydia,Dr. Ingram
+,Inactive,Rx,Metronidazole,Four times a day,375 mg,1,Capsule,Oral,Four times a day,2 weeks,,,,8/4/2012,8/19/2012,,Resolved,Appendicitis,Dr. Ingram
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Maria Lopez,Active,Rx,Simvastatin,Once a day,40 mg,1,Tablet,Oral,Once a day,,,,,,,,NA,Hypercholesterolemia,Dr. McGrath
+,Active,Rx,Tramadol,Four times a day,50 mg,1,Tablet,Oral,Four times a day as needed,2 weeks,,,,,,,,Leg pain,Dr. McGrath
+,Inactive,Rx,Bactrim DS,Twice a day,,1,Tablet,Oral,Twice a day,1 week,,,,,,,,UTI,Dr. McGrath
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Jack Kyser,Active,Rx,Clarithromycin,Twice a day,250 mg,1,Tablet,Oral,Every 12 hours,10 days,,,,,,,,Pneumonia,Dr. Reddy
+,Active,OTC,Children's multivitamin,Once a day,,1,Tablet,Oral,Once a day,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Dae Kim,Active,Rx,Metoprolol,Once a day,100 mg,1,Tablet,Oral,Once a day,,,,,10/19/2001,,,,Hypertension,Dr. Mancini
+,Active,Rx,Imitrex,As needed,100 mg,1,Tablet,Oral,"At onset of migraine, as needed",,,,,7/15/2006,,,,Migraines,Dr. Mancini
+,Active,Rx,Topamax,Twice a day,50 mg,1,Tablet,Oral,Twice a day,,,,,3/10/2015,,,,Migraines,Dr. Mancini
+,Inactive,Rx,Inderal,Twice a day,40 mg,1,Tablet,Oral,Twice a day,,,,,7/15/2013,3/10/2015,,Switching to alternate medication,Migraines,Dr. Mancini
+,,,,,,,,,,,,,,,,,,,
+Alexis Shaw,Active,Rx,Imitrex,As needed,100 mg,1,Tablet,Oral,"At onset of migraine, as needed",,,,,,,,,Migraines,Dr. Ingram
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Alicia Matthews,Inactive,Rx,Clarithromycin,Twice a day,500 mg,1,Tablet,Oral,Twice a day,2 weeks,,,,12/12/2015,12/27/2015,,Resolved,Bronchitis,Dr. Reddy
+,Active,OTC,Multivitamin,Once a day,,1,Tablet,Oral,Once a day in evening,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Elaine Verados,Active,Rx,Metformin,Once a day,875 mg,1,Tablet,Oral,One once a day in morning,,,,,1/14/2008,,,NA,Type 2 Diabetes,Dr. Ingram
+,Active,Rx,Metformin,Once a day,500 mg,1,Tablet,Oral,Once a day in evening,,,,,,,,NA,Type 2 Diabetes,Dr. Ingram
+,,,,,,,,,,,,,,,,,,,
+Carl Pike,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+James Phillips,Active,Rx,Simvastatin,Once a day,40 mg,1,Tablet,Oral,Once a day,,,,,,,,NA,Hypercholesterolemia,Dr. Ingram
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Anna Jacobs,Active,Rx,Simvastatin,Once a day,40 mg,1,Tablet,Oral,Once a day,,,,,,,,NA,Hypercholesterolemia,Dr. McGrath
+,,,,,,,,,,,,,,,,,,,
+Amy Peterson,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Jason Peterson,Active,Rx,Metformin,once daily,500 mg,1,tablet,oral,every 24 hours,,,,,,,,,Diabetes Type 2,Dr. Reddy
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Mark Robinski,Active,Rx,Albuterol extended-release,twice a day,4 mg,1,tablet,oral,every 12 hours,,,,,,,,,Asthma,Dr. Corrotti
+,,,,,,,,,,,,,,,,,,,
+Mark Shaw,Active,Rx,Benedryl,every 4-6 hours as needed,25 mg,1,tablet,oral,every 4-6 hours as needed,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Anna Lindstrom,Active,Rx,Albuterol extended-release,twice a day,4 mg,1,tablet,oral,every 12 hours,,,,,,,,,Asthma,Dr. Ingram
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Cathy Hess,Active,Rx,Metformin,once daily,500 mg,1,tablet,oral,every 24 hours,,,,,,,,,Diabetes Type 2,Dr. Reddy
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+David Olivetti,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Juan Ortega,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Ian Mikeals,Active,Rx,Humulin,as directed,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Gregory Mikeals,Active,Rx,Albuterol extended-release,twice a day,4 mg,1,tablet,oral,every 12 hours,,,,,,,,,,
+,Active,Rx,Ambien,once a day,5 mg,1,tablet,oral,every night at bedtime,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Jessie Hamilton,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Cynthia Kyser,Inactive,Rx,Clarithromycin,Twice a day,500 mg,1,Tablet,Oral,Twice a day,2 weeks,,,,12/12/2015,12/27/2015,,Resolved,Bronchitis,Dr. Reddy
+,Active,OTC,Multivitamin,Once a day,,1,Tablet,Oral,Once a day in evening,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Jaden Shaw,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Jared Hess,Active,Rx,Simvastatin,Once a day,40 mg,1,Tablet,Oral,Once a day,,,,,,,,NA,Hypercholesterolemia,Dr. McGrath

@@ -1,0 +1,92 @@
+patientName,alcoholConsumption,frequency,comments,smoking,snomedCat,caffeineUse,illicitDrugs,drugDetails,exercise,sleep,useOfSeatBelt,livingArrangements,marriage,occupation,education,sexuallyActive,number,gender,historyOfSTIDiagnosis,additionalDescription,useOfProtection
+Karrie Owens,Monthly,2-3 alcoholic drinks once a month,Mixed drinks,Never,Never smoker,,Never,,Frequently,6 hours,Always,With family,Married,Accounting,College graduate,Yes,1,men,No,,Never
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Kevin Washington,Weekly,3-6 alcoholic drinks once a week,Beer,Daily,Current every day smoker,,Monthly,Marijuana use,Frequently,7 hours,Always,With friends,Never married,Information technology,Some college,Yes,3,women,Yes,Chlamydia 3 years ago,Always
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Maria Lopez,Monthly,1-2 alcoholic drinks every 4-6 weeks,Wine,Never,Former smoker,,Never,,Occasionally,8 hours,Always,Alone,Widowed,Retired,College graduate,No,0,,No,,NA
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Jack Kyser,Never,,,Never,Never smoker,,Never,,Frequently,8 hours,Always,With family,Never married,Current student,Current student,Never,0,,No,,NA
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Dae Kim,Never,,,Weekly,Current some day smoker,,Never,,Rarely,9 hours,Always,With family,Married,Retired,High school,No,0,,No,,NA
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Alexis Shaw,Monthly,2-3 alcoholic drinks once a month,Mixed drinks,Never,Never smoker,,Never,,Frequently,6 hours,Always,With family,Married,Business,College graduate,Yes,1,men,No,,Never
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Alicia Matthews,Monthly,2-3 alcoholic drinks once a month,Mixed drinks,Never,Never smoker,,Never,,Frequently,6 hours,Always,With family,Single,Education,College graduate,Yes,2,men,No,,Always
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Elaine Verados,No,,,No,Former smoker,Yes,Never,,Rarely,8 hours,Always,With family,Divorced,Retail,Some college,Yes,1,men,No,,Always
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Carl Pike,Monthly,4-Mar,Beers,Never,Never smoker,Yes,Never,,Frequently,7 hours,Always,Alone,Single,Unemployed,Some college,Yes,2,women,No,,Always
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+James Phillips,No,,,Never,,Yes,Never,,Frequently,8 hours,Always,With family,Married,Technology,College graduate,Yes,1,women,No,,Always
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Anna Jacobs,Monthly,1,Mixed drink,No,Former smoker,Yes,Never,,Occasionally,7 hours,Always,Alone,Widowed,Retired,College graduate,No,,,No,,
+,,,,,,,,,,,,,,,,,,,,,
+Amy Peterson,No,,,Never,,Yes,Never,,Rarely,6 hours,Always,With family,Married,Retail,High school,Yes,1,men,No,,Never
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Jason Peterson,No,,,Yes,Current some day smoker,Never,Never,,Occasional,8 hours,Always,With familiy,Married,Retired,College graduate,Yes,1,women,No,,Never
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Mark Robinski,Yes,weekly,2-3 beers,Never,Never smoker,Yes,Never,,Frequently,7 hours,Always,With family,Married,Engineering,College graduate,Yes,1,women,No,,Never
+,,,,,,,,,,,,,,,,,,,,,
+Mark Shaw,No,,,Never,Never smoker,Never,Never,,Frequently,8 hours,Always,With family,Married,Healthcare,College graduate,Yes,1,women,No,,Never
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Anna Lindstrom,No,,,Never,Never smoker,Yes,Never,,Frequently,8 hours,Always,With family,Single,Healthcare,College graduate,No,0,,No,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Cathy Hess,No,,,Yes,Current some day smoker,Never,Never,,Occasional,8 hours,Always,With familiy,Married,Education,College graduate,Yes,1,men,No,,Never
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+David Olivetti,Yes,Monthly,2-3 beers,Never,Never smoker,Yes,Never,,Occasional,7 hours,Always,With family,Married,Accounting/finance,College graduate,Yes,1,women,No,,Never
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Juan Ortega,Yes,Weekly,3-4 mixed drinks,Yes,Current some day smoker,Yes,Yes,Marijuana,Frequently,7 hours,Always,Alone,Single,Retail,Some college,Yes,2,women,No,,Always
+,,,,,,,,,,,,,,,,,,,,,
+Ian Mikeals,No,,,Never,Never smoker,No,No,,Frequently,9 hours,Always,With family,Single,Student,Current student,No,0,,No,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Gregory Mikeals,Yes,Monthly,3-4 beers,No,Former smoker,Yes,No,,Occasionally,8 hours,Always,With family,Divorced,Manufacturing,Some college,Yes,1,women,No,,Always
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Jessie Hamilton,No,,,Never,Never smoker,Yes,No,,Frequently,7 hours,Always,With family,Single,Unemployed,Current student,No,0,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Cynthia Kyser,Monthly,2-3 alcoholic drinks once a month,Mixed drinks,Never,Never smoker,,Never,,Frequently,6 hours,Always,With family,Married,Business Owner/Entrepreneurial,College graduate,Yes,1,men,No,,Always
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Jaden Shaw,No,,,Never,Never smoker,,Never,,Frequently,10 hours,Always,With family,Single,Unemployed,None,No,0,,No,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Jared Hess,Monthly,1,Mixed drink,No,Former smoker,Yes,Never,,Occasionally,7 hours,Always,With family,Married,Education,College graduate,Yes,1,women,No,,Never

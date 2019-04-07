@@ -1,0 +1,119 @@
+edition,code,description
+ICD-10-CM,R10.84,Abdominal pain (generalized)
+ICD-10-CM,R10.30,Abdominal pain (lower)
+ICD-10-CM,R10.9,Abdominal pain (unspecified)
+ICD-10-CM,R10.10,Abdominal pain (upper)
+ICD-10-CM,N91.2,Absence of menstruation
+ICD-10-CM,L02.01,Abscess on cheek
+ICD-10-CM,J30.9,Allergic rhinitis
+ICD-10-CM,J30.2,Allergic rhinitis (other seasonal)
+ICD-10-CM,L50.0,Allergic urticaria (hives)
+ICD-10-CM,D64.9,Anemia
+ICD-10-CM,D50.0,Anemia (iron deficiency due to blood loss)
+ICD-10-CM,D50.9,Anemia (iron deficiency unspecified)
+ICD-10-CM,D51.0,Anemia (pernicious)
+ICD-10-CM,I20.9,Angina pectoris
+ICD-10-CM,F41.9,Anxiety
+ICD-10-CM,I45.9,Arrhythmia
+ICD-10-CM,J45.909,"Asthma (unspecified, uncomplicated)"
+ICD-10-CM,J45.20,"Asthma (mild intermittent, uncomplicated)"
+ICD-10-CM,I25.10,Atherosclerosis (coronary)
+ICD-10-CM,D05.00,Breast cancer
+ICD-10-CM,N63.0,Breast mass
+ICD-10-CM,J20.9,Bronchitis (acute)
+ICD-10-CM,J41.0,Bronchitis (chronic)
+ICD-10-CM,L02.532,Carbuncle of hand (left)
+ICD-10-CM,L02.13,Carbuncle of neck
+ICD-10-CM,L02.531,Carbuncle of hand (right)
+ICD-10-CM,H61.23,Cerumen in ear
+ICD-10-CM,R07.9,Chest pain
+ICD-10-CM,A74.9,Chlamydia
+ICD-10-CM,K80.10,Cholecystitis
+ICD-10-CM,K80.20,Cholelithiasis (gallstones)
+ICD-10-CM,L03.032,Chronic paronychia big toe (left)
+ICD-10-CM,L03.031,Chronic paronychia big toe (right)
+ICD-10-CM,L24.6,Contact dermatitis (due to food)
+ICD-10-CM,L25.9,Contact dermatitis (unspecified)
+ICD-10-CM,R05,Cough
+ICD-10-CM,L02.511,Cutaneous abscess of hand (right)
+ICD-10-CM,L02.512,Cutaneous abscess of hand (left)
+ICD-10-CM,N30.00,"Cystitis (acute, with no hematuria)"
+ICD-10-CM,N30.91,Cystitis (with hematuria)
+ICD-10-CM,L30.9,Dermatitis
+ICD-10-CM,E10.9,"Diabetes (Type 1, controlled)"
+ICD-10-CM,E10.8,"Diabetes (Type 1, with complications)"
+ICD-10-CM,E11.9,"Diabetes (Type 2, controlled)"
+ICD-10-CM,R19.7,Diarrhea
+ICD-10-CM,R04.0,Epistaxis (nosebleed)
+ICD-10-CM,Z80.3,Family history breast cancer
+ICD-10-CM,Z80.9,Family history cancer (unspecified)
+ICD-10-CM,Z83.71,Family history colon polyps
+ICD-10-CM,Z83.3,Family history diabetes
+ICD-10-CM,Z82.49,Family history heart disease
+ICD-10-CM,R53.83,Fatigue
+ICD-10-CM,R50.9,Fever
+ICD-10-CM,S42.022A,Fracture (closed) shaft of clavicle (left)
+ICD-10-CM,S62.92XB,"Fracture (multiple, open) of hand bones (left)"
+ICD-10-CM,S82.201A,Fracture shaft (closed) of tibia (right)
+ICD-10-CM,K52.9,Gastroenteritis
+ICD-10-CM,A54.9,Gonococcal infection
+ICD-10-CM,K40.90,"Hernia, inguinal"
+ICD-10-CM,Z71.7,HIV counseling
+ICD-10-CM,B20,HIV disease
+ICD-10-CM,E78.5,Hyperlipidemia
+ICD-10-CM,I10,Hypertension
+ICD-10-CM,E05.0,Hyperthyroidism
+ICD-10-CM,E03.9,Hypothyroidism
+ICD-10-CM,J11.81,Influenza with encephalopathy
+ICD-10-CM,J09.X3,Influenza with gastrointestinal manifestations
+ICD-10-CM,J11.82,Influenza with myocarditis
+ICD-10-CM,J09.X1,Influenza with pneumonia
+ICD-10-CM,J09.X2,Influenza with respiratory manifestations
+ICD-10-CM,L60.0,Ingrown nail
+ICD-10-CM,K58.0,Irritable bowel syndrome (with diarrhea)
+ICD-10-CM,K58.9,Irritable bowel syndrome (without diarrhea)
+ICD-10-CM,R17,Jaundice
+ICD-10-CM,M25.60,Joint stiffness (NEC)
+ICD-10-CM,J04.0,Laryngitis (acute)
+ICD-10-CM,B85.2,Lice
+ICD-10-CM,G43.909,Migraine headache
+ICD-10-CM,I21.09,Myocardial infarction (acute anterior wall)
+ICD-10-CM,I21.3,Myocardial infarction (acute)
+ICD-10-CM,F17,Nicotine dependence
+ICD-10-CM,E66.9,Obesity
+ICD-10-CM,H60.90,Otitis externa
+ICD-10-CM,H65.9,Otitis media
+ICD-10-CM,G89.1,Pain (acute) not elsewhere classified
+ICD-10-CM,G89.21,Pain (chronic) due to trauma
+ICD-10-CM,M79.629,Pain arm
+ICD-10-CM,M25.552,Pain hip (left)
+ICD-10-CM,M25.551,Pain hip (right)
+ICD-10-CM,M25.562,Pain knee (left)
+ICD-10-CM,M25.561,Pain knee (right)
+ICD-10-CM,G89.4,Pain syndrome (chronic)
+ICD-10-CM,M25.50,Pain unspecified joint
+ICD-10-CM,M54.6,Pain upper back (thoracic)
+ICD-10-CM,J15.7,Pneumonia
+ICD-10-CM,N95.0,Postmenopausal bleeding
+ICD-10-CM,C61,Prostate cancer
+ICD-10-CM,M54.16,Radiculopathy (lumbar)
+ICD-10-CM,R21,Rash
+ICD-10-CM,I05.0,Rheumatic mitral valve stenosis
+ICD-10-CM,I05.9,Rheumatic mitral valve disease (unspecified)
+ICD-10-CM,M06.9,Rheumatoid arthritis
+ICD-10-CM,R10.31,RLQ abd pain
+ICD-10-CM,Z00.00,Routine general medical exam (adult)
+ICD-10-CM,Z00.129,Routine general medical exam (child)
+ICD-10-CM,Z01.419,Routine gynecological exam
+ICD-10-CM,B86,Scabies
+ICD-10-CM,A64,Sexually transmitted disease (unspecified)
+ICD-10-CM,J02.9,Sore throat
+ICD-10-CM,J02.0,Streptococcal pharyngitis (Strep throat)
+ICD-10-CM,B95.0,Streptococcus group A
+ICD-10-CM,I60.9,Subarachnoid hemorrhage (stroke)
+ICD-10-CM,S60.450A,Superficial foreign body (without open wound) index finger (right)
+ICD-10-CM,J06.9,Upper respiratory infection
+ICD-10-CM,N39.0,Urinary tract infection
+ICD-10-CM,L50.2,Urticaria due to cold or heat
+ICD-10-CM,I49.01,Ventricular fibrillation
+ICD-10-CM,B07,Warts

@@ -1,0 +1,18 @@
+||Fields||Validations||Size of the field||,*Appointment Id,startTime,duration,Date,patientName,treatmentDate,providerName,status,appointmentType,reasonForVisit,Contact information will pull from patient info,contact-home ,cell,work,autoAccident,otherAccident,employment,currentIllnessDate,lastIllnessDate,"Dates patient is unable to work in current occupation (From, To dates)",referringProvider,selectedRepeat
+Appointment 1,,8:15,15,,Alicia Matthews,,all docs M-F,checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 2,,9:00,30,,Elaine Verados,,all docs M-F,checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 3,,9:15,15,,Anna Jacobs,,all docs M-F,checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 4,,10:15,15,,Carl Pike,,all docs M-F,checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 5,,10:45,15,,Jason Peterson,,all docs M-F,checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 6,,11:00,30,,James Phillips,,all docs M-F,pending,Follow-up,Acne,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 7,,1:00,30,,Alexis Shaw,,all docs M-F,pending,Follow-up,Blood in urine,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 8,,1:45,15,,Jaden Shaw,,all docs M-F,pending,Follow-up,Foreign body in eye,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 9,,3:00,60,,Cathy Hess,,all docs M-F,pending,Follow-up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 2,,8:30,15,3/31/2022,Amy Peterson,,Rodriguez,checked in waiting,Follow-up,Check up,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 3,,8:15,15,4/4/2022,Mark Robinski,4/4/2022,Ingram,checked out,Follow-up,Diabetic check,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 4,,8:15,15,4/1/2022,Alicia Matthews,4/1/2022,Rodriguez,checked out,Follow-up,Check up,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 5,,9:00,30,4/4/2022,Elaine Verados,4/4/2022,McGrath,checked out,Follow-up,Complete physical,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 6,,9:15,15,3/31/2022,Anna Jacobs,3/31/2022,Reddy,checked out,Follow-up,Leg pain,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 7,,10:15,15,3/30/2022,Carl Pike,3/30/2022,Ingram,checked out,Follow-up,Headaches,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 8,,,,,,,,,,,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 9,,,,,,,,,,,,,,,No,No,No,NA,NA,NA,NA,Never

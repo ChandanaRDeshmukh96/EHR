@@ -1,0 +1,110 @@
+name,description,Manufacturer,dosage1,dosage2,dosage3,dosage4
+acetaminophen,Tylenol,,325 mg; two tabs po,500 mg; two tabs po q 8 h,325 mg; two tabs po q 6 h,
+acetaminophen/hydrocodone,Norco,,5/325 mg; one tab po q 6 h prn,5/325 mg; one tab po q 8 h prn,7.5/325 mg; one tab po q 6 h prn,7.5/325 mg; one tab po q 8 h prn
+adenosine,,,3 mg IM,6 mg IV rapid IV bolus,,
+albuterol extended-release,,,4 mg; one tab po bid,8 mg; one tab po bid,,
+alprazolam,Xanax,,0.25 mg; one tab po bid,0.25 mg; one tab po tid,0.5 mg; one tab po tid,1 mg; one tab po bid
+amlodipine,Norvasc,,5 mg; one tab po daily,10 mg; one tab po daily,,
+amoxicillin,,,500 mg; one tab po tid,875 mg; one tab po tid,500 mg; one tab po bid,
+aspirin,,,81 mg; one tab po daily,325 mg; one tab po daily,325 mg; one tab po q 8 h prn,
+atenolol,Tenormin,,50 mg; one tab po daily,50 mg; one tab po bid,100 mg; one tab po daily,
+atorvastatin,Lipitor,,10 mg; one tab po daily,20 mg; one tab po daily,40 mg; one tab po daily,80 mg; one tab po daily
+atropine,Atropen,,as directed,,,
+benzalkonium chloride,,,as directed,,,
+bupropion,Wellbutrin,,75 mg; one tab po q 8 h,100 mg; one tab po q 12 h,100 mg; one tab po q 8 h,150 mg; one tab po daily
+calcium,,,1 gram; one tab po daily,,,
+candesartan cilexetil,Atacand,,8 mg; one tab po daily,8 mg; one tab po bid,16 mg; one tab po daily,8 mg; one tab po tid
+captopril,Capoten,,25 mg; one tab po bid,25 mg; one tab po tid,50 mg; one tab po bid,50 mg; one tab po tid
+carvedilol,Coreg,,3.125 mg; one tab po bid,6.25 mg; one tab po bid,12.5 mg; one tab po bid,25 mg; one tab po bid
+carvedilol ER,Coreg CR,,10 mg; one tab po daily,20 mg; one tab po daily,40 mg; one tab po daily,80 mg; one tab po daily
+ceftriaxone,Rocephin,,1g/50 mL; administer 250 mg IM,1g/50 mL; administer 500 mg IM,1g/50 mL; administer 50 mg IM,
+citalopram,Celexa,,6.25 mg; one tab po bid,12.5 mg; one tab po bid,25 mg; one tab po bid,
+clarithromycin oral suspension,Biaxin,,250mg/5mL; 5 mL po q 12 h,250mg/5mL; 10 mL po q 12 h,125mg/5mL; 5 mL po q 12 h,
+clarithromycin oral tablet,Biaxin,,500 mg; one tab po q 12 h,1000 mg; one tab po q 24 h,250 mg; one tab po q 12 h,
+clonazepam,Klonopin,,0.5 mg; one tab po tid,1 mg; one tab po tid,2 mg; one tab po tid,
+clopidogrel,Plavix,,75 mg; one tab po daily,,,
+clorazepate dipotassium,Tranxene 3.75 mg tab,,3.75 mg; one tab po tid,7.5 mg; one tab po tid,15 mg; one tab po daily,15 mg; one tab po bid
+cyanocobalamin injection,Vitamin B12 injection,,500 mcg IM (1000 mcg/mL),1000 mcg IM (1000 mcg/mL),,
+cyclobenzaprine,Flexeril,,5 mg; one tab po bid,5 mg; one tab po tid,10 mg; one tab po bid,10 mg; one tab po tid
+dexamethasone,Decadron,,as directed,,,
+dextrose,,,50% solution via IV as directed,,,
+"dextrose 5%, in 0.9% normal saline",,,intravenously as directed,,,
+"dextrose 5%, in water",,,intravenously as directed,,,
+diazepam,Valium,,2 mg; one tab po bid,2 mg; one tab po tid,5 mg; one tab po bid,10 mg; one tab po tid
+digoxin,Lanoxin,,0.125 mg; one tab po daily,0.5 mg; one tab po daily,,
+diphenhydramine hydrochloride,Benadryl,,25 mg; one tab po q 4-6 h prn,25 mg; two tabs po q 4-6 h prn,,
+divalproex sodium,Depakote,,250 mg; one tab po bid,250 mg; one tab po tid,250 mg; one tab po four times daily,
+docusate sodium elixer,Colace Syrup,,150mg/15mL; mix 15 mL into 8 ounces of juice or milk twice daily,60mg/15mL; mix 15 mL into 8 ounces of juice or milk twice daily,,
+duloxetine,Cymbalta,,20 mg; one tab po bid,30 mg; one tab po bid,60 mg; one tab po daily,
+"epinephrine, injectable",Sus-Phrine,,as directed,,,
+escitalopram,Lexapro,,10 mg; one tab po daily,10 mg; one tab po bid,,
+estradiol,Estrace,,"0.5 mg; two tabs po daily for three weeks, followed by one week off","0.5 mg; two tabs po bid for three weeks, followed by one week off","1 mg; one tab po daily for three weeks, followed by one week off",
+ethinyl estradiol/norgestimate,Ortho Tri-Cyclen,,use as directed,,,
+fluoxetine,Prozac,,10 mg; one tab po daily,20 mg; one tab po daily,20 mg; two tab po daily,60 mg; one tab po daily
+fluticasone,Flonase,,2 sprays in each nostril daily,1 spray in each nostril bid,,
+furosemide,Lasix,,20 mg; one tab po daily,20 mg; one tab po daily,40 mg; one tab po daily,40 mg; one tab po bid
+gabapentin,Neurontin,,300 mg; one cap po tid,400 mg; one cap po tid,600 mg; one cap po tid,800 mg; one cap po tid
+glipizide,Glucotrol,,2.5 mg; one tab po daily before breakfast,5 mg; one tab po daily before breakfast,5 mg; one tab po bid before meals,
+glipizide ER,Glucotrol XL,,5 mg; one tab po daily before breakfast,10 mg; one tab po daily before breakfast,,
+glucagon,Glucogen,,1 mg IM,2 mg IM,0.5 mg via IV,2 mg via IV
+glyburide,Diabeta,,1.25 mg; one tab po daily,2.5 mg; one tab po daily,2.5 mg; two tabs po daily,5 mg; one tab po daily
+guaifenesin,Robitussin cough syrup,,1 tbs po q 4 h,2 tbs po q 4 h,,
+heparin,,,1.5 mL subcut,,,
+hydrochlorothiazide (HCTZ),Microzide,,"12,5 mg; one tab po daily",25 mg; one tab po daily,25 mg; one tab po bid,50 mg; one tab po daily
+hydrochlorothiazide and lisinopril,Zestoretic,,10/12.5 mg; one tab po daily,20/12.5 mg; one tab po daily,20/25 mg; one tab po daily,
+hydrocortisone sodium succinate,Solu Cortef,,100 mg via IV as directed,500 mg via IV as directed,100 mg IM,250 mg IM
+hydroxyzine,Vistaril suspension 25mg/mL,,25 mg IM (25 mg/mL),50 mg IM (25 mg/mL),,
+hydroxyzine,Vistaril suspension 100mg/5mL,,25 mg po q 6-8 h (100 mg/5 mL),50 mg po q 6-8 h (100 mg/5 mL),,
+hyoscyamine sulfate,Levsin,,0.125 mg; one to two tab q 4 h prn,0.125 mg; one half to one tab q 4 h prn,,
+ibuprofen,,,200 mg; two tab po q 8 h,400 mg; one tab po q 8 h,600 mg; one tab po q 8 h,800 mg; one tab po q 8 h
+insulin glargine,Lantus,,as directed,,,
+insulin human,Humulin,,as directed,,,
+insulin regular,Humulin R,,10 units subcutaneously,20 units subcutaneously,30 units subcutaneously,40 units subcutaneously
+isoproterenol hydrochloride,Isuprel,,0.2 mg (1 mL) IM,0.2 mg (1 mL) subcut,aerosol inhaler as directed,
+lactated ringer's injection,Lactated Ringer's,,intravenously as directed,,,
+levothyroxine,Synthroid,,25 mcg; one tablet daily,50 mcg; one tablet daily,75 mcg; one tablet daily,88 mcg; one tablet daily
+"lidocaine, injectable",Xylocaine,,as directed,,,
+"lidocaine, topical",Xylocaine,,use topically as directed,,,
+lisinopril,Prinivil,,5 mg; one tab po daily,10 mg; one tab po daily,20 mg; one tab po daily,20 mg; two tab po daily
+losartan,Cozaar,,25 mg; one tab po daily,50 mg; one tab po daily,100 mg; one tab po daily,
+lovastatin,Mevacor,,10 mg; one tab po daily with evening meal,20 mg; one tab po daily with evening meal,40 mg; one tab po daily with evening meal,40 mg; one tab po bid
+medroxyprogesterone acetate,Provera,,2.5 mg; one tab po bid as directed,5 mg; one tab po daily as directed,5 mg; one tab po bid as directed,10 mg; one tab po daily
+meloxicam,Mobic,,7.5 mg; one tablet po daily,15 mg; one tab po daily,,
+metformin,Glucophage,,500 mg; one tab po daily,500 mg; one tab po bid,850 mg; one tab po daily,850 mg; one tab po bid
+metformin ER,Glucophage XR,,500 mg; one tab po daily in pm with evening meal,1000 mg; one tab po daily in pm with evening meal,2000 mg; one tab po daily in pm with evening meal,
+methadone hydrochloride injection,,,10mg/mL;10 mg IM as directed,,,
+methylprednisolone (taper dose),Medrol Dosepak,,Begin with 8 mg and taper dose as directed over 12 days,,,
+methylprednisolone sodium succinate,Solu Medrol,,10 mg IM,20 mg IM,40 mg IM,0.3 gram via IV as directed
+methylprednisolone tablets,Medrol,,4 mg; one tab po daily,4 mg; one tab po bid,8 mg; one tab po daily,8 mg; one tab every other day
+metoprolol,Lopressor,,50 mg; one tab po daily,50 mg; one tab po daily,50 mg; one tab po bid,100 mg; one tab po daily
+metoprolol ER,Toprol XL,,25 mg; one tab po daily,50 mg; one tab po daily,100 mg; one tab po daily,100 mg; one tab po bid
+montelukast,Singulair,,10 mg; one tab po daily q pm,10 mg; one tab po 2 hours before exercise,,
+naloxone HCl,Narcan,,as directed,,,
+nitroglycerin,Nitrostat,,0.3 mg; one tab sublingual every 5 min until relief; up to 3 tab,0.4 mg; one tab sublingual every 5 min until relief; up to 3 tab,0.6 mg; one tab sublingual every 5 min until relief; up to 3 tab,1/150 grain; one tab sublingual every 5 min until relief; up to 3 tab
+omeprazole,Prilosec,,20 mg; one tab po daily,20 mg; one tab prn before meals,,
+pantoprazole,Protonix,,40 mg; one tab po daily,,,
+penicillin (PCN),,,150 mg; one tab po q 8 h,500 mg; one tab po q 8 h,875 mg; one tab po q 12 h,
+"phenobarbital, injectable",,,30 mg IM (30 mg/mL),60 mg IM (60 mg/mL),65 mg IM (65 mg/mL),130 mg IM (130 mg/mL)
+phenytoin,Dilantin,,100 mg; one tab po tid,300 mg; one tab po daily,200 mg; one po tid,50 mg; chew two tab tid
+potassium chloride,Klor-Con,,8 mEq; one tab po daily,10 mEq; one tab po daily,,
+pravastatin,Pravachol,,20 mg; one tab po daily,40 mg; one tab po daily,80 mg; one tab po daily,
+prednisolone,Hydeltra,,as directed,,,
+prednisone,,,10 mg; one tab po daily,10 mg; one tab po bid,10 mg; one tab tid,
+prochlorperazine,Compazine,,5mg/mL; 5 mg IM q 6 h prn,5mg/mL; 10 mg IM q 8 h prm,10 mg; one tab po q 6 h prn,25 mg; one suppository rectally bid
+ranitidine,Zantac,,75 mg; one tab po daily,75 mg; one tab po bid,150 mg; one tab po daily,150 mg; one tab po bid
+rosuvastatin,Crestor,,5 mg; one tab po daily,10 mg; one tab po daily,20 mg; one tab po daily,40 mg; one tab po daily
+sertraline,,,50 mg; one tab po daily,100 mg; one tab po daily,,
+simvasttin,Zocor,,10 mg; one tab po daily,20 mg; one tab po daily,40 mg; one tab po daily,80 mg; one tab po daily
+sitagliptin,Januvia,,25 mg; one tab po daily,50 mg; one tab po daily,100 mg; one tab po daily,
+"sodium bicarbonate, injectable",,,as directed,,,
+sulfa (sulfadiazine),,,500 mg; one tab po bid,500 mg; one tab po tid,,
+tamsulosin,Flomax,,0.4 mg; one tab daily,0.8 mg; one tab po daily,,
+testosterone,,,100 mg IM (100mg/mL),200 mg IM (200 mg/mL),,
+tetracaine hydrochloride,Pontocaine,,apply a small amount to skin as directed,,,
+tramadol,Ultram,,50 mg; one half tablet bid,50 mg; one tablet po bid,50 mg; one tab po tid,50 mg; one tab po four times daily
+trazadone,Desyrel,,50 mg; one tab po q 8-12 h,100 mg; one tab po q 8-12 h,150 mg; one tab po q 8-12 h,
+trimethobenzamide hydrochloride,Tigan 200mg IM,,200 mg; one tab po q 4-6 h prn,300 mg; one tab po q 4-6 h prn,,
+valproic acid oral solution 250 mg/mL,,,as directed,,,
+venlafaxine,Effexor,,25 mg; one tab po q 8-12 h,37.5 mg; one tab po q 8-12 h,50 mg; one tab po q 8-12 h,100 mg; one tab po q 8-12 h
+warfarin,Coumadin,,5 mg; take as directed by physician,6 mg; take as directed by physician,7.5 mg; take as directed by physician,10 mg; take as directed by physician
+zolpidem,Ambien,,5 mg; one tab po q hs,10 mg; one tab po q hs,,

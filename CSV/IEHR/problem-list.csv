@@ -1,0 +1,92 @@
+patientName,problemReported,icdCodeEdition,icdCode,diagnosisDate,duration,durationUnit,status
+Karrie Owens,Diabetes,10,E11.9,1/14/2008,,,Unresolved
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Kevin Washington,Seasonal allergies,10,J30.2,,,,Resolved
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Maria Lopez,Lower leg pain,10,M25.552,,,,Unresolved
+,Elevated cholesterol,10,E78.5,9/17/2018,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Jack Kyser,Pneumonia,10,J15.7,9/12/2020,2,weeks,Resolved
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Dae Kim,Hypertension,10,I10,10/19/2001,,,Unresolved
+,Migraines,10,G43.909,7/15/2004,,,Unresolved
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Alexis Shaw,Migraines,10,G43.909,,,,Unresolved
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Alicia Matthews,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Elaine Verados,Diabetes,10,E11.9,1/14/2008,,,Unresolved
+,,,,,,,
+,,,,,,,
+Carl Pike,Seasonal allergies,10,J30.2,,,,Unresolved
+,,,,,,,
+,,,,,,,
+,,,,,,,
+James Phillips,Elevated cholesterol,10,E78.5,9/17/2018,,,Unresolved
+,,,,,,,
+,,,,,,,
+Anna Jacobs,Elevated cholesterol,10,E78.5,9/17/2018,,,Unresolved
+,,,,,,,
+Amy Peterson,Anxiety,10,F41.9,10/15/2019,,,Unresolved
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Jason Peterson,Diabetes Type 2,10,E11.9,,,,unresolved
+,Anxiety Disorder,10,F41.9,4/9/2020,,,unresolved
+,,,,,,,
+Mark Robinski,Asthma,10,J45.909,3/15/2005,,,unresolved
+,,,,,,,
+Mark Shaw,Allergic rhinitis,10,J30.9,6/15/2020,,,unresolved
+,,,,,,,
+,,,,,,,
+Anna Lindstrom,Asthma,10,J45.909,3/15/2005,,,unresolved
+,,,,,,,
+,,,,,,,
+Cathy Hess,Diabetes Type 2,10,E11.9,,,,unresolved
+,Anxiety Disorder,10,F41.9,4/9/2020,,,unresolved
+,,,,,,,
+David Olivetti,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Juan Ortega,Dermatitis,10,L30.9,10/1/2021,,,unresolved
+,,,,,,,
+Ian Mikeals,Diabetes (Type 1),10,E10.9,3/15/2017,,,unresolved
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Gregory Mikeals,Anxiety,10,F41.9,10/15/2019,,,Unresolved
+,Asthma,10,J45.909,3/15/2005,,,Unresolved
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Jessie Hamilton,Dermatitis,10,L30.9,10/1/2021,,,unresolved
+,,,,,,,
+Cynthia Kyser,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Jaden Shaw,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Jared Hess,Elevated cholesterol,10,E78.5,9/17/2018,,,Unresolved
