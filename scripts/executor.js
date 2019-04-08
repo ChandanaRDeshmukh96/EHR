@@ -44,6 +44,9 @@ function staffAndPatient(){
 
 function insurance(){
     console.log("\n\ncreating insurance data...\n\n");
+
+    // using promises to make synchronous calls
+    
     
     var p1 = new Promise (function (resolve, reject){
         setTimeout(()=>{
