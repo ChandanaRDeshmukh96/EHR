@@ -1,1 +1,323 @@
-{"info":{"status":"200","message":"OK"},"data":{"AA018":[{"id":1,"problemReported":"Diabetes","icdCode":"E11.9","edition":"ICD-10-CM","diagnosisDate":"1/14/2008","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA019":[{"id":1,"problemReported":"Seasonal allergies","icdCode":"J30.2","edition":"ICD-10-CM","diagnosisDate":"","dateModified":"Jan 09,2018 10:30 am","status":"Resolved","duration":"NA","durationUnit":"NA"}],"AA020":[{"id":1,"problemReported":"Lower leg pain","icdCode":"M25.552","edition":"ICD-10-CM","diagnosisDate":"","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"},{"id":2,"problemReported":"Elevated cholesterol","icdCode":"E78.5","edition":"ICD-10-CM","diagnosisDate":"9/17/2018","dateModified":"Jan 09,2018 10:30 am","status":"","duration":"NA","durationUnit":"NA"}],"AA021":[{"id":1,"problemReported":"Pneumonia","icdCode":"J15.7","edition":"ICD-10-CM","diagnosisDate":"9/12/2020","dateModified":"Jan 09,2018 10:30 am","status":"Resolved","duration":"2","durationUnit":"Week(s)"}],"AA022":[{"id":1,"problemReported":"Hypertension","icdCode":"I10","edition":"ICD-10-CM","diagnosisDate":"10/19/2001","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"},{"id":2,"problemReported":"Migraines","icdCode":"G43.909","edition":"ICD-10-CM","diagnosisDate":"7/15/2004","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA001":[{"id":1,"problemReported":"Migraines","icdCode":"G43.909","edition":"ICD-10-CM","diagnosisDate":"","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA003":[{"id":1,"problemReported":"Diabetes","icdCode":"E11.9","edition":"ICD-10-CM","diagnosisDate":"1/14/2008","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA004":[{"id":1,"problemReported":"Seasonal allergies","icdCode":"J30.2","edition":"ICD-10-CM","diagnosisDate":"","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA005":[{"id":1,"problemReported":"Elevated cholesterol","icdCode":"E78.5","edition":"ICD-10-CM","diagnosisDate":"9/17/2018","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA006":[{"id":1,"problemReported":"Elevated cholesterol","icdCode":"E78.5","edition":"ICD-10-CM","diagnosisDate":"9/17/2018","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA007":[{"id":1,"problemReported":"Anxiety","icdCode":"F41.9","edition":"ICD-10-CM","diagnosisDate":"10/15/2019","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA008":[{"id":1,"problemReported":"Diabetes Type 2","icdCode":"E11.9","edition":"ICD-10-CM","diagnosisDate":"","dateModified":"Jan 09,2018 10:30 am","status":"unresolved","duration":"NA","durationUnit":"NA"},{"id":2,"problemReported":"Anxiety Disorder","icdCode":"F41.9","edition":"ICD-10-CM","diagnosisDate":"4/9/2020","dateModified":"Jan 09,2018 10:30 am","status":"unresolved","duration":"NA","durationUnit":"NA"}],"AA009":[{"id":1,"problemReported":"Asthma","icdCode":"J45.909","edition":"ICD-10-CM","diagnosisDate":"3/15/2005","dateModified":"Jan 09,2018 10:30 am","status":"unresolved","duration":"NA","durationUnit":"NA"}],"AA010":[{"id":1,"problemReported":"Allergic rhinitis","icdCode":"J30.9","edition":"ICD-10-CM","diagnosisDate":"6/15/2020","dateModified":"Jan 09,2018 10:30 am","status":"unresolved","duration":"NA","durationUnit":"NA"}],"AA012":[{"id":1,"problemReported":"Diabetes Type 2","icdCode":"E11.9","edition":"ICD-10-CM","diagnosisDate":"","dateModified":"Jan 09,2018 10:30 am","status":"unresolved","duration":"NA","durationUnit":"NA"},{"id":2,"problemReported":"Anxiety Disorder","icdCode":"F41.9","edition":"ICD-10-CM","diagnosisDate":"4/9/2020","dateModified":"Jan 09,2018 10:30 am","status":"unresolved","duration":"NA","durationUnit":"NA"}],"AA014":[{"id":1,"problemReported":"Dermatitis","icdCode":"L30.9","edition":"ICD-10-CM","diagnosisDate":"10/1/2021","dateModified":"Jan 09,2018 10:30 am","status":"unresolved","duration":"NA","durationUnit":"NA"}],"AA015":[{"id":1,"problemReported":"Diabetes (Type 1)","icdCode":"E10.9","edition":"ICD-10-CM","diagnosisDate":"3/15/2017","dateModified":"Jan 09,2018 10:30 am","status":"unresolved","duration":"NA","durationUnit":"NA"}],"AA016":[{"id":1,"problemReported":"Anxiety","icdCode":"F41.9","edition":"ICD-10-CM","diagnosisDate":"10/15/2019","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"},{"id":2,"problemReported":"Asthma","icdCode":"J45.909","edition":"ICD-10-CM","diagnosisDate":"3/15/2005","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA017":[{"id":1,"problemReported":"Dermatitis","icdCode":"L30.9","edition":"ICD-10-CM","diagnosisDate":"10/1/2021","dateModified":"Jan 09,2018 10:30 am","status":"unresolved","duration":"NA","durationUnit":"NA"}],"AA025":[{"id":1,"problemReported":"Elevated cholesterol","icdCode":"E78.5","edition":"ICD-10-CM","diagnosisDate":"9/17/2018","dateModified":"Jan 09,2018 10:30 am","status":"Unresolved","duration":"NA","durationUnit":"NA"}]}}
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": {
+        "AA018": [
+            {
+                "id": 1,
+                "problemReported": "Diabetes",
+                "icdCode": "E11.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "1/14/2008",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA019": [
+            {
+                "id": 1,
+                "problemReported": "Seasonal allergies",
+                "icdCode": "J30.2",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Resolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA020": [
+            {
+                "id": 1,
+                "problemReported": "Lower leg pain",
+                "icdCode": "M25.552",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "problemReported": "Elevated cholesterol",
+                "icdCode": "E78.5",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "9/17/2018",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA021": [
+            {
+                "id": 1,
+                "problemReported": "Pneumonia",
+                "icdCode": "J15.7",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "9/12/2020",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Resolved",
+                "duration": "2",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA022": [
+            {
+                "id": 1,
+                "problemReported": "Hypertension",
+                "icdCode": "I10",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "10/19/2001",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "problemReported": "Migraines",
+                "icdCode": "G43.909",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "7/15/2004",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA001": [
+            {
+                "id": 1,
+                "problemReported": "Migraines",
+                "icdCode": "G43.909",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA003": [
+            {
+                "id": 1,
+                "problemReported": "Diabetes",
+                "icdCode": "E11.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "1/14/2008",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA004": [
+            {
+                "id": 1,
+                "problemReported": "Seasonal allergies",
+                "icdCode": "J30.2",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA005": [
+            {
+                "id": 1,
+                "problemReported": "Elevated cholesterol",
+                "icdCode": "E78.5",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "9/17/2018",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA006": [
+            {
+                "id": 1,
+                "problemReported": "Elevated cholesterol",
+                "icdCode": "E78.5",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "9/17/2018",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA007": [
+            {
+                "id": 1,
+                "problemReported": "Anxiety",
+                "icdCode": "F41.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "10/15/2019",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA008": [
+            {
+                "id": 1,
+                "problemReported": "Diabetes Type 2",
+                "icdCode": "E11.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "problemReported": "Anxiety Disorder",
+                "icdCode": "F41.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "4/9/2020",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA009": [
+            {
+                "id": 1,
+                "problemReported": "Asthma",
+                "icdCode": "J45.909",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "3/15/2005",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA010": [
+            {
+                "id": 1,
+                "problemReported": "Allergic rhinitis",
+                "icdCode": "J30.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "6/15/2020",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA012": [
+            {
+                "id": 1,
+                "problemReported": "Diabetes Type 2",
+                "icdCode": "E11.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "problemReported": "Anxiety Disorder",
+                "icdCode": "F41.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "4/9/2020",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA014": [
+            {
+                "id": 1,
+                "problemReported": "Dermatitis",
+                "icdCode": "L30.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "10/1/2021",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA015": [
+            {
+                "id": 1,
+                "problemReported": "Diabetes (Type 1)",
+                "icdCode": "E10.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "3/15/2017",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA016": [
+            {
+                "id": 1,
+                "problemReported": "Anxiety",
+                "icdCode": "F41.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "10/15/2019",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "problemReported": "Asthma",
+                "icdCode": "J45.909",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "3/15/2005",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA017": [
+            {
+                "id": 1,
+                "problemReported": "Dermatitis",
+                "icdCode": "L30.9",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "10/1/2021",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA025": [
+            {
+                "id": 1,
+                "problemReported": "Elevated cholesterol",
+                "icdCode": "E78.5",
+                "edition": "ICD-10-CM",
+                "diagnosisDate": "9/17/2018",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ]
+    }
+}

@@ -1,1 +1,482 @@
-{"info":{"status":"200","message":"OK"},"data":{"ICD-10-CM":{"000.00":{"description":"Placeholder","cost":"0"},"R10.30":{"description":"Abdominal pain (lower)","cost":"0"},"R10.9":{"description":"Abdominal pain (unspecified)","cost":"0"},"R10.10":{"description":"Abdominal pain (upper)","cost":"0"},"N91.2":{"description":"Absence of menstruation","cost":"0"},"L02.01":{"description":"Abscess on cheek","cost":"0"},"J30.9":{"description":"Allergic rhinitis","cost":"0"},"J30.2":{"description":"Allergic rhinitis (other seasonal)","cost":"0"},"L50.0":{"description":"Allergic urticaria (hives)","cost":"0"},"D64.9":{"description":"Anemia","cost":"0"},"D50.0":{"description":"Anemia (iron deficiency due to blood loss)","cost":"0"},"D50.9":{"description":"Anemia (iron deficiency unspecified)","cost":"0"},"D51.0":{"description":"Anemia (pernicious)","cost":"0"},"I20.9":{"description":"Angina pectoris","cost":"0"},"F41.9":{"description":"Anxiety","cost":"0"},"I45.9":{"description":"Arrhythmia","cost":"0"},"J45.909":{"description":"Asthma (unspecified, uncomplicated)","cost":"0"},"J45.20":{"description":"Asthma (mild intermittent, uncomplicated)","cost":"0"},"I25.10":{"description":"Atherosclerosis (coronary)","cost":"0"},"D05.00":{"description":"Breast cancer","cost":"0"},"N63.0":{"description":"Breast mass","cost":"0"},"J20.9":{"description":"Bronchitis (acute)","cost":"0"},"J41.0":{"description":"Bronchitis (chronic)","cost":"0"},"L02.532":{"description":"Carbuncle of hand (left)","cost":"0"},"L02.13":{"description":"Carbuncle of neck","cost":"0"},"L02.531":{"description":"Carbuncle of hand (right)","cost":"0"},"H61.23":{"description":"Cerumen in ear","cost":"0"},"R07.9":{"description":"Chest pain","cost":"0"},"A74.9":{"description":"Chlamydia","cost":"0"},"K80.10":{"description":"Cholecystitis","cost":"0"},"K80.20":{"description":"Cholelithiasis (gallstones)","cost":"0"},"L03.032":{"description":"Chronic paronychia big toe (left)","cost":"0"},"L03.031":{"description":"Chronic paronychia big toe (right)","cost":"0"},"L24.6":{"description":"Contact dermatitis (due to food)","cost":"0"},"L25.9":{"description":"Contact dermatitis (unspecified)","cost":"0"},"R05":{"description":"Cough","cost":"0"},"L02.511":{"description":"Cutaneous abscess of hand (right)","cost":"0"},"L02.512":{"description":"Cutaneous abscess of hand (left)","cost":"0"},"N30.00":{"description":"Cystitis (acute, with no hematuria)","cost":"0"},"N30.91":{"description":"Cystitis (with hematuria)","cost":"0"},"L30.9":{"description":"Dermatitis","cost":"0"},"E10.9":{"description":"Diabetes (Type 1, controlled)","cost":"0"},"E10.8":{"description":"Diabetes (Type 1, with complications)","cost":"0"},"E11.9":{"description":"Diabetes (Type 2, controlled)","cost":"0"},"R19.7":{"description":"Diarrhea","cost":"0"},"R04.0":{"description":"Epistaxis (nosebleed)","cost":"0"},"Z80.3":{"description":"Family history breast cancer","cost":"0"},"Z80.9":{"description":"Family history cancer (unspecified)","cost":"0"},"Z83.71":{"description":"Family history colon polyps","cost":"0"},"Z83.3":{"description":"Family history diabetes","cost":"0"},"Z82.49":{"description":"Family history heart disease","cost":"0"},"R53.83":{"description":"Fatigue","cost":"0"},"R50.9":{"description":"Fever","cost":"0"},"S42.022A":{"description":"Fracture (closed) shaft of clavicle (left)","cost":"0"},"S62.92XB":{"description":"Fracture (multiple, open) of hand bones (left)","cost":"0"},"S82.201A":{"description":"Fracture shaft (closed) of tibia (right)","cost":"0"},"K52.9":{"description":"Gastroenteritis","cost":"0"},"A54.9":{"description":"Gonococcal infection","cost":"0"},"K40.90":{"description":"Hernia, inguinal","cost":"0"},"Z71.7":{"description":"HIV counseling","cost":"0"},"B20":{"description":"HIV disease","cost":"0"},"E78.5":{"description":"Hyperlipidemia","cost":"0"},"I10":{"description":"Hypertension","cost":"0"},"E05.0":{"description":"Hyperthyroidism","cost":"0"},"E03.9":{"description":"Hypothyroidism","cost":"0"},"J11.81":{"description":"Influenza with encephalopathy","cost":"0"},"J09.X3":{"description":"Influenza with gastrointestinal manifestations","cost":"0"},"J11.82":{"description":"Influenza with myocarditis","cost":"0"},"J09.X1":{"description":"Influenza with pneumonia","cost":"0"},"J09.X2":{"description":"Influenza with respiratory manifestations","cost":"0"},"L60.0":{"description":"Ingrown nail","cost":"0"},"K58.0":{"description":"Irritable bowel syndrome (with diarrhea)","cost":"0"},"K58.9":{"description":"Irritable bowel syndrome (without diarrhea)","cost":"0"},"R17":{"description":"Jaundice","cost":"0"},"M25.60":{"description":"Joint stiffness (NEC)","cost":"0"},"J04.0":{"description":"Laryngitis (acute)","cost":"0"},"B85.2":{"description":"Lice","cost":"0"},"G43.909":{"description":"Migraine headache","cost":"0"},"I21.09":{"description":"Myocardial infarction (acute anterior wall)","cost":"0"},"I21.3":{"description":"Myocardial infarction (acute)","cost":"0"},"F17":{"description":"Nicotine dependence","cost":"0"},"E66.9":{"description":"Obesity","cost":"0"},"H60.90":{"description":"Otitis externa","cost":"0"},"H65.9":{"description":"Otitis media","cost":"0"},"G89.1":{"description":"Pain (acute) not elsewhere classified","cost":"0"},"G89.21":{"description":"Pain (chronic) due to trauma","cost":"0"},"M79.629":{"description":"Pain arm","cost":"0"},"M25.552":{"description":"Pain hip (left)","cost":"0"},"M25.551":{"description":"Pain hip (right)","cost":"0"},"M25.562":{"description":"Pain knee (left)","cost":"0"},"M25.561":{"description":"Pain knee (right)","cost":"0"},"G89.4":{"description":"Pain syndrome (chronic)","cost":"0"},"M25.50":{"description":"Pain unspecified joint","cost":"0"},"M54.6":{"description":"Pain upper back (thoracic)","cost":"0"},"J15.7":{"description":"Pneumonia","cost":"0"},"N95.0":{"description":"Postmenopausal bleeding","cost":"0"},"C61":{"description":"Prostate cancer","cost":"0"},"M54.16":{"description":"Radiculopathy (lumbar)","cost":"0"},"R21":{"description":"Rash","cost":"0"},"I05.0":{"description":"Rheumatic mitral valve stenosis","cost":"0"},"I05.9":{"description":"Rheumatic mitral valve disease (unspecified)","cost":"0"},"M06.9":{"description":"Rheumatoid arthritis","cost":"0"},"R10.31":{"description":"RLQ abd pain","cost":"0"},"Z00.00":{"description":"Routine general medical exam (adult)","cost":"0"},"Z00.129":{"description":"Routine general medical exam (child)","cost":"0"},"Z01.419":{"description":"Routine gynecological exam","cost":"0"},"B86":{"description":"Scabies","cost":"0"},"A64":{"description":"Sexually transmitted disease (unspecified)","cost":"0"},"J02.9":{"description":"Sore throat","cost":"0"},"J02.0":{"description":"Streptococcal pharyngitis (Strep throat)","cost":"0"},"B95.0":{"description":"Streptococcus group A","cost":"0"},"I60.9":{"description":"Subarachnoid hemorrhage (stroke)","cost":"0"},"S60.450A":{"description":"Superficial foreign body (without open wound) index finger (right)","cost":"0"},"J06.9":{"description":"Upper respiratory infection","cost":"0"},"N39.0":{"description":"Urinary tract infection","cost":"0"},"L50.2":{"description":"Urticaria due to cold or heat","cost":"0"},"I49.01":{"description":"Ventricular fibrillation","cost":"0"},"B07":{"description":"Warts","cost":"0"}}}}
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": {
+        "ICD-10-CM": {
+            "000.00": {
+                "description": "Placeholder",
+                "cost": "0"
+            },
+            "R10.30": {
+                "description": "Abdominal pain (lower)",
+                "cost": "0"
+            },
+            "R10.9": {
+                "description": "Abdominal pain (unspecified)",
+                "cost": "0"
+            },
+            "R10.10": {
+                "description": "Abdominal pain (upper)",
+                "cost": "0"
+            },
+            "N91.2": {
+                "description": "Absence of menstruation",
+                "cost": "0"
+            },
+            "L02.01": {
+                "description": "Abscess on cheek",
+                "cost": "0"
+            },
+            "J30.9": {
+                "description": "Allergic rhinitis",
+                "cost": "0"
+            },
+            "J30.2": {
+                "description": "Allergic rhinitis (other seasonal)",
+                "cost": "0"
+            },
+            "L50.0": {
+                "description": "Allergic urticaria (hives)",
+                "cost": "0"
+            },
+            "D64.9": {
+                "description": "Anemia",
+                "cost": "0"
+            },
+            "D50.0": {
+                "description": "Anemia (iron deficiency due to blood loss)",
+                "cost": "0"
+            },
+            "D50.9": {
+                "description": "Anemia (iron deficiency unspecified)",
+                "cost": "0"
+            },
+            "D51.0": {
+                "description": "Anemia (pernicious)",
+                "cost": "0"
+            },
+            "I20.9": {
+                "description": "Angina pectoris",
+                "cost": "0"
+            },
+            "F41.9": {
+                "description": "Anxiety",
+                "cost": "0"
+            },
+            "I45.9": {
+                "description": "Arrhythmia",
+                "cost": "0"
+            },
+            "J45.909": {
+                "description": "Asthma (unspecified, uncomplicated)",
+                "cost": "0"
+            },
+            "J45.20": {
+                "description": "Asthma (mild intermittent, uncomplicated)",
+                "cost": "0"
+            },
+            "I25.10": {
+                "description": "Atherosclerosis (coronary)",
+                "cost": "0"
+            },
+            "D05.00": {
+                "description": "Breast cancer",
+                "cost": "0"
+            },
+            "N63.0": {
+                "description": "Breast mass",
+                "cost": "0"
+            },
+            "J20.9": {
+                "description": "Bronchitis (acute)",
+                "cost": "0"
+            },
+            "J41.0": {
+                "description": "Bronchitis (chronic)",
+                "cost": "0"
+            },
+            "L02.532": {
+                "description": "Carbuncle of hand (left)",
+                "cost": "0"
+            },
+            "L02.13": {
+                "description": "Carbuncle of neck",
+                "cost": "0"
+            },
+            "L02.531": {
+                "description": "Carbuncle of hand (right)",
+                "cost": "0"
+            },
+            "H61.23": {
+                "description": "Cerumen in ear",
+                "cost": "0"
+            },
+            "R07.9": {
+                "description": "Chest pain",
+                "cost": "0"
+            },
+            "A74.9": {
+                "description": "Chlamydia",
+                "cost": "0"
+            },
+            "K80.10": {
+                "description": "Cholecystitis",
+                "cost": "0"
+            },
+            "K80.20": {
+                "description": "Cholelithiasis (gallstones)",
+                "cost": "0"
+            },
+            "L03.032": {
+                "description": "Chronic paronychia big toe (left)",
+                "cost": "0"
+            },
+            "L03.031": {
+                "description": "Chronic paronychia big toe (right)",
+                "cost": "0"
+            },
+            "L24.6": {
+                "description": "Contact dermatitis (due to food)",
+                "cost": "0"
+            },
+            "L25.9": {
+                "description": "Contact dermatitis (unspecified)",
+                "cost": "0"
+            },
+            "R05": {
+                "description": "Cough",
+                "cost": "0"
+            },
+            "L02.511": {
+                "description": "Cutaneous abscess of hand (right)",
+                "cost": "0"
+            },
+            "L02.512": {
+                "description": "Cutaneous abscess of hand (left)",
+                "cost": "0"
+            },
+            "N30.00": {
+                "description": "Cystitis (acute, with no hematuria)",
+                "cost": "0"
+            },
+            "N30.91": {
+                "description": "Cystitis (with hematuria)",
+                "cost": "0"
+            },
+            "L30.9": {
+                "description": "Dermatitis",
+                "cost": "0"
+            },
+            "E10.9": {
+                "description": "Diabetes (Type 1, controlled)",
+                "cost": "0"
+            },
+            "E10.8": {
+                "description": "Diabetes (Type 1, with complications)",
+                "cost": "0"
+            },
+            "E11.9": {
+                "description": "Diabetes (Type 2, controlled)",
+                "cost": "0"
+            },
+            "R19.7": {
+                "description": "Diarrhea",
+                "cost": "0"
+            },
+            "R04.0": {
+                "description": "Epistaxis (nosebleed)",
+                "cost": "0"
+            },
+            "Z80.3": {
+                "description": "Family history breast cancer",
+                "cost": "0"
+            },
+            "Z80.9": {
+                "description": "Family history cancer (unspecified)",
+                "cost": "0"
+            },
+            "Z83.71": {
+                "description": "Family history colon polyps",
+                "cost": "0"
+            },
+            "Z83.3": {
+                "description": "Family history diabetes",
+                "cost": "0"
+            },
+            "Z82.49": {
+                "description": "Family history heart disease",
+                "cost": "0"
+            },
+            "R53.83": {
+                "description": "Fatigue",
+                "cost": "0"
+            },
+            "R50.9": {
+                "description": "Fever",
+                "cost": "0"
+            },
+            "S42.022A": {
+                "description": "Fracture (closed) shaft of clavicle (left)",
+                "cost": "0"
+            },
+            "S62.92XB": {
+                "description": "Fracture (multiple, open) of hand bones (left)",
+                "cost": "0"
+            },
+            "S82.201A": {
+                "description": "Fracture shaft (closed) of tibia (right)",
+                "cost": "0"
+            },
+            "K52.9": {
+                "description": "Gastroenteritis",
+                "cost": "0"
+            },
+            "A54.9": {
+                "description": "Gonococcal infection",
+                "cost": "0"
+            },
+            "K40.90": {
+                "description": "Hernia, inguinal",
+                "cost": "0"
+            },
+            "Z71.7": {
+                "description": "HIV counseling",
+                "cost": "0"
+            },
+            "B20": {
+                "description": "HIV disease",
+                "cost": "0"
+            },
+            "E78.5": {
+                "description": "Hyperlipidemia",
+                "cost": "0"
+            },
+            "I10": {
+                "description": "Hypertension",
+                "cost": "0"
+            },
+            "E05.0": {
+                "description": "Hyperthyroidism",
+                "cost": "0"
+            },
+            "E03.9": {
+                "description": "Hypothyroidism",
+                "cost": "0"
+            },
+            "J11.81": {
+                "description": "Influenza with encephalopathy",
+                "cost": "0"
+            },
+            "J09.X3": {
+                "description": "Influenza with gastrointestinal manifestations",
+                "cost": "0"
+            },
+            "J11.82": {
+                "description": "Influenza with myocarditis",
+                "cost": "0"
+            },
+            "J09.X1": {
+                "description": "Influenza with pneumonia",
+                "cost": "0"
+            },
+            "J09.X2": {
+                "description": "Influenza with respiratory manifestations",
+                "cost": "0"
+            },
+            "L60.0": {
+                "description": "Ingrown nail",
+                "cost": "0"
+            },
+            "K58.0": {
+                "description": "Irritable bowel syndrome (with diarrhea)",
+                "cost": "0"
+            },
+            "K58.9": {
+                "description": "Irritable bowel syndrome (without diarrhea)",
+                "cost": "0"
+            },
+            "R17": {
+                "description": "Jaundice",
+                "cost": "0"
+            },
+            "M25.60": {
+                "description": "Joint stiffness (NEC)",
+                "cost": "0"
+            },
+            "J04.0": {
+                "description": "Laryngitis (acute)",
+                "cost": "0"
+            },
+            "B85.2": {
+                "description": "Lice",
+                "cost": "0"
+            },
+            "G43.909": {
+                "description": "Migraine headache",
+                "cost": "0"
+            },
+            "I21.09": {
+                "description": "Myocardial infarction (acute anterior wall)",
+                "cost": "0"
+            },
+            "I21.3": {
+                "description": "Myocardial infarction (acute)",
+                "cost": "0"
+            },
+            "F17": {
+                "description": "Nicotine dependence",
+                "cost": "0"
+            },
+            "E66.9": {
+                "description": "Obesity",
+                "cost": "0"
+            },
+            "H60.90": {
+                "description": "Otitis externa",
+                "cost": "0"
+            },
+            "H65.9": {
+                "description": "Otitis media",
+                "cost": "0"
+            },
+            "G89.1": {
+                "description": "Pain (acute) not elsewhere classified",
+                "cost": "0"
+            },
+            "G89.21": {
+                "description": "Pain (chronic) due to trauma",
+                "cost": "0"
+            },
+            "M79.629": {
+                "description": "Pain arm",
+                "cost": "0"
+            },
+            "M25.552": {
+                "description": "Pain hip (left)",
+                "cost": "0"
+            },
+            "M25.551": {
+                "description": "Pain hip (right)",
+                "cost": "0"
+            },
+            "M25.562": {
+                "description": "Pain knee (left)",
+                "cost": "0"
+            },
+            "M25.561": {
+                "description": "Pain knee (right)",
+                "cost": "0"
+            },
+            "G89.4": {
+                "description": "Pain syndrome (chronic)",
+                "cost": "0"
+            },
+            "M25.50": {
+                "description": "Pain unspecified joint",
+                "cost": "0"
+            },
+            "M54.6": {
+                "description": "Pain upper back (thoracic)",
+                "cost": "0"
+            },
+            "J15.7": {
+                "description": "Pneumonia",
+                "cost": "0"
+            },
+            "N95.0": {
+                "description": "Postmenopausal bleeding",
+                "cost": "0"
+            },
+            "C61": {
+                "description": "Prostate cancer",
+                "cost": "0"
+            },
+            "M54.16": {
+                "description": "Radiculopathy (lumbar)",
+                "cost": "0"
+            },
+            "R21": {
+                "description": "Rash",
+                "cost": "0"
+            },
+            "I05.0": {
+                "description": "Rheumatic mitral valve stenosis",
+                "cost": "0"
+            },
+            "I05.9": {
+                "description": "Rheumatic mitral valve disease (unspecified)",
+                "cost": "0"
+            },
+            "M06.9": {
+                "description": "Rheumatoid arthritis",
+                "cost": "0"
+            },
+            "R10.31": {
+                "description": "RLQ abd pain",
+                "cost": "0"
+            },
+            "Z00.00": {
+                "description": "Routine general medical exam (adult)",
+                "cost": "0"
+            },
+            "Z00.129": {
+                "description": "Routine general medical exam (child)",
+                "cost": "0"
+            },
+            "Z01.419": {
+                "description": "Routine gynecological exam",
+                "cost": "0"
+            },
+            "B86": {
+                "description": "Scabies",
+                "cost": "0"
+            },
+            "A64": {
+                "description": "Sexually transmitted disease (unspecified)",
+                "cost": "0"
+            },
+            "J02.9": {
+                "description": "Sore throat",
+                "cost": "0"
+            },
+            "J02.0": {
+                "description": "Streptococcal pharyngitis (Strep throat)",
+                "cost": "0"
+            },
+            "B95.0": {
+                "description": "Streptococcus group A",
+                "cost": "0"
+            },
+            "I60.9": {
+                "description": "Subarachnoid hemorrhage (stroke)",
+                "cost": "0"
+            },
+            "S60.450A": {
+                "description": "Superficial foreign body (without open wound) index finger (right)",
+                "cost": "0"
+            },
+            "J06.9": {
+                "description": "Upper respiratory infection",
+                "cost": "0"
+            },
+            "N39.0": {
+                "description": "Urinary tract infection",
+                "cost": "0"
+            },
+            "L50.2": {
+                "description": "Urticaria due to cold or heat",
+                "cost": "0"
+            },
+            "I49.01": {
+                "description": "Ventricular fibrillation",
+                "cost": "0"
+            },
+            "B07": {
+                "description": "Warts",
+                "cost": "0"
+            }
+        }
+    }
+}

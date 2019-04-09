@@ -18,6 +18,7 @@ function findChartNo(firstName, lastName) {
 function createPatientData(element, i) {
 
     var dataObj = {};
+    dataObj.id = i;
     dataObj.pastSurgery = element.pastSurgery;
     dataObj.dateOfSurgery = moment(element.dateOfSurgery).format("MM/DD/YYYY") !==  "Invalid date"? moment(element.dateOfSurgery).format("MM/DD/YYYY") : "";
     dataObj.dateModified = "Jan 09,2018 10:30 am";
@@ -79,26 +80,14 @@ function dataWrapper(data) {
     return patientSurgicalHistoryData;
 }
 // function that can be accessible outside this file 
-module.exports = function accessLevels() {
+module.exports = function () {
     csv()
         .fromFile(csvFilePath)
         .then((jsonObj) => {
             var formattedData = dataWrapper(jsonObj);
             fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
                 if (err) throw err;
-                console.log('group insurance data created!');
+                console.log('surgical history data created!');
             });
         });
     };
-    
-    
-    // redefineing the same piece of code so that this file can be solely executed.
-    csv()
-        .fromFile(csvFilePath)
-        .then((jsonObj) => {
-            var formattedData = dataWrapper(jsonObj);
-            fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-                if (err) throw err;
-                console.log('group insurance data created!');
-            });
-        });

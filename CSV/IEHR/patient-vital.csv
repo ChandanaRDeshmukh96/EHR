@@ -1,0 +1,12 @@
+S.No,patientName,height,weight,BMI,BP,armExamined,patientPosition,pulse,respiratoryRate,temperature,selectedTempType,painScale,headCircumference,spo2,date,time
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,Mark Robinski,71 inches,208 pounds,,130/84,Left,Sitting,82,18,98.6 degrees F,oral,0,,99%,4/4/2022,8:30
+,Alicia Matthews,65 inches,139 pounds,,118/80,Right,Sitting,86,16,98.6 degrees F,oral,0,,99%,4/1/2022,8:25
+,Elaine Verados,63 inches,134 pounds,,122/74,Left,Sitting,72,18,98.6 degrees F,oral,0,,98%,4/4/2022,9:10
+,Anna Jacobs,67 inches,158 pounds,,126/82,Left,Sitting,68,18,98.6 degrees F,oral,4,,99%,3/31/2022,9:20
+,Carl Pike,73 inches,199 pounds,,140/92,Right,Sitting,80,16,98.6 degrees F,oral,2,,97%,3/30/2022,10:30
+,Kevin Washington,73 inches,224.6 pounds,29.6,122/82 mmHg,Left,Sitting,76,16,97.5 degrees F,oral,3,,96%,4/9/2021,9:45
+,James Phillips,71 inches,192.0 pounds,,118/78 mmHg,Right,Sitting,66,18,98.5 degrees F,oral,0,,99%,11/18/2020,11:40
+,Alexis Shaw,64 inches,134.0 pounds,,116/80 mmHg,Right,Sitting,72,16,98.6 degrees F,oral,0,,99%,4/19/2021,9:00
+,Jack Kyser,48 inches,53 pounds,,110/60,Right,Sitting,92,24,101.7 degrees F,aural,0,,94%,9/12/2021,11:40

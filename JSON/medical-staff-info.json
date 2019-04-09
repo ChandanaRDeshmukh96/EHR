@@ -1,1 +1,346 @@
-{"info":{"status":"200","message":"OK"},"data":[{"staffId":"mpatte02","firstName":"Meagan","middleName":"Marie","lastName":"Patterson","suffix":"","dob":"6/9/1974","gender":"F","address":{"street":"42807 Wright Ln","city":"Benton Ridge","state":"OH","zipCode":"45816"},"contact":{"primaryPhone":"419-555-9725","primaryPhoneType":"cell","alternatePhone":"","alternatePhoneType":""},"email":"mpatterson@sbhc.com","ssn":"648-13-2442","empStartDate":"9/1/2014","position":"Medical Assistant","credentials":"CMA (AAMA)"},{"staffId":"jlopez01","firstName":"Jorge","middleName":"","lastName":"Lopez","suffix":"","dob":"10/2/1992","gender":"M","address":{"street":"6748 Central Dr","city":"Rawson","state":"OH","zipCode":"45881"},"contact":{"primaryPhone":"419-555-6875","primaryPhoneType":"cell","alternatePhone":"419-555-9009","alternatePhoneType":"home"},"email":"jlopez@sbhc.com","ssn":"934-11-4978","empStartDate":"11/14/2019","position":"Medical Assistant","credentials":"RMA (AMT)"},{"staffId":"apatel01","firstName":"Amara","middleName":"","lastName":"Patel","suffix":"","dob":"7/4/1994","gender":"F","address":{"street":"784 Westchester St","city":"Arlington","state":"OH","zipCode":"45814"},"contact":{"primaryPhone":"419-555-0175","primaryPhoneType":"cell","alternatePhone":"419-555-6871","alternatePhoneType":"home"},"email":"apatel@sbhc.com","ssn":"429-68-4513","empStartDate":"6/14/2010","position":"Medical Assistant","credentials":"CMA (AAMA)"},{"staffId":"jholbr02","firstName":"Jennifer","middleName":"Lynn","lastName":"Holbrook","suffix":"","dob":"12/30/1988","gender":"F","address":{"street":"34958 Buckingham Dr","city":"Vanlue","state":"OH","zipCode":"45890"},"contact":{"primaryPhone":"567-555-9581","primaryPhoneType":"cell","alternatePhone":"","alternatePhoneType":""},"email":"jholbrook@sbhc.com","ssn":"379-43-2014","empStartDate":"9/7/2014","position":"Medical Assistant","credentials":"RMA (AMT)"},{"staffId":"jnowak01","firstName":"Alonya","middleName":"","lastName":"Nowak","suffix":"","dob":"9/19/1977","gender":"F","address":{"street":"6771 Anita Ct","city":"Alvada","state":"OH","zipCode":"44802"},"contact":{"primaryPhone":"419-555-9109","primaryPhoneType":"cell","alternatePhone":"","alternatePhoneType":""},"email":"anowak@sbhc.com","ssn":"411-79-5210","empStartDate":"8/15/2013","position":"Nurse","credentials":"RN"},{"staffId":"tkim01","firstName":"Tori","middleName":"","lastName":"Kim","suffix":"","dob":"11/30/1985","gender":"F","address":{"street":"1935 Lochmoor Dr","city":"Bloomdale","state":"OH","zipCode":"44817"},"contact":{"primaryPhone":"419-555-8169","primaryPhoneType":"cell","alternatePhone":"419-555-7145","alternatePhoneType":"home"},"email":"tkim@sbhc.com","ssn":"359-14-1792","empStartDate":"3/13/2008","position":"Laboratory Technician","credentials":"MLT (AMT)"},{"staffId":"awilks01","firstName":"Andrew","middleName":"James","lastName":"Wilks","suffix":"Jr","dob":"11/7/1971","gender":"M","address":{"street":"20071 Littlestone Ln","city":"Carey","state":"OH","zipCode":"43316"},"contact":{"primaryPhone":"567-555-7706","primaryPhoneType":"cell","alternatePhone":"","alternatePhoneType":""},"email":"awilks@sbhc.com","ssn":"527-96-3002","empStartDate":"1/30/2002","position":"Radiologic Technician","credentials":"RT(R)"},{"staffId":"chunt01","firstName":"Cheyenne","middleName":"","lastName":"Hunt","suffix":"","dob":"6/25/1989","gender":"F","address":{"street":"493 Piper St","city":"Dunkirk","state":"OH","zipCode":"45836"},"contact":{"primaryPhone":"567-555-9087","primaryPhoneType":"cell","alternatePhone":"","alternatePhoneType":""},"email":"chunt@sbhc.com","ssn":"364-12-0097","empStartDate":"3/11/2019","position":"Phlebotomist","credentials":"CPT"},{"staffId":"plittl02","firstName":"Pamela","middleName":"Ann","lastName":"Little","suffix":"","dob":"4/22/1959","gender":"F","address":{"street":"5647 Cushing Dr","city":"Mount Cory","state":"OH","zipCode":"45863"},"contact":{"primaryPhone":"567-555-8405","primaryPhoneType":"cell","alternatePhone":"567-555-6219","alternatePhoneType":"home"},"email":"plittle@sbhc.com","ssn":"631-99-0217","empStartDate":"1/26/2012","position":"Coding Specialist","credentials":"CPC"},{"staffId":"jgreen01","firstName":"John","middleName":"","lastName":"Greenway","suffix":"","dob":"5/4/1973","gender":"M","address":{"street":"20117 Carlyle Ave","city":"Hoytville","state":"OH","zipCode":"43529"},"contact":{"primaryPhone":"419-555-9963","primaryPhoneType":"cell","alternatePhone":"","alternatePhoneType":""},"email":"jgreenway@sbhc.com","ssn":"322-80-1867","empStartDate":"6/29/2014","position":"Office Manager","credentials":"CPPM"},{"staffId":"ytanak01","firstName":"Yoshi","middleName":"","lastName":"Tanaka","suffix":"","dob":"8/4/1991","gender":"M","address":{"street":"6721 Hampton Blvd","city":"Findlay","state":"OH","zipCode":"45839"},"contact":{"primaryPhone":"567-555-8174","primaryPhoneType":"cell","alternatePhone":"","alternatePhoneType":""},"email":"ytanaka@sbhc.com","ssn":"641-97-2850","empStartDate":"9/12/2017","position":"Medical Administrative Specialist","credentials":"CMAS"},{"staffId":"aacy01","firstName":"Alisha","middleName":"","lastName":"Acy","suffix":"","dob":"1/29/1977","gender":"F","address":{"street":"86433 Victory St","city":"Van Buren","state":"OH","zipCode":"45889"},"contact":{"primaryPhone":"419-555-6551","primaryPhoneType":"cell","alternatePhone":"419-555-0160","alternatePhoneType":"home"},"email":"aacy@sbhc.com","ssn":"493-00-0197","empStartDate":"10/19/2015","position":"Medical Administrative Specialist","credentials":"RHIT"},{"staffId":"dbaxte01","firstName":"Diane","middleName":"","lastName":"Baxter","suffix":"","dob":"6/4/1961","gender":"F","address":{"street":"32799 Oaklawn Dr","city":"Findlay","state":"OH","zipCode":"45839"},"contact":{"primaryPhone":"567-555-1054","primaryPhoneType":"cell","alternatePhone":"","alternatePhoneType":""},"email":"dbaxter@sbhc.com","ssn":"379-12-6473","empStartDate":"1/19/2014","position":"Medical Administrative Specialist","credentials":"CMAS"}]}
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": [
+        {
+            "staffId": "mpatte02",
+            "firstName": "Meagan",
+            "middleName": "Marie",
+            "lastName": "Patterson",
+            "suffix": "",
+            "dob": "6/9/1974",
+            "gender": "F",
+            "address": {
+                "street": "42807 Wright Ln",
+                "city": "Benton Ridge",
+                "state": "OH",
+                "zipCode": "45816"
+            },
+            "contact": {
+                "primaryPhone": "419-555-9725",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "",
+                "alternatePhoneType": ""
+            },
+            "email": "mpatterson@sbhc.com",
+            "ssn": "648-13-2442",
+            "empStartDate": "9/1/2014",
+            "position": "Medical Assistant",
+            "credentials": "CMA (AAMA)"
+        },
+        {
+            "staffId": "jlopez01",
+            "firstName": "Jorge",
+            "middleName": "",
+            "lastName": "Lopez",
+            "suffix": "",
+            "dob": "10/2/1992",
+            "gender": "M",
+            "address": {
+                "street": "6748 Central Dr",
+                "city": "Rawson",
+                "state": "OH",
+                "zipCode": "45881"
+            },
+            "contact": {
+                "primaryPhone": "419-555-6875",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "419-555-9009",
+                "alternatePhoneType": "home"
+            },
+            "email": "jlopez@sbhc.com",
+            "ssn": "934-11-4978",
+            "empStartDate": "11/14/2019",
+            "position": "Medical Assistant",
+            "credentials": "RMA (AMT)"
+        },
+        {
+            "staffId": "apatel01",
+            "firstName": "Amara",
+            "middleName": "",
+            "lastName": "Patel",
+            "suffix": "",
+            "dob": "7/4/1994",
+            "gender": "F",
+            "address": {
+                "street": "784 Westchester St",
+                "city": "Arlington",
+                "state": "OH",
+                "zipCode": "45814"
+            },
+            "contact": {
+                "primaryPhone": "419-555-0175",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "419-555-6871",
+                "alternatePhoneType": "home"
+            },
+            "email": "apatel@sbhc.com",
+            "ssn": "429-68-4513",
+            "empStartDate": "6/14/2010",
+            "position": "Medical Assistant",
+            "credentials": "CMA (AAMA)"
+        },
+        {
+            "staffId": "jholbr02",
+            "firstName": "Jennifer",
+            "middleName": "Lynn",
+            "lastName": "Holbrook",
+            "suffix": "",
+            "dob": "12/30/1988",
+            "gender": "F",
+            "address": {
+                "street": "34958 Buckingham Dr",
+                "city": "Vanlue",
+                "state": "OH",
+                "zipCode": "45890"
+            },
+            "contact": {
+                "primaryPhone": "567-555-9581",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "",
+                "alternatePhoneType": ""
+            },
+            "email": "jholbrook@sbhc.com",
+            "ssn": "379-43-2014",
+            "empStartDate": "9/7/2014",
+            "position": "Medical Assistant",
+            "credentials": "RMA (AMT)"
+        },
+        {
+            "staffId": "jnowak01",
+            "firstName": "Alonya",
+            "middleName": "",
+            "lastName": "Nowak",
+            "suffix": "",
+            "dob": "9/19/1977",
+            "gender": "F",
+            "address": {
+                "street": "6771 Anita Ct",
+                "city": "Alvada",
+                "state": "OH",
+                "zipCode": "44802"
+            },
+            "contact": {
+                "primaryPhone": "419-555-9109",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "",
+                "alternatePhoneType": ""
+            },
+            "email": "anowak@sbhc.com",
+            "ssn": "411-79-5210",
+            "empStartDate": "8/15/2013",
+            "position": "Nurse",
+            "credentials": "RN"
+        },
+        {
+            "staffId": "tkim01",
+            "firstName": "Tori",
+            "middleName": "",
+            "lastName": "Kim",
+            "suffix": "",
+            "dob": "11/30/1985",
+            "gender": "F",
+            "address": {
+                "street": "1935 Lochmoor Dr",
+                "city": "Bloomdale",
+                "state": "OH",
+                "zipCode": "44817"
+            },
+            "contact": {
+                "primaryPhone": "419-555-8169",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "419-555-7145",
+                "alternatePhoneType": "home"
+            },
+            "email": "tkim@sbhc.com",
+            "ssn": "359-14-1792",
+            "empStartDate": "3/13/2008",
+            "position": "Laboratory Technician",
+            "credentials": "MLT (AMT)"
+        },
+        {
+            "staffId": "awilks01",
+            "firstName": "Andrew",
+            "middleName": "James",
+            "lastName": "Wilks",
+            "suffix": "Jr",
+            "dob": "11/7/1971",
+            "gender": "M",
+            "address": {
+                "street": "20071 Littlestone Ln",
+                "city": "Carey",
+                "state": "OH",
+                "zipCode": "43316"
+            },
+            "contact": {
+                "primaryPhone": "567-555-7706",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "",
+                "alternatePhoneType": ""
+            },
+            "email": "awilks@sbhc.com",
+            "ssn": "527-96-3002",
+            "empStartDate": "1/30/2002",
+            "position": "Radiologic Technician",
+            "credentials": "RT(R)"
+        },
+        {
+            "staffId": "chunt01",
+            "firstName": "Cheyenne",
+            "middleName": "",
+            "lastName": "Hunt",
+            "suffix": "",
+            "dob": "6/25/1989",
+            "gender": "F",
+            "address": {
+                "street": "493 Piper St",
+                "city": "Dunkirk",
+                "state": "OH",
+                "zipCode": "45836"
+            },
+            "contact": {
+                "primaryPhone": "567-555-9087",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "",
+                "alternatePhoneType": ""
+            },
+            "email": "chunt@sbhc.com",
+            "ssn": "364-12-0097",
+            "empStartDate": "3/11/2019",
+            "position": "Phlebotomist",
+            "credentials": "CPT"
+        },
+        {
+            "staffId": "plittl02",
+            "firstName": "Pamela",
+            "middleName": "Ann",
+            "lastName": "Little",
+            "suffix": "",
+            "dob": "4/22/1959",
+            "gender": "F",
+            "address": {
+                "street": "5647 Cushing Dr",
+                "city": "Mount Cory",
+                "state": "OH",
+                "zipCode": "45863"
+            },
+            "contact": {
+                "primaryPhone": "567-555-8405",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "567-555-6219",
+                "alternatePhoneType": "home"
+            },
+            "email": "plittle@sbhc.com",
+            "ssn": "631-99-0217",
+            "empStartDate": "1/26/2012",
+            "position": "Coding Specialist",
+            "credentials": "CPC"
+        },
+        {
+            "staffId": "jgreen01",
+            "firstName": "John",
+            "middleName": "",
+            "lastName": "Greenway",
+            "suffix": "",
+            "dob": "5/4/1973",
+            "gender": "M",
+            "address": {
+                "street": "20117 Carlyle Ave",
+                "city": "Hoytville",
+                "state": "OH",
+                "zipCode": "43529"
+            },
+            "contact": {
+                "primaryPhone": "419-555-9963",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "",
+                "alternatePhoneType": ""
+            },
+            "email": "jgreenway@sbhc.com",
+            "ssn": "322-80-1867",
+            "empStartDate": "6/29/2014",
+            "position": "Office Manager",
+            "credentials": "CPPM"
+        },
+        {
+            "staffId": "ytanak01",
+            "firstName": "Yoshi",
+            "middleName": "",
+            "lastName": "Tanaka",
+            "suffix": "",
+            "dob": "8/4/1991",
+            "gender": "M",
+            "address": {
+                "street": "6721 Hampton Blvd",
+                "city": "Findlay",
+                "state": "OH",
+                "zipCode": "45839"
+            },
+            "contact": {
+                "primaryPhone": "567-555-8174",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "",
+                "alternatePhoneType": ""
+            },
+            "email": "ytanaka@sbhc.com",
+            "ssn": "641-97-2850",
+            "empStartDate": "9/12/2017",
+            "position": "Medical Administrative Specialist",
+            "credentials": "CMAS"
+        },
+        {
+            "staffId": "aacy01",
+            "firstName": "Alisha",
+            "middleName": "",
+            "lastName": "Acy",
+            "suffix": "",
+            "dob": "1/29/1977",
+            "gender": "F",
+            "address": {
+                "street": "86433 Victory St",
+                "city": "Van Buren",
+                "state": "OH",
+                "zipCode": "45889"
+            },
+            "contact": {
+                "primaryPhone": "419-555-6551",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "419-555-0160",
+                "alternatePhoneType": "home"
+            },
+            "email": "aacy@sbhc.com",
+            "ssn": "493-00-0197",
+            "empStartDate": "10/19/2015",
+            "position": "Medical Administrative Specialist",
+            "credentials": "RHIT"
+        },
+        {
+            "staffId": "dbaxte01",
+            "firstName": "Diane",
+            "middleName": "",
+            "lastName": "Baxter",
+            "suffix": "",
+            "dob": "6/4/1961",
+            "gender": "F",
+            "address": {
+                "street": "32799 Oaklawn Dr",
+                "city": "Findlay",
+                "state": "OH",
+                "zipCode": "45839"
+            },
+            "contact": {
+                "primaryPhone": "567-555-1054",
+                "primaryPhoneType": "cell",
+                "alternatePhone": "",
+                "alternatePhoneType": ""
+            },
+            "email": "dbaxter@sbhc.com",
+            "ssn": "379-12-6473",
+            "empStartDate": "1/19/2014",
+            "position": "Medical Administrative Specialist",
+            "credentials": "CMAS"
+        }
+    ]
+}

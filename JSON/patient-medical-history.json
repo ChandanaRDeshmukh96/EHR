@@ -1,1 +1,432 @@
-{"info":{"status":"200","message":"OK"},"data":{"AA018":[{"id":1,"pmhDescription":"Diabetes","diagnosisDate":"01/14/2008","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"},{"id":2,"pmhDescription":"Bronchitis","diagnosisDate":"12/12/2018","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"3","durationUnit":"Week(s)"},{"id":3,"pmhDescription":"Tibia fracture","diagnosisDate":"09/01/1994","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"6","durationUnit":"Week(s)"}],"AA019":[{"id":1,"pmhDescription":"Chlamydia","diagnosisDate":"02/01/2015","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"2","durationUnit":"Week(s)"},{"id":2,"pmhDescription":"Appendicitis, acute","diagnosisDate":"08/04/2012","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"1","durationUnit":"Month(s)"}],"AA020":[{"id":1,"pmhDescription":"Elevated cholesterol","diagnosisDate":"09/17/2018","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"},{"id":2,"pmhDescription":"Strep throat","diagnosisDate":"11/09/2016","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"2","durationUnit":"Week(s)"},{"id":3,"pmhDescription":"Urinary tract infection","diagnosisDate":"04/30/2013","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"1","durationUnit":"Week(s)"},{"id":4,"pmhDescription":"Uterine fibroids","diagnosisDate":"06/10/2012","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"6","durationUnit":"Month(s)"}],"AA021":[{"id":1,"pmhDescription":"Varicella (chicken pox)","diagnosisDate":"07/12/2019","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"2","durationUnit":"Week(s)"}],"AA022":[{"id":1,"pmhDescription":"Bowel obstruction","diagnosisDate":"03/19/2012","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"1","durationUnit":"Month(s)"},{"id":2,"pmhDescription":"Shingles","diagnosisDate":"05/09/2007","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"3","durationUnit":"Week(s)"},{"id":3,"pmhDescription":"Migraines","diagnosisDate":"07/15/2004","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"},{"id":4,"pmhDescription":"Hypertension","diagnosisDate":"10/19/2001","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA001":[{"id":1,"pmhDescription":"Migraines","diagnosisDate":"Invalid date","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA002":[{"id":1,"pmhDescription":"Bronchitis","diagnosisDate":"12/12/2015","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"3","durationUnit":"Week(s)"},{"id":2,"pmhDescription":"Tibia fracture","diagnosisDate":"09/01/2012","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"6","durationUnit":"Week(s)"}],"AA003":[{"id":1,"pmhDescription":"Diabetes","diagnosisDate":"01/14/2008","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA004":[{"id":1,"pmhDescription":"Seasonal allergies","diagnosisDate":"07/15/2017","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA005":[{"id":1,"pmhDescription":"Elevated cholesterol","diagnosisDate":"09/17/2018","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"},{"id":2,"pmhDescription":"Strep throat","diagnosisDate":"11/09/2016","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"2","durationUnit":"Week(s)"}],"AA006":[{"id":1,"pmhDescription":"Elevated cholesterol","diagnosisDate":"01/17/2014","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"}],"AA007":[{"id":1,"pmhDescription":"Anxiety","diagnosisDate":"10/15/2019","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"},{"id":2,"pmhDescription":"Insomnia","diagnosisDate":"10/15/2019","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"},{"id":3,"pmhDescription":"Strep throat","diagnosisDate":"02/18/2020","dateModified":"Jan 09,2019 10:30 am","resolution":"resolved","duration":"1","durationUnit":"Week(s)"}],"AA008":[{"id":1,"pmhDescription":"Diabetes Type 2","diagnosisDate":"Invalid date","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"},{"id":2,"pmhDescription":"Anxiety","diagnosisDate":"04/09/2020","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"}],"AA009":[{"id":1,"pmhDescription":"Asthma","diagnosisDate":"03/15/2005","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"}],"AA010":[{"id":1,"pmhDescription":"Anemia","diagnosisDate":"Invalid date","dateModified":"Jan 09,2019 10:30 am","resolution":"resolved","duration":"1","durationUnit":"Month(s)"}],"AA012":[{"id":1,"pmhDescription":"Diabetes Type 2","diagnosisDate":"Invalid date","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"},{"id":2,"pmhDescription":"Anxiety","diagnosisDate":"04/09/2020","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"}],"AA014":[{"id":1,"pmhDescription":"Bronchitis (acute)","diagnosisDate":"11/18/2020","dateModified":"Jan 09,2019 10:30 am","resolution":"resolved","duration":"2","durationUnit":"Week(s)"}],"AA015":[{"id":1,"pmhDescription":"Bronchitis (acute)","diagnosisDate":"04/17/2021","dateModified":"Jan 09,2019 10:30 am","resolution":"resolved","duration":"2","durationUnit":"Week(s)"}],"AA016":[{"id":1,"pmhDescription":"Anxiety","diagnosisDate":"10/15/2019","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"},{"id":2,"pmhDescription":"Insomnia","diagnosisDate":"10/15/2019","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"},{"id":3,"pmhDescription":"Strep throat","diagnosisDate":"02/18/2020","dateModified":"Jan 09,2019 10:30 am","resolution":"resolved","duration":"1","durationUnit":"Week(s)"},{"id":4,"pmhDescription":"Asthma","diagnosisDate":"03/15/2015","dateModified":"Jan 09,2019 10:30 am","resolution":"unresolved","duration":"ongoing","durationUnit":"NA"}],"AA017":[{"id":1,"pmhDescription":"Bronchitis (acute)","diagnosisDate":"11/18/2020","dateModified":"Jan 09,2019 10:30 am","resolution":"resolved","duration":"2","durationUnit":"Week(s)"}],"AA023":[{"id":1,"pmhDescription":"Bronchitis","diagnosisDate":"12/12/2015","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"3","durationUnit":"Week(s)"},{"id":2,"pmhDescription":"Tibia fracture","diagnosisDate":"09/01/2012","dateModified":"Jan 09,2019 10:30 am","resolution":"Resolved","duration":"6","durationUnit":"Week(s)"}],"AA024":[{"id":1,"pmhDescription":"Strep throat","diagnosisDate":"02/18/2020","dateModified":"Jan 09,2019 10:30 am","resolution":"resolved","duration":"1","durationUnit":"Week(s)"}],"AA025":[{"id":1,"pmhDescription":"Elevated cholesterol","diagnosisDate":"09/17/2018","dateModified":"Jan 09,2019 10:30 am","resolution":"Unresolved","duration":"NA","durationUnit":"NA"}]}}
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": {
+        "AA018": [
+            {
+                "id": 1,
+                "pmhDescription": "Diabetes",
+                "diagnosisDate": "01/14/2008",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Bronchitis",
+                "diagnosisDate": "12/12/2018",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "3",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 3,
+                "pmhDescription": "Tibia fracture",
+                "diagnosisDate": "09/01/1994",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "6",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA019": [
+            {
+                "id": 1,
+                "pmhDescription": "Chlamydia",
+                "diagnosisDate": "02/01/2015",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "2",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Appendicitis, acute",
+                "diagnosisDate": "08/04/2012",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "1",
+                "durationUnit": "Month(s)"
+            }
+        ],
+        "AA020": [
+            {
+                "id": 1,
+                "pmhDescription": "Elevated cholesterol",
+                "diagnosisDate": "09/17/2018",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Strep throat",
+                "diagnosisDate": "11/09/2016",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "2",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 3,
+                "pmhDescription": "Urinary tract infection",
+                "diagnosisDate": "04/30/2013",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "1",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 4,
+                "pmhDescription": "Uterine fibroids",
+                "diagnosisDate": "06/10/2012",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "6",
+                "durationUnit": "Month(s)"
+            }
+        ],
+        "AA021": [
+            {
+                "id": 1,
+                "pmhDescription": "Varicella (chicken pox)",
+                "diagnosisDate": "07/12/2019",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "2",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA022": [
+            {
+                "id": 1,
+                "pmhDescription": "Bowel obstruction",
+                "diagnosisDate": "03/19/2012",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "1",
+                "durationUnit": "Month(s)"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Shingles",
+                "diagnosisDate": "05/09/2007",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "3",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 3,
+                "pmhDescription": "Migraines",
+                "diagnosisDate": "07/15/2004",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 4,
+                "pmhDescription": "Hypertension",
+                "diagnosisDate": "10/19/2001",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA001": [
+            {
+                "id": 1,
+                "pmhDescription": "Migraines",
+                "diagnosisDate": "Invalid date",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA002": [
+            {
+                "id": 1,
+                "pmhDescription": "Bronchitis",
+                "diagnosisDate": "12/12/2015",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "3",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Tibia fracture",
+                "diagnosisDate": "09/01/2012",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "6",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA003": [
+            {
+                "id": 1,
+                "pmhDescription": "Diabetes",
+                "diagnosisDate": "01/14/2008",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA004": [
+            {
+                "id": 1,
+                "pmhDescription": "Seasonal allergies",
+                "diagnosisDate": "07/15/2017",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA005": [
+            {
+                "id": 1,
+                "pmhDescription": "Elevated cholesterol",
+                "diagnosisDate": "09/17/2018",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Strep throat",
+                "diagnosisDate": "11/09/2016",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "2",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA006": [
+            {
+                "id": 1,
+                "pmhDescription": "Elevated cholesterol",
+                "diagnosisDate": "01/17/2014",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA007": [
+            {
+                "id": 1,
+                "pmhDescription": "Anxiety",
+                "diagnosisDate": "10/15/2019",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Insomnia",
+                "diagnosisDate": "10/15/2019",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 3,
+                "pmhDescription": "Strep throat",
+                "diagnosisDate": "02/18/2020",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "resolved",
+                "duration": "1",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA008": [
+            {
+                "id": 1,
+                "pmhDescription": "Diabetes Type 2",
+                "diagnosisDate": "Invalid date",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Anxiety",
+                "diagnosisDate": "04/09/2020",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA009": [
+            {
+                "id": 1,
+                "pmhDescription": "Asthma",
+                "diagnosisDate": "03/15/2005",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA010": [
+            {
+                "id": 1,
+                "pmhDescription": "Anemia",
+                "diagnosisDate": "Invalid date",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "resolved",
+                "duration": "1",
+                "durationUnit": "Month(s)"
+            }
+        ],
+        "AA012": [
+            {
+                "id": 1,
+                "pmhDescription": "Diabetes Type 2",
+                "diagnosisDate": "Invalid date",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Anxiety",
+                "diagnosisDate": "04/09/2020",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA014": [
+            {
+                "id": 1,
+                "pmhDescription": "Bronchitis (acute)",
+                "diagnosisDate": "11/18/2020",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "resolved",
+                "duration": "2",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA015": [
+            {
+                "id": 1,
+                "pmhDescription": "Bronchitis (acute)",
+                "diagnosisDate": "04/17/2021",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "resolved",
+                "duration": "2",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA016": [
+            {
+                "id": 1,
+                "pmhDescription": "Anxiety",
+                "diagnosisDate": "10/15/2019",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Insomnia",
+                "diagnosisDate": "10/15/2019",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            },
+            {
+                "id": 3,
+                "pmhDescription": "Strep throat",
+                "diagnosisDate": "02/18/2020",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "resolved",
+                "duration": "1",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 4,
+                "pmhDescription": "Asthma",
+                "diagnosisDate": "03/15/2015",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "unresolved",
+                "duration": "ongoing",
+                "durationUnit": "NA"
+            }
+        ],
+        "AA017": [
+            {
+                "id": 1,
+                "pmhDescription": "Bronchitis (acute)",
+                "diagnosisDate": "11/18/2020",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "resolved",
+                "duration": "2",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA023": [
+            {
+                "id": 1,
+                "pmhDescription": "Bronchitis",
+                "diagnosisDate": "12/12/2015",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "3",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Tibia fracture",
+                "diagnosisDate": "09/01/2012",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "6",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA024": [
+            {
+                "id": 1,
+                "pmhDescription": "Strep throat",
+                "diagnosisDate": "02/18/2020",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "resolved",
+                "duration": "1",
+                "durationUnit": "Week(s)"
+            }
+        ],
+        "AA025": [
+            {
+                "id": 1,
+                "pmhDescription": "Elevated cholesterol",
+                "diagnosisDate": "09/17/2018",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Unresolved",
+                "duration": "NA",
+                "durationUnit": "NA"
+            }
+        ]
+    }
+}

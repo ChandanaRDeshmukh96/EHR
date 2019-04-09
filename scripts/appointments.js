@@ -76,7 +76,7 @@ function getDow(repeat){
       break;
     };
     case "Everyday" :{
-      return [0,1,2,3,4,5,6];
+      return [1,2,3,4,5];
       break;
     };
     
@@ -251,7 +251,7 @@ function dataWrapper(data) {
 };
 
 // function that can be accessible outside this file 
-module.exports = function accessLevels() {
+module.exports = function () {
   csv()
       .fromFile(csvFilePath)
       .then((jsonObj) => {
@@ -263,14 +263,3 @@ module.exports = function accessLevels() {
       });
   };
   
-  
-  // redefineing the same piece of code so that this file can be solely executed.
-  csv()
-      .fromFile(csvFilePath)
-      .then((jsonObj) => {
-          var formattedData = dataWrapper(jsonObj);
-          fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-              if (err) throw err;
-              console.log('Appointments data created!');
-          });
-      });

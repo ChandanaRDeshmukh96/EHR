@@ -1,1 +1,364 @@
-{"info":{"status":"200","message":"OK"},"data":{"AA018":[{"id":1,"allergyType":"Drug allergy","allergyDetail":"Penicillin","onSet":"Childhood","dateAndTime":"","severity":"Severe","status":"Active","adverseReaction":"Anaphylaxis","otherSensitivities":""},{"id":2,"allergyType":"Environment","allergyDetail":"Pollen","onSet":"Adulthood","dateAndTime":"Apr 16, 2010 - 12:00 am","severity":"Moderate","status":"Active","adverseReaction":"Itching and watery eyes","otherSensitivities":""}],"AA019":[{"id":1,"allergyType":"No known allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA020":[{"id":1,"allergyType":"Drug allergy","allergyDetail":"Morphine","onSet":"Adulthood","dateAndTime":"Dec 15, 2011 - 12:00 am","severity":"Moderate","status":"Active","adverseReaction":"Swelling and itching","otherSensitivities":""}],"AA021":[{"id":1,"allergyType":"Food allergy","allergyDetail":"Peanuts","onSet":"Childhood","dateAndTime":"","severity":"Severe","status":"Active","adverseReaction":"Respiratory distress","otherSensitivities":""}],"AA022":[{"id":1,"allergyType":"No known allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA001":[{"id":1,"allergyType":"No known allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA002":[{"id":1,"allergyType":"Drug allergy","allergyDetail":"Demerol","onSet":"Childhood","dateAndTime":"","severity":"Severe","status":"Active","adverseReaction":"Anaphylaxis","otherSensitivities":""},{"id":2,"allergyType":"Environment","allergyDetail":"Pollen","onSet":"Adulthood","dateAndTime":"Apr 16, 2016 - 12:00 am","severity":"Moderate","status":"Active","adverseReaction":"Itching and watery eyes","otherSensitivities":""}],"AA003":[{"id":1,"allergyType":"Drug allergy","allergyDetail":"Erythromycin","onSet":"Childhood","dateAndTime":"","severity":"Severe","status":"Active","adverseReaction":"Anaphylaxis","otherSensitivities":""},{"id":2,"allergyType":"Food","allergyDetail":"Shellfish","onSet":"Adulthood","dateAndTime":"Mar 20, 2010 - 12:00 am","severity":"Moderate","status":"Active","adverseReaction":"Itching and watery eyes","otherSensitivities":""}],"AA004":[{"id":1,"allergyType":"No known allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA005":[{"id":1,"allergyType":"Drug allergy","allergyDetail":"Morphine","onSet":"Adulthood","dateAndTime":"Dec 15, 2016 - 12:00 am","severity":"Moderate","status":"Active","adverseReaction":"Swelling and itching","otherSensitivities":""}],"AA006":[{"id":1,"allergyType":"Drug allergy","allergyDetail":"Erythromycin","onSet":"Childhood","dateAndTime":"","severity":"Mild","status":"Active","adverseReaction":"Stomach upset","otherSensitivities":""}],"AA007":[{"id":1,"allergyType":"No known drug allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA008":[{"id":1,"allergyType":"No known drug allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA009":[{"id":1,"allergyType":"No known drug allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA010":[{"id":1,"allergyType":"Food","allergyDetail":"Shellfish","onSet":"Adulthood","dateAndTime":"Mar 20, 2010 - 12:00 am","severity":"Severe","status":"Active","adverseReaction":"Anaphylaxis","otherSensitivities":""}],"AA012":[{"id":1,"allergyType":"No known drug allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA013":[{"id":1,"allergyType":"No known drug allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA014":[{"id":1,"allergyType":"No known drug allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA015":[{"id":1,"allergyType":"No known allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA016":[{"id":1,"allergyType":"No known allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA017":[{"id":1,"allergyType":"No known drug allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA023":[{"id":1,"allergyType":"Drug allergy","allergyDetail":"Demerol","onSet":"Childhood","dateAndTime":"","severity":"Severe","status":"Active","adverseReaction":"Anaphylaxis","otherSensitivities":""},{"id":2,"allergyType":"Environment","allergyDetail":"Pollen","onSet":"Adulthood","dateAndTime":"Apr 16, 2016 - 12:00 am","severity":"Moderate","status":"Active","adverseReaction":"Itching and watery eyes","otherSensitivities":""}],"AA024":[{"id":1,"allergyType":"No known drug allergies","allergyDetail":"","onSet":"","dateAndTime":"","severity":"","status":"","adverseReaction":"","otherSensitivities":""}],"AA025":[{"id":1,"allergyType":"Drug allergy","allergyDetail":"Erythromycin","onSet":"Childhood","dateAndTime":"","severity":"Mild","status":"Active","adverseReaction":"Stomach upset","otherSensitivities":""}]}}
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": {
+        "AA018": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Pollen",
+                "onSet": "Adulthood",
+                "dateAndTime": "Apr 16, 2010 - 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA019": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA020": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Morphine",
+                "onSet": "Adulthood",
+                "dateAndTime": "Dec 15, 2011 - 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Swelling and itching",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA021": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Peanuts",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA022": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA001": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA002": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Demerol",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Pollen",
+                "onSet": "Adulthood",
+                "dateAndTime": "Apr 16, 2016 - 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA003": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Erythromycin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Food",
+                "allergyDetail": "Shellfish",
+                "onSet": "Adulthood",
+                "dateAndTime": "Mar 20, 2010 - 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA004": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA005": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Morphine",
+                "onSet": "Adulthood",
+                "dateAndTime": "Dec 15, 2016 - 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Swelling and itching",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA006": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Erythromycin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Mild",
+                "status": "Active",
+                "adverseReaction": "Stomach upset",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA007": [
+            {
+                "id": 1,
+                "allergyType": "No known drug allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA008": [
+            {
+                "id": 1,
+                "allergyType": "No known drug allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA009": [
+            {
+                "id": 1,
+                "allergyType": "No known drug allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA010": [
+            {
+                "id": 1,
+                "allergyType": "Food",
+                "allergyDetail": "Shellfish",
+                "onSet": "Adulthood",
+                "dateAndTime": "Mar 20, 2010 - 12:00 am",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA012": [
+            {
+                "id": 1,
+                "allergyType": "No known drug allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA013": [
+            {
+                "id": 1,
+                "allergyType": "No known drug allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA014": [
+            {
+                "id": 1,
+                "allergyType": "No known drug allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA015": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA016": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA017": [
+            {
+                "id": 1,
+                "allergyType": "No known drug allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA023": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Demerol",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Pollen",
+                "onSet": "Adulthood",
+                "dateAndTime": "Apr 16, 2016 - 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA024": [
+            {
+                "id": 1,
+                "allergyType": "No known drug allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA025": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Erythromycin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Mild",
+                "status": "Active",
+                "adverseReaction": "Stomach upset",
+                "otherSensitivities": ""
+            }
+        ]
+    }
+}
