@@ -121,7 +121,7 @@ function dataWrapper(data) {
 }
 
 // function that can be accessible outside this file 
-module.exports = function providerNote() {
+module.exports = function () {
     csv()
         .fromFile(csvFilePath)
         .then((jsonObj) => {
@@ -132,5 +132,3 @@ module.exports = function providerNote() {
             });
         });
     };
-    
-    // -- 

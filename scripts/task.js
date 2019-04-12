@@ -7,6 +7,19 @@ let provider = require('../JSON/provider-info.json').data;
 var moment = require("moment");
 let id = 0;
 
+
+function findProviderFullName(lastname){
+    console.log(lastname);
+    var providerInfo = 0;
+    var fullName = ""
+    provider.forEach((item) => {
+        if (item.lastName==lastname){
+            fullName = item.salutation + " " + item.firstName + " " + item.lastName;
+        }
+    });
+    return fullName;
+  };
+
 function findChartNo(firstName, lastName) {
     var chartNumber = 0;
     // console.log("firstname, lastname", firstName, lastName)
@@ -19,7 +32,6 @@ function findChartNo(firstName, lastName) {
 }
 
 function findProviderId(lastname){
-    console.log(lastname);
     var providerInfo = 0;
   
     provider.forEach((item) => {
@@ -60,8 +72,8 @@ function createTaskData(element) {
     var dataObj = {};
     dataObj.id = generateTaskId();
     dataObj.task=element.task;
-    dataObj.assignedTo=element.assignedTo;
-    dataObj.createdBy=element.createdBy;
+    dataObj.assignedTo=element.assignedTo.indexOf("Dr.")!=-1 ? findProviderFullName(element.assignedTo.split(" ")[1]):element.assignedTo;
+    dataObj.createdBy=element.createdBy.indexOf("Dr.")!=-1 ? findProviderFullName(element.createdBy.split(" ")[1]):element.createdBy;
     dataObj.dueDate=moment(element.dueDate).format("MM/DD/YYYY");
     dataObj.completedStatus=element.completedStatus;
     dataObj.linkedToChart=element.linkedToChart == "NA" ? "" : findLink(element.linkedToChart);
@@ -94,7 +106,7 @@ function dataWrapper(data) {
 }
 
 // function that can be accessible outside this file 
-module.exports = function accessLevels() {
+module.exports = function () {
     csv()
         .fromFile(csvFilePath)
         .then((jsonObj) => {
@@ -105,15 +117,3 @@ module.exports = function accessLevels() {
             });
         });
     };
-    
-    
-    // redefineing the same piece of code so that this file can be solely executed.
-    csv()
-        .fromFile(csvFilePath)
-        .then((jsonObj) => {
-            var formattedData = dataWrapper(jsonObj);
-            fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-                if (err) throw err;
-                console.log('task data created!');
-            });
-        });

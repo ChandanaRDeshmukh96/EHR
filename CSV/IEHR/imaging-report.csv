@@ -1,5 +1,5 @@
 patientName,reportName,description,url
-Karrie Owens,Karrie Owens Ches X-Ray,Chest x-ray,https://docs.google.com/document/d/16l04lNFwoAU-fRvkmUdUUdl8dsJdgJti6O_KYN9l10c/edit
+Karrie Owens,Karrie Owens Ches X-Ray,Chest x-ray,ehr/asset/doc/view-chart-reports/IEHR/Karrie Owens Chest X-Ray.pdf
 ,,,
 ,,,
 ,,,
@@ -13,7 +13,7 @@ Maria Lopez,,,
 ,,,
 ,,,
 ,,,
-Jack Kyser,Jack Kyser Chest X-Ray,Chest x-ray,https://docs.google.com/document/d/1x0BWnWuqBqKC0Zubvt4T0sQCitgMey1ubhQXJvmCPKQ/edit
+Jack Kyser,Jack Kyser Chest X-Ray,Chest x-ray,ehr/asset/doc/view-chart-reports/IEHR/Jack Kyser Chest X-Ray.pdf
 ,,,
 ,,,
 ,,,
@@ -39,8 +39,8 @@ Carl Pike,,,
 ,,,
 ,,,
 ,,,
-James Phillips,James Phillips EKG,EKG,https://drive.google.com/drive/folders/14T98PXtaXGeT83L3zX1RLxY2Ru_dv0xO
-,James Phillips Chest X-Ray,Chest x-ray,https://docs.google.com/document/d/1tXLDEMVfTU76nzt3y8Y2KmAOsSmOa5AEBCh1siYeUwE/edit
+James Phillips,James Phillips EKG,EKG,ehr/asset/doc/view-chart-reports/IEHR/James Phillips EKG.pdf
+,James Phillips Chest X-Ray,Chest x-ray,ehr/asset/doc/view-chart-reports/IEHR/James Phillips Chest X-Ray.pdf
 ,,,
 Anna Jacobs,,,
 ,,,

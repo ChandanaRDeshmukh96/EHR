@@ -427,6 +427,27 @@
                 "nextDoseDueDate": "04/09/2026"
             }
         ],
+        "AA011": [
+            {
+                "id": 1,
+                "immunizationType": "Tdap",
+                "orderingPhysician": "Dr. Ingram",
+                "followUpDirections": "NA",
+                "dosage": "NA",
+                "manufacturer": "ImmuPro",
+                "lotNumber": "693012",
+                "expirationDate": "01/09/2019",
+                "siteOfAdministration": "Right deltoid",
+                "site": "",
+                "otherSite": "None",
+                "adverseEffects": "None",
+                "visGiven": "Yes",
+                "followUpDirectionsProvided": "NA",
+                "patientInsToReturnOn": "NA",
+                "immunizationStartDate": "05/09/2018",
+                "nextDoseDueDate": "05/09/2028"
+            }
+        ],
         "AA013": [
             {
                 "id": 1,

@@ -555,6 +555,29 @@
                 "defaultProvider": ""
             }
         ],
+        "AA011": [
+            {
+                "Id": 1,
+                "status": "Active",
+                "drugType": "Rx",
+                "drugName": "Albuterol extended-release",
+                "dosage": "4 mg",
+                "quantity": "1",
+                "drugForm": "tablet",
+                "route": "oral",
+                "doseTiming": "every 12 hours",
+                "frequency": "twice a day",
+                "duration": "",
+                "lastRefillDate": "",
+                "noOfRefills": "",
+                "dateStarted": "",
+                "dateStopped": "",
+                "fillDate": "",
+                "reasonStopped": "",
+                "diagnosis": "Asthma",
+                "defaultProvider": "Dr. Ingram"
+            }
+        ],
         "AA012": [
             {
                 "Id": 1,

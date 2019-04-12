@@ -56,7 +56,7 @@ function dataWrapper(data) {
     return prescriptionData;
 }
 
-module.exports = function accessLevels() {
+module.exports = function () {
     csv()
         .fromFile(csvFilePath)
         .then((jsonObj) => {
@@ -67,15 +67,3 @@ module.exports = function accessLevels() {
             });
         });
     };
-    
-    
-    // redefineing the same piece of code so that this file can be solely executed.
-    csv()
-        .fromFile(csvFilePath)
-        .then((jsonObj) => {
-            var formattedData = dataWrapper(jsonObj);
-            fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-                if (err) throw err;
-                console.log('prescription data created!');
-            });
-        });

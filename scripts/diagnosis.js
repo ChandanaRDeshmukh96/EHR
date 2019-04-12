@@ -35,9 +35,3 @@ module.exports = function accessLevels() {
             console.log('Saved daignosis data!');
         });
     }
-// redefineing the same piece of code so that this file can be solely executed.
-
-    fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(createAllProcedureData()), 'utf8', function (err) {
-        if (err) throw err;
-        console.log('Saved daignosis data!');
-    });

@@ -20,12 +20,12 @@ function createPatientData(element, i) {
     var dataObj = {};
     dataObj.id = i;
     dataObj.alcoholConsumption ={};
-    dataObj.alcoholConsumption.value =  element.alcoholConsumption=='Never'?'No':'Yes';
+    dataObj.alcoholConsumption.value =  element.alcoholConsumption;
     dataObj.frequency={};
-    dataObj.frequency.value = element.alcoholConsumption;
-    dataObj.alcoholMoreDetail = element.frequency+"    "+element.comments;
+    dataObj.frequency.value = element.frequency;
+    dataObj.alcoholMoreDetail = element.comments;
     dataObj.smoking={};
-    dataObj.smoking.value = element.smoking=='Never'?'No':element.smoking   ;
+    dataObj.smoking.value = element.smoking;
     dataObj.snomedCat={};
     dataObj.snomedCat.value=element.snomedCat;
     dataObj.caffeineUse={};
@@ -108,7 +108,7 @@ function dataWrapper(data) {
 }
 
 // function that can be accessible outside this file 
-module.exports = function accessLevels() {
+module.exports = function () {
     csv()
         .fromFile(csvFilePath)
         .then((jsonObj) => {
@@ -119,15 +119,3 @@ module.exports = function accessLevels() {
             });
         });
     };
-    
-    
-    // redefineing the same piece of code so that this file can be solely executed.
-    csv()
-        .fromFile(csvFilePath)
-        .then((jsonObj) => {
-            var formattedData = dataWrapper(jsonObj);
-            fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-                if (err) throw err;
-                console.log('social history data created!');
-            });
-        });

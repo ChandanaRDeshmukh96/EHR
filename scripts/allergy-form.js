@@ -89,7 +89,7 @@ function dataWrapper(data) {
         
     return patientSurgicalHistoryData;
 }
-module.exports = function patientInfo(){
+module.exports = function (){
 csv()
     .fromFile(csvFilePath)
     .then((jsonObj) => {
@@ -100,14 +100,3 @@ csv()
         });
     });
 };
-
-// redefineing the same piece of code so that this file can be solely executed.
-csv()
-    .fromFile(csvFilePath)
-    .then((jsonObj) => {
-        var formattedData = dataWrapper(jsonObj);
-        fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-            if (err) throw err;
-            console.log('Allergy form data created!');
-        });
-});

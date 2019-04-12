@@ -20,7 +20,7 @@ function createPatientData(element, i) {
     var dataObj = {};
     dataObj.id = i;
     dataObj.pmhDescription = element.pmhDescription;
-    dataObj.diagnosisDate = moment(element.diagnosisDate).format("MM/DD/YYYY");
+    dataObj.diagnosisDate = moment(element.diagnosisDate).format("MM/DD/YYYY") === "Invalid date" ? "" : moment(element.diagnosisDate).format("MM/DD/YYYY");
     dataObj.dateModified= "Jan 09,2019 10:30 am";
     dataObj.resolution = element.resolution;
     var duration=element.duration.split(" ");
@@ -105,15 +105,3 @@ module.exports = function accessLevels() {
             });
         });
     };
-    
-    
-    // redefineing the same piece of code so that this file can be solely executed.
-    csv()
-        .fromFile(csvFilePath)
-        .then((jsonObj) => {
-            var formattedData = dataWrapper(jsonObj);
-            fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-                if (err) throw err;
-                console.log('Patient medical history data created!');
-            });
-        });

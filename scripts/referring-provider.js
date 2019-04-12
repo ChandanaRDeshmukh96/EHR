@@ -68,7 +68,7 @@ function dataWrapper(data) {
 }
 
 // function that can be accessible outside this file 
-module.exports = function refferingProvider() {
+module.exports = function () {
     csv()
         .fromFile(csvFilePath)
         .then((jsonObj) => {
@@ -79,16 +79,3 @@ module.exports = function refferingProvider() {
             });
         });
     };
-    
-    
-    // redefineing the same piece of code so that this file can be solely executed.
-    csv()
-        .fromFile(csvFilePath)
-        .then((jsonObj) => {
-            var formattedData = dataWrapper(jsonObj);
-            fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-                if (err) throw err;
-                console.log('referring provider data created!');
-            });
-        });
-  

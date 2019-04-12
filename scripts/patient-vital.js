@@ -27,7 +27,6 @@ function createVitalData(element) {
     dataObj.height = element.height.split(" ")[0];
     dataObj.weight = element.weight.split(" ")[0];
     dataObj.systolic = element.BP.split("/")[0];
-    console.log(element.BP.split("/")[1]);
     // dataObj.diastolic = element.BP.split("/")[1].split(" ")[0];
     dataObj.armExamined = element.armExamined;
     dataObj.patientPosition = element.patientPosition;
@@ -77,7 +76,7 @@ function dataWrapper(data) {
 }
 
 // function that can be accessible outside this file 
-// module.exports = function () {
+module.exports = function () {
     csv()
         .fromFile(csvFilePath)
         .then((jsonObj) => {
@@ -87,5 +86,5 @@ function dataWrapper(data) {
                 console.log('patient vitals recorded!');
             });
         });
-    // };
+    };
     

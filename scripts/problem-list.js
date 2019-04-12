@@ -22,10 +22,10 @@ function createPatientData(element, i) {
     dataObj.icdCode = element.icdCode;
     var edition  = element.icdCodeEdition;
     if(edition.indexOf("ICD")==-1){
-        dataObj.edition = "ICD-"+edition+"-CM";
+        dataObj.icdCodeEdition = "ICD-"+edition+"-CM";
     }
     else{
-        dataObj.edition = edition;
+        dataObj.icdCodeEdition = edition;
     }
     dataObj.diagnosisDate = element.diagnosisDate;
     dataObj.dateModified= "Jan 09,2018 10:30 am",
@@ -113,15 +113,3 @@ module.exports = function problemList() {
             });
         });
     };
-    
-    
-    // redefineing the same piece of code so that this file can be solely executed.
-    csv()
-        .fromFile(csvFilePath)
-        .then((jsonObj) => {
-            var formattedData = dataWrapper(jsonObj);
-            fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-                if (err) throw err;
-                console.log('problem list data created!');
-            });
-        });

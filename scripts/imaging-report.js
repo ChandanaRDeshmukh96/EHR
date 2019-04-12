@@ -23,7 +23,7 @@ function createPatientData(element, i) {
     dataObj.attachment = {};
     dataObj.attachment.name = element.reportName;
     dataObj.attachment.url = element.url;
-    dataObj.lastUpdate = moment(element.lastUpdate).format("MM/DD/YYYY") + "10:00:00";
+    dataObj.lastUpdate = "01/02/2022 10:00:00";
 
     return dataObj;
 }

@@ -28,7 +28,6 @@ function dataWrapper(data) {
         if (flag == 1) {
             var patientsData = {};
             // console.log(element);
-            patientsData.id=id++;
             patientsData.firstName = element.firstName;
             patientsData.middleName = element.middleName;
             patientsData.lastName = element.lastName;
