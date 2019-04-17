@@ -6,9 +6,9 @@
     "data": [
         {
             "appointmentID": "ar01",
-            "startTime": "Mon, Jan 03 2022 08:15",
-            "rangeStart": "Mon, Jan 03 2022 08:15",
-            "endTime": "Mon, Jan 03 2022 08:30",
+            "startTime": "Mon Jan 03 2022 08:15",
+            "rangeStart": "Mon Jan 03 2022 08:15",
+            "endTime": "Mon Jan 03 2022 08:30",
             "start": "08:15",
             "end": "08:30",
             "duration": "00:15",
@@ -70,9 +70,9 @@
         },
         {
             "appointmentID": "ar02",
-            "startTime": "Mon, Jan 03 2022 08:15",
-            "rangeStart": "Mon, Jan 03 2022 08:15",
-            "endTime": "Mon, Jan 03 2022 08:30",
+            "startTime": "Mon Jan 03 2022 08:15",
+            "rangeStart": "Mon Jan 03 2022 08:15",
+            "endTime": "Mon Jan 03 2022 08:30",
             "start": "08:15",
             "end": "08:30",
             "duration": "00:15",
@@ -134,9 +134,9 @@
         },
         {
             "appointmentID": "ar03",
-            "startTime": "Mon, Jan 03 2022 08:15",
-            "rangeStart": "Mon, Jan 03 2022 08:15",
-            "endTime": "Mon, Jan 03 2022 08:30",
+            "startTime": "Mon Jan 03 2022 08:15",
+            "rangeStart": "Mon Jan 03 2022 08:15",
+            "endTime": "Mon Jan 03 2022 08:30",
             "start": "08:15",
             "end": "08:30",
             "duration": "00:15",
@@ -198,9 +198,9 @@
         },
         {
             "appointmentID": "ar04",
-            "startTime": "Mon, Jan 03 2022 08:15",
-            "rangeStart": "Mon, Jan 03 2022 08:15",
-            "endTime": "Mon, Jan 03 2022 08:30",
+            "startTime": "Mon Jan 03 2022 08:15",
+            "rangeStart": "Mon Jan 03 2022 08:15",
+            "endTime": "Mon Jan 03 2022 08:30",
             "start": "08:15",
             "end": "08:30",
             "duration": "00:15",
@@ -262,9 +262,9 @@
         },
         {
             "appointmentID": "ar05",
-            "startTime": "Mon, Jan 03 2022 08:15",
-            "rangeStart": "Mon, Jan 03 2022 08:15",
-            "endTime": "Mon, Jan 03 2022 08:30",
+            "startTime": "Mon Jan 03 2022 08:15",
+            "rangeStart": "Mon Jan 03 2022 08:15",
+            "endTime": "Mon Jan 03 2022 08:30",
             "start": "08:15",
             "end": "08:30",
             "duration": "00:15",
@@ -326,9 +326,9 @@
         },
         {
             "appointmentID": "ar06",
-            "startTime": "Mon, Jan 03 2022 09:00",
-            "rangeStart": "Mon, Jan 03 2022 09:00",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:00",
+            "rangeStart": "Mon Jan 03 2022 09:00",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:00",
             "end": "09:30",
             "duration": "00:30",
@@ -390,9 +390,9 @@
         },
         {
             "appointmentID": "ar07",
-            "startTime": "Mon, Jan 03 2022 09:15",
-            "rangeStart": "Mon, Jan 03 2022 09:15",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:15",
+            "rangeStart": "Mon Jan 03 2022 09:15",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:15",
             "end": "09:30",
             "duration": "00:15",
@@ -454,9 +454,9 @@
         },
         {
             "appointmentID": "ar08",
-            "startTime": "Mon, Jan 03 2022 10:15",
-            "rangeStart": "Mon, Jan 03 2022 10:15",
-            "endTime": "Mon, Jan 03 2022 10:30",
+            "startTime": "Mon Jan 03 2022 10:15",
+            "rangeStart": "Mon Jan 03 2022 10:15",
+            "endTime": "Mon Jan 03 2022 10:30",
             "start": "10:15",
             "end": "10:30",
             "duration": "00:15",
@@ -518,9 +518,9 @@
         },
         {
             "appointmentID": "ar09",
-            "startTime": "Mon, Jan 03 2022 10:45",
-            "rangeStart": "Mon, Jan 03 2022 10:45",
-            "endTime": "Mon, Jan 03 2022 11:00",
+            "startTime": "Mon Jan 03 2022 10:45",
+            "rangeStart": "Mon Jan 03 2022 10:45",
+            "endTime": "Mon Jan 03 2022 11:00",
             "start": "10:45",
             "end": "11:00",
             "duration": "00:15",
@@ -691,7 +691,7 @@
             "end": "04:00",
             "startTime": "Mon, Jan 03 2022 03:00",
             "endTime": "Mon, Jan 03 2022 04:00",
-            "duration": "Invalid date",
+            "duration": "01:00",
             "reasonForVisit": "Annual exam",
             "allDay": false,
             "selectedRepeat": "Everyday",
@@ -722,9 +722,9 @@
         },
         {
             "appointmentID": "ar14",
-            "startTime": "Mon, Jan 03 2022 09:00",
-            "rangeStart": "Mon, Jan 03 2022 09:00",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:00",
+            "rangeStart": "Mon Jan 03 2022 09:00",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:00",
             "end": "09:30",
             "duration": "00:30",
@@ -786,9 +786,9 @@
         },
         {
             "appointmentID": "ar15",
-            "startTime": "Mon, Jan 03 2022 09:15",
-            "rangeStart": "Mon, Jan 03 2022 09:15",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:15",
+            "rangeStart": "Mon Jan 03 2022 09:15",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:15",
             "end": "09:30",
             "duration": "00:15",
@@ -850,9 +850,9 @@
         },
         {
             "appointmentID": "ar16",
-            "startTime": "Mon, Jan 03 2022 10:15",
-            "rangeStart": "Mon, Jan 03 2022 10:15",
-            "endTime": "Mon, Jan 03 2022 10:30",
+            "startTime": "Mon Jan 03 2022 10:15",
+            "rangeStart": "Mon Jan 03 2022 10:15",
+            "endTime": "Mon Jan 03 2022 10:30",
             "start": "10:15",
             "end": "10:30",
             "duration": "00:15",
@@ -914,9 +914,9 @@
         },
         {
             "appointmentID": "ar17",
-            "startTime": "Mon, Jan 03 2022 10:45",
-            "rangeStart": "Mon, Jan 03 2022 10:45",
-            "endTime": "Mon, Jan 03 2022 11:00",
+            "startTime": "Mon Jan 03 2022 10:45",
+            "rangeStart": "Mon Jan 03 2022 10:45",
+            "endTime": "Mon Jan 03 2022 11:00",
             "start": "10:45",
             "end": "11:00",
             "duration": "00:15",
@@ -1087,7 +1087,7 @@
             "end": "04:00",
             "startTime": "Mon, Jan 03 2022 03:00",
             "endTime": "Mon, Jan 03 2022 04:00",
-            "duration": "Invalid date",
+            "duration": "01:00",
             "reasonForVisit": "Annual exam",
             "allDay": false,
             "selectedRepeat": "Everyday",
@@ -1118,9 +1118,9 @@
         },
         {
             "appointmentID": "ar22",
-            "startTime": "Mon, Jan 03 2022 09:00",
-            "rangeStart": "Mon, Jan 03 2022 09:00",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:00",
+            "rangeStart": "Mon Jan 03 2022 09:00",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:00",
             "end": "09:30",
             "duration": "00:30",
@@ -1182,9 +1182,9 @@
         },
         {
             "appointmentID": "ar23",
-            "startTime": "Mon, Jan 03 2022 09:15",
-            "rangeStart": "Mon, Jan 03 2022 09:15",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:15",
+            "rangeStart": "Mon Jan 03 2022 09:15",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:15",
             "end": "09:30",
             "duration": "00:15",
@@ -1246,9 +1246,9 @@
         },
         {
             "appointmentID": "ar24",
-            "startTime": "Mon, Jan 03 2022 10:15",
-            "rangeStart": "Mon, Jan 03 2022 10:15",
-            "endTime": "Mon, Jan 03 2022 10:30",
+            "startTime": "Mon Jan 03 2022 10:15",
+            "rangeStart": "Mon Jan 03 2022 10:15",
+            "endTime": "Mon Jan 03 2022 10:30",
             "start": "10:15",
             "end": "10:30",
             "duration": "00:15",
@@ -1310,9 +1310,9 @@
         },
         {
             "appointmentID": "ar25",
-            "startTime": "Mon, Jan 03 2022 10:45",
-            "rangeStart": "Mon, Jan 03 2022 10:45",
-            "endTime": "Mon, Jan 03 2022 11:00",
+            "startTime": "Mon Jan 03 2022 10:45",
+            "rangeStart": "Mon Jan 03 2022 10:45",
+            "endTime": "Mon Jan 03 2022 11:00",
             "start": "10:45",
             "end": "11:00",
             "duration": "00:15",
@@ -1483,7 +1483,7 @@
             "end": "04:00",
             "startTime": "Mon, Jan 03 2022 03:00",
             "endTime": "Mon, Jan 03 2022 04:00",
-            "duration": "Invalid date",
+            "duration": "01:00",
             "reasonForVisit": "Annual exam",
             "allDay": false,
             "selectedRepeat": "Everyday",
@@ -1514,9 +1514,9 @@
         },
         {
             "appointmentID": "ar30",
-            "startTime": "Mon, Jan 03 2022 09:00",
-            "rangeStart": "Mon, Jan 03 2022 09:00",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:00",
+            "rangeStart": "Mon Jan 03 2022 09:00",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:00",
             "end": "09:30",
             "duration": "00:30",
@@ -1578,9 +1578,9 @@
         },
         {
             "appointmentID": "ar31",
-            "startTime": "Mon, Jan 03 2022 09:15",
-            "rangeStart": "Mon, Jan 03 2022 09:15",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:15",
+            "rangeStart": "Mon Jan 03 2022 09:15",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:15",
             "end": "09:30",
             "duration": "00:15",
@@ -1642,9 +1642,9 @@
         },
         {
             "appointmentID": "ar32",
-            "startTime": "Mon, Jan 03 2022 10:15",
-            "rangeStart": "Mon, Jan 03 2022 10:15",
-            "endTime": "Mon, Jan 03 2022 10:30",
+            "startTime": "Mon Jan 03 2022 10:15",
+            "rangeStart": "Mon Jan 03 2022 10:15",
+            "endTime": "Mon Jan 03 2022 10:30",
             "start": "10:15",
             "end": "10:30",
             "duration": "00:15",
@@ -1706,9 +1706,9 @@
         },
         {
             "appointmentID": "ar33",
-            "startTime": "Mon, Jan 03 2022 10:45",
-            "rangeStart": "Mon, Jan 03 2022 10:45",
-            "endTime": "Mon, Jan 03 2022 11:00",
+            "startTime": "Mon Jan 03 2022 10:45",
+            "rangeStart": "Mon Jan 03 2022 10:45",
+            "endTime": "Mon Jan 03 2022 11:00",
             "start": "10:45",
             "end": "11:00",
             "duration": "00:15",
@@ -1879,7 +1879,7 @@
             "end": "04:00",
             "startTime": "Mon, Jan 03 2022 03:00",
             "endTime": "Mon, Jan 03 2022 04:00",
-            "duration": "Invalid date",
+            "duration": "01:00",
             "reasonForVisit": "Annual exam",
             "allDay": false,
             "selectedRepeat": "Everyday",
@@ -1910,9 +1910,9 @@
         },
         {
             "appointmentID": "ar38",
-            "startTime": "Mon, Jan 03 2022 09:00",
-            "rangeStart": "Mon, Jan 03 2022 09:00",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:00",
+            "rangeStart": "Mon Jan 03 2022 09:00",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:00",
             "end": "09:30",
             "duration": "00:30",
@@ -1974,9 +1974,9 @@
         },
         {
             "appointmentID": "ar39",
-            "startTime": "Mon, Jan 03 2022 09:15",
-            "rangeStart": "Mon, Jan 03 2022 09:15",
-            "endTime": "Mon, Jan 03 2022 09:30",
+            "startTime": "Mon Jan 03 2022 09:15",
+            "rangeStart": "Mon Jan 03 2022 09:15",
+            "endTime": "Mon Jan 03 2022 09:30",
             "start": "09:15",
             "end": "09:30",
             "duration": "00:15",
@@ -2038,9 +2038,9 @@
         },
         {
             "appointmentID": "ar40",
-            "startTime": "Mon, Jan 03 2022 10:15",
-            "rangeStart": "Mon, Jan 03 2022 10:15",
-            "endTime": "Mon, Jan 03 2022 10:30",
+            "startTime": "Mon Jan 03 2022 10:15",
+            "rangeStart": "Mon Jan 03 2022 10:15",
+            "endTime": "Mon Jan 03 2022 10:30",
             "start": "10:15",
             "end": "10:30",
             "duration": "00:15",
@@ -2102,9 +2102,9 @@
         },
         {
             "appointmentID": "ar41",
-            "startTime": "Mon, Jan 03 2022 10:45",
-            "rangeStart": "Mon, Jan 03 2022 10:45",
-            "endTime": "Mon, Jan 03 2022 11:00",
+            "startTime": "Mon Jan 03 2022 10:45",
+            "rangeStart": "Mon Jan 03 2022 10:45",
+            "endTime": "Mon Jan 03 2022 11:00",
             "start": "10:45",
             "end": "11:00",
             "duration": "00:15",
@@ -2275,7 +2275,7 @@
             "end": "04:00",
             "startTime": "Mon, Jan 03 2022 03:00",
             "endTime": "Mon, Jan 03 2022 04:00",
-            "duration": "Invalid date",
+            "duration": "01:00",
             "reasonForVisit": "Annual exam",
             "allDay": false,
             "selectedRepeat": "Everyday",
@@ -2306,9 +2306,9 @@
         },
         {
             "appointmentID": "ar46",
-            "startTime": "Mon, Jan 03 2022 08:30",
-            "rangeStart": "Mon, Jan 03 2022 08:30",
-            "endTime": "Mon, Jan 03 2022 08:45",
+            "startTime": "Thu Mar 31 2022 08:30",
+            "rangeStart": "Thu Mar 31 2022 08:30",
+            "endTime": "Thu Mar 31 2022 08:45",
             "start": "08:30",
             "end": "08:45",
             "duration": "00:15",
@@ -2317,13 +2317,13 @@
             "selectedRepeat": "Never",
             "rangeDeviation": {},
             "_recurring": false,
-            "rangeEnd": "Mon, Apr 04 2022 08:45",
-            "status": "Pending",
+            "rangeEnd": "Thu Mar 31 2022 08:45",
+            "status": "Checked in waiting",
             "appointmentType": "Follow-up",
             "contact-home": "",
             "cell": "",
             "work": "",
-            "treatmentDate": "04/03/2022",
+            "treatmentDate": "03/31/2022",
             "treatmentTime": "08:30",
             "providerInfo": {
                 "providerUserID": "mrodri01"
@@ -2550,6 +2550,194 @@
                 },
                 "currentIllnessDate": "",
                 "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar52",
+            "startTime": "Fri Apr 09 2021 09:30",
+            "rangeStart": "Fri Apr 09 2021 09:30",
+            "endTime": "Fri Apr 09 2021 09:45",
+            "start": "09:30",
+            "end": "09:45",
+            "duration": "00:15",
+            "reasonForVisit": "Muscle aches",
+            "allDay": false,
+            "selectedRepeat": "Never",
+            "rangeDeviation": {},
+            "_recurring": false,
+            "rangeEnd": "Fri Apr 09 2021 09:45",
+            "status": "Checked in waiting",
+            "appointmentType": "New",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/09/2021",
+            "treatmentTime": "09:30",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA019"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "",
+                    "autoAccident": "",
+                    "state": "",
+                    "otherAccident": ""
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar53",
+            "startTime": "Wed Nov 18 2020 11:00",
+            "rangeStart": "Wed Nov 18 2020 11:00",
+            "endTime": "Wed Nov 18 2020 11:15",
+            "start": "11:00",
+            "end": "11:15",
+            "duration": "00:15",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Never",
+            "rangeDeviation": {},
+            "_recurring": false,
+            "rangeEnd": "Wed Nov 18 2020 11:15",
+            "status": "Checked in waiting",
+            "appointmentType": "New",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "11/18/2020",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA005"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "",
+                    "autoAccident": "",
+                    "state": "",
+                    "otherAccident": ""
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar54",
+            "startTime": "Mon Apr 19 2021 09:00",
+            "rangeStart": "Mon Apr 19 2021 09:00",
+            "endTime": "Mon Apr 19 2021 09:15",
+            "start": "09:00",
+            "end": "09:15",
+            "duration": "00:15",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Never",
+            "rangeDeviation": {},
+            "_recurring": false,
+            "rangeEnd": "Mon Apr 19 2021 09:15",
+            "status": "Checked in waiting",
+            "appointmentType": "New",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/19/2021",
+            "treatmentTime": "09:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA001"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "",
+                    "autoAccident": "",
+                    "state": "",
+                    "otherAccident": ""
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar55",
+            "startTime": "Sat Sep 12 2020 11:00",
+            "rangeStart": "Sat Sep 12 2020 11:00",
+            "endTime": "Sat Sep 12 2020 11:15",
+            "start": "11:00",
+            "end": "11:15",
+            "duration": "00:15",
+            "reasonForVisit": "Cough",
+            "allDay": false,
+            "selectedRepeat": "Never",
+            "rangeDeviation": {},
+            "_recurring": false,
+            "rangeEnd": "Sat Sep 12 2020 11:15",
+            "status": "Checked in waiting",
+            "appointmentType": "New",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "09/12/2020",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA021"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "",
+                    "autoAccident": "",
+                    "state": "",
+                    "otherAccident": ""
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "",
                 "unableToWork": {
                     "from": "",
                     "to": ""

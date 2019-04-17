@@ -1,52 +1,56 @@
 ||Fields||Validations||Size of the field||,*Appointment Id,startTime,duration,aptDate,patientName,treatmentDate,providerName,status,appointmentType,reasonForVisit,Contact information will pull from patient info,contact-home ,cell,work,autoAccident,otherAccident,employment,currentIllnessDate,lastIllnessDate,"Dates patient is unable to work in current occupation (From, To dates)",referringProvider,selectedRepeat
-Appointment 1,,8:15,15,,Alicia Matthews,,Ingram,checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 1,,8:15,15,,Alicia Matthews,,Rodriguez,checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 1,,8:15,15,,Alicia Matthews,,McGrath,checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 1,,8:15,15,,Alicia Matthews,,Corrotti,checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 1,,8:15,15,,Alicia Matthews,,Reddy,checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 2,,9:00,30,,Elaine Verados,,Rodriguez,checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 3,,9:15,15,,Anna Jacobs,,Rodriguez,checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 4,,10:15,15,,Carl Pike,,Rodriguez,checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 5,,10:45,15,,Jason Peterson,,Rodriguez,checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 1,,8:15,15,,Alicia Matthews,,Ingram,Checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 1,,8:15,15,,Alicia Matthews,,Rodriguez,Checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 1,,8:15,15,,Alicia Matthews,,McGrath,Checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 1,,8:15,15,,Alicia Matthews,,Corrotti,Checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 1,,8:15,15,,Alicia Matthews,,Reddy,Checked in waiting,Follow-up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 2,,9:00,30,,Elaine Verados,,Rodriguez,Checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 3,,9:15,15,,Anna Jacobs,,Rodriguez,Checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 4,,10:15,15,,Carl Pike,,Rodriguez,Checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 5,,10:45,15,,Jason Peterson,,Rodriguez,Checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 6,,11:00,30,,James Phillips,,Rodriguez,pending,Follow-up,Acne,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 7,,1:00,30,,Alexis Shaw,,Rodriguez,pending,Follow-up,Blood in urine,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 8,,1:45,15,,Jaden Shaw,,Rodriguez,pending,Follow-up,Foreign body in eye,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 9,,3:00,60,,Cathy Hess,,Rodriguez,pending,Follow-up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 2,,9:00,30,,Elaine Verados,,McGrath,checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 3,,9:15,15,,Anna Jacobs,,McGrath,checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 4,,10:15,15,,Carl Pike,,McGrath,checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 5,,10:45,15,,Jason Peterson,,McGrath,checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 2,,9:00,30,,Elaine Verados,,McGrath,Checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 3,,9:15,15,,Anna Jacobs,,McGrath,Checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 4,,10:15,15,,Carl Pike,,McGrath,Checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 5,,10:45,15,,Jason Peterson,,McGrath,Checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 6,,11:00,30,,James Phillips,,McGrath,pending,Follow-up,Acne,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 7,,1:00,30,,Alexis Shaw,,McGrath,pending,Follow-up,Blood in urine,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 8,,1:45,15,,Jaden Shaw,,McGrath,pending,Follow-up,Foreign body in eye,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 9,,3:00,60,,Cathy Hess,,McGrath,pending,Follow-up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 2,,9:00,30,,Elaine Verados,,Corrotti,checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 3,,9:15,15,,Anna Jacobs,,Corrotti,checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 4,,10:15,15,,Carl Pike,,Corrotti,checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 5,,10:45,15,,Jason Peterson,,Corrotti,checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 2,,9:00,30,,Elaine Verados,,Corrotti,Checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 3,,9:15,15,,Anna Jacobs,,Corrotti,Checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 4,,10:15,15,,Carl Pike,,Corrotti,Checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 5,,10:45,15,,Jason Peterson,,Corrotti,Checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 6,,11:00,30,,James Phillips,,Corrotti,pending,Follow-up,Acne,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 7,,1:00,30,,Alexis Shaw,,Corrotti,pending,Follow-up,Blood in urine,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 8,,1:45,15,,Jaden Shaw,,Corrotti,pending,Follow-up,Foreign body in eye,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 9,,3:00,60,,Cathy Hess,,Corrotti,pending,Follow-up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 2,,9:00,30,,Elaine Verados,,Reddy,checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 3,,9:15,15,,Anna Jacobs,,Reddy,checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 4,,10:15,15,,Carl Pike,,Reddy,checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 5,,10:45,15,,Jason Peterson,,Reddy,checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 2,,9:00,30,,Elaine Verados,,Reddy,Checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 3,,9:15,15,,Anna Jacobs,,Reddy,Checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 4,,10:15,15,,Carl Pike,,Reddy,Checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 5,,10:45,15,,Jason Peterson,,Reddy,Checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 6,,11:00,30,,James Phillips,,Reddy,pending,Follow-up,Acne,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 7,,1:00,30,,Alexis Shaw,,Reddy,pending,Follow-up,Blood in urine,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 8,,1:45,15,,Jaden Shaw,,Reddy,pending,Follow-up,Foreign body in eye,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 9,,3:00,60,,Cathy Hess,,Reddy,pending,Follow-up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 2,,9:00,30,,Elaine Verados,,Ingram,checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 3,,9:15,15,,Anna Jacobs,,Ingram,checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 4,,10:15,15,,Carl Pike,,Ingram,checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 5,,10:45,15,,Jason Peterson,,Ingram,checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 2,,9:00,30,,Elaine Verados,,Ingram,Checked in waiting,Follow-up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 3,,9:15,15,,Anna Jacobs,,Ingram,Checked in waiting,Follow-up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 4,,10:15,15,,Carl Pike,,Ingram,Checked in waiting,Follow-up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Everyday
+Appointment 5,,10:45,15,,Jason Peterson,,Ingram,Checked in waiting,Follow-up,Rash,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 6,,11:00,30,,James Phillips,,Ingram,pending,Follow-up,Acne,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 7,,1:00,30,,Alexis Shaw,,Ingram,pending,Follow-up,Blood in urine,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 8,,1:45,15,,Jaden Shaw,,Ingram,pending,Follow-up,Foreign body in eye,,,,,No,No,No,NA,NA,NA,NA,Everyday
 Appointment 9,,3:00,60,,Cathy Hess,,Ingram,pending,Follow-up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Everyday
-Appointment 2,,8:30,15,3/31/2022,Amy Peterson,,Rodriguez,checked in waiting,Follow-up,Check up,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 2,,8:30,15,3/31/2022,Amy Peterson,,Rodriguez,Checked in waiting,Follow-up,Check up,,,,,No,No,No,NA,NA,NA,NA,Never
 Appointment 3,,8:15,15,4/4/2022,Mark Robinski,4/4/2022,Ingram,checked out,Follow-up,Diabetic check,,,,,No,No,No,NA,NA,NA,NA,Never
 Appointment 4,,8:15,15,4/1/2022,Alicia Matthews,4/1/2022,Rodriguez,checked out,Follow-up,Check up,,,,,No,No,No,NA,NA,NA,NA,Never
 Appointment 5,,9:00,30,4/4/2022,Elaine Verados,4/4/2022,McGrath,checked out,Follow-up,Complete physical,,,,,No,No,No,NA,NA,NA,NA,Never
 Appointment 6,,9:15,15,3/31/2022,Anna Jacobs,3/31/2022,Reddy,checked out,Follow-up,Leg pain,,,,,No,No,No,NA,NA,NA,NA,Never
 Appointment 7,,10:15,15,3/30/2022,Carl Pike,3/30/2022,Ingram,checked out,Follow-up,Headaches,,,,,No,No,No,NA,NA,NA,NA,Never
+,,9:30,15,4/9/2021,Kevin Washington,4/9/2021,Ingram,Checked in waiting,New,Muscle aches,,,,,,,,,,,,Never
+,,11:00,15,11/18/2020,James Phillips,11/18/2020,Ingram,Checked in waiting,New,Annual physical,,,,,,,,,,,,Never
+,,9:00,15,4/19/2021,Alexis Shaw,4/19/2021,Ingram,Checked in waiting,New,Annual physical,,,,,,,,,,,,Never
+,,11:00,15,9/12/2020,Jack Kyser,9/12/2020,Reddy,Checked in waiting,New,Cough,,,,,,,,,,,,Never
