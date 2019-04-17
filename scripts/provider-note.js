@@ -83,8 +83,6 @@ function createDataArray(dataString, codeArray, key, type, additionalField, chec
                 else if (procedure[dataObj.id]) {
                     dataObj.value = procedure[dataObj.id]["description"]
                 }
-
-
                 if (type && type === 'prescription' || type === 'immunization') {
                     dataObj.additionalField = additionalField ? additionalField : '';
                 }
