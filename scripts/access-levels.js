@@ -44,7 +44,7 @@ var moment = require("moment");
 function createData(element) {
 
     var dataObj = {};
-    dataObj.staffId = element.ID;
+    dataObj.ID = element.ID;
     dataObj.accessLevelObject = {};
     dataObj.accessLevelObject.sch = element.sch;
     dataObj.accessLevelObject.enc = element.enc;
