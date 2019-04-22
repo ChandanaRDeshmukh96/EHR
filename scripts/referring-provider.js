@@ -14,6 +14,16 @@ function generateRPId(){
     }
 };
 
+function getFaxFormat(fax){
+    var formattedFax = "";
+    while(fax.indexOf('-')!== -1){
+        var i = fax.indexOf('-');
+        fax= fax.slice(0,i)+fax.slice(i+1);
+    }
+    formattedFax='-'+fax.slice(0,3)+'-'+fax.slice(3);
+    return formattedFax;
+};
+
 function dataWrapper(data) {
     var wrapperData = {
         "info": {
@@ -45,7 +55,7 @@ function dataWrapper(data) {
             refferingProviderData.secondarySpeciality = element.secondarySpeciality;
             refferingProviderData.credentials=element.credentials;
             refferingProviderData.dob="";
-            refferingProviderData.fax=element.fax;
+            refferingProviderData.fax=getFaxFormat(element.fax);
             refferingProviderData.phone=element.phone;
             refferingProviderData.cell="";
             refferingProviderData.email="";
@@ -53,7 +63,7 @@ function dataWrapper(data) {
             refferingProviderData.address={};
             refferingProviderData.address.street=element.Address__street;
             refferingProviderData.address.city=element.Address__city;
-            refferingProviderData.address.state=element.Address__state;
+            refferingProviderData.address.state=element.Address__state === "OH" ? "Ohio" : element.Address__state;
             refferingProviderData.address.zipCode=element.Address__zipCode;
             refferingProviderData.ssn="";
             refferingProviderData.smlNumber="";

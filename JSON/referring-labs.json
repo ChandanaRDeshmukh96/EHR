@@ -1,1 +1,122 @@
-{"info":{"status":"200","message":"OK"},"data":[{"id":"TMP01","title":"Diagnostic Labs","address":{"street":"976 Heirloom Ave","city":"Madison","state":"XY","zipCode":"58764","locationID":""},"contact":{"phone1":"555-478-6783","phone2":"","primaryContactName":"","email":"lab@diagnosticlabsxy.com","fax":"555-478-9536","website":"diagnosticlabsxy.com"}},{"id":"TMP02","title":"Avila Diagnostics","address":{"street":"12415 Campus Ln","city":"Hanson","state":"XY","zipCode":"25798","locationID":""},"contact":{"phone1":"555-936-3678","phone2":"","primaryContactName":"","email":"lab@aviladiagnosticsxy.com","fax":"555-936-2711","website":"aviladiagnosticsxy.com"}},{"id":"TMP03","title":"LabPower","address":{"street":"6344 Monument Dr","city":"Midland","state":"XY","zipCode":"39554","locationID":""},"contact":{"phone1":"555-508-9512","phone2":"","primaryContactName":"","email":"lab@labpowerxy.com","fax":"555-508-5324","website":"labpowerxy.com"}},{"id":"TMP04","title":"LeLonde Digital Imaging","address":{"street":"7859 Knight Ave","city":"Bringham Farms","state":"XY","zipCode":"63174","locationID":""},"contact":{"phone1":"555-759-3587","phone2":"","primaryContactName":"","email":"lab@lelondeimaningxy.com","fax":"555-759-3009","website":"lelondeimagingxy.com"}},{"id":"TMP05","title":"Clini-Lab","address":{"street":"89641 Ash St","city":"Aurora","state":"XY","zipCode":"96217","locationID":""},"contact":{"phone1":"555-896-3667","phone2":"","primaryContactName":"","email":"lab@clini-labxy.com","fax":"555-896-3977","website":"clini-labxy.com"}},{"id":"TMP06","title":"Alpine Diagnostic Labs","address":{"street":"39452 Apollo Blvd","city":"Hanson","state":"XY","zipCode":"10365","locationID":""},"contact":{"phone1":"555-267-8453","phone2":"","primaryContactName":"","email":"lab@alpinediagnosticlabsxy.com","fax":"555-267-3678","website":"alpinediagnosticlabsxy.com"}}]}
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": [
+        {
+            "id": "TMP01",
+            "title": "Diagnostic Labs",
+            "address": {
+                "street": "976 Heirloom Ave",
+                "city": "Madison",
+                "state": "XY",
+                "zipCode": "58764",
+                "locationID": ""
+            },
+            "contact": {
+                "phone1": "555-478-6783",
+                "phone2": "",
+                "primaryContactName": "",
+                "email": "lab@diagnosticlabsxy.com",
+                "fax": "-555-4789536",
+                "website": "diagnosticlabsxy.com"
+            }
+        },
+        {
+            "id": "TMP02",
+            "title": "Avila Diagnostics",
+            "address": {
+                "street": "12415 Campus Ln",
+                "city": "Hanson",
+                "state": "XY",
+                "zipCode": "25798",
+                "locationID": ""
+            },
+            "contact": {
+                "phone1": "555-936-3678",
+                "phone2": "",
+                "primaryContactName": "",
+                "email": "lab@aviladiagnosticsxy.com",
+                "fax": "-555-9362711",
+                "website": "aviladiagnosticsxy.com"
+            }
+        },
+        {
+            "id": "TMP03",
+            "title": "LabPower",
+            "address": {
+                "street": "6344 Monument Dr",
+                "city": "Midland",
+                "state": "XY",
+                "zipCode": "39554",
+                "locationID": ""
+            },
+            "contact": {
+                "phone1": "555-508-9512",
+                "phone2": "",
+                "primaryContactName": "",
+                "email": "lab@labpowerxy.com",
+                "fax": "-555-5085324",
+                "website": "labpowerxy.com"
+            }
+        },
+        {
+            "id": "TMP04",
+            "title": "LeLonde Digital Imaging",
+            "address": {
+                "street": "7859 Knight Ave",
+                "city": "Bringham Farms",
+                "state": "XY",
+                "zipCode": "63174",
+                "locationID": ""
+            },
+            "contact": {
+                "phone1": "555-759-3587",
+                "phone2": "",
+                "primaryContactName": "",
+                "email": "lab@lelondeimaningxy.com",
+                "fax": "-555-7593009",
+                "website": "lelondeimagingxy.com"
+            }
+        },
+        {
+            "id": "TMP05",
+            "title": "Clini-Lab",
+            "address": {
+                "street": "89641 Ash St",
+                "city": "Aurora",
+                "state": "XY",
+                "zipCode": "96217",
+                "locationID": ""
+            },
+            "contact": {
+                "phone1": "555-896-3667",
+                "phone2": "",
+                "primaryContactName": "",
+                "email": "lab@clini-labxy.com",
+                "fax": "-555-8963977",
+                "website": "clini-labxy.com"
+            }
+        },
+        {
+            "id": "TMP06",
+            "title": "Alpine Diagnostic Labs",
+            "address": {
+                "street": "39452 Apollo Blvd",
+                "city": "Hanson",
+                "state": "XY",
+                "zipCode": "10365",
+                "locationID": ""
+            },
+            "contact": {
+                "phone1": "555-267-8453",
+                "phone2": "",
+                "primaryContactName": "",
+                "email": "lab@alpinediagnosticlabsxy.com",
+                "fax": "-555-2673678",
+                "website": "alpinediagnosticlabsxy.com"
+            }
+        }
+    ]
+}

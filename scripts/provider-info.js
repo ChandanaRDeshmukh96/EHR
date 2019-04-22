@@ -40,7 +40,7 @@ function dataWrapper(data) {
             providerData.address={};
             providerData.address.street=element.Address__+", "+ element.Address__street;
             providerData.address.city=element.Address__city;
-            providerData.address.state=element.Address__state;
+            providerData.address.state=element.Address__state === "OH" ? "Ohio" : element.Address__state;
             providerData.address.zipCode=element.Address__zipCode;
             providerData.npiNumber=element.npiNumber;
             providerData.smlNumber=element.smlNumber;

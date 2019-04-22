@@ -5,9 +5,14 @@
     },
     "data": {
         "2018": {
+            "10060": {
+                "type": "Surgery",
+                "description": "I&D, Abscess Sngle/Smpl",
+                "cost": "98"
+            },
             "10061": {
                 "type": "Surgery",
-                "description": "I&D Abscess; Multi/Complc",
+                "description": "I&D Abscess Multi/Complc",
                 "cost": "215"
             },
             "10120": {

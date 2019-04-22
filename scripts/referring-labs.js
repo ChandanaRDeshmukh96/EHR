@@ -13,7 +13,15 @@ function generateRPId(){
         return "TMP"+id;
     }
 };
-
+function getFaxFormat(fax){
+    var formattedFax = "";
+    while(fax.indexOf('-')!== -1){
+        var i = fax.indexOf('-');
+        fax= fax.slice(0,i)+fax.slice(i+1);
+    }
+    formattedFax='-'+fax.slice(0,3)+'-'+fax.slice(3);
+    return formattedFax;
+};
 function dataWrapper(data) {
     var wrapperData = {
         "info": {
@@ -41,7 +49,7 @@ function dataWrapper(data) {
             dataObj.address={};
             dataObj.address.street=element.Address__street;
             dataObj.address.city=element.Address__city;
-            dataObj.address.state=element.Address__state;
+            dataObj.address.state=element.Address__state === "OH" ? "Ohio" : element.Address__state;
             dataObj.address.zipCode=element.Address__zipCode;
             dataObj.address.locationID="";
             dataObj.contact = {};
@@ -49,7 +57,7 @@ function dataWrapper(data) {
             dataObj.contact.phone2 = element.phone2;
             dataObj.contact.primaryContactName = "";
             dataObj.contact.email = element.email;
-            dataObj.contact.fax = element.fax;
+            dataObj.contact.fax = getFaxFormat(element.fax);
             dataObj.contact.website = element.website;
 
             wrapperData.data.push(dataObj);

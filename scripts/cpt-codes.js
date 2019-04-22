@@ -56,6 +56,7 @@ function dataWrapper(data) {
                 break;
             }
         }
+
         if(flag == 1){   
         // check if the edition is present, and add a place holder with cost 0.
         if(isEmpty(cptCodeData['data'][element.edition])){
@@ -64,12 +65,13 @@ function dataWrapper(data) {
             cptCodeData['data'][element.edition]["000.00"].type = "Procedure";
             cptCodeData['data'][element.edition]["000.00"].description = "Placeholder";
             cptCodeData['data'][element.edition]["000.00"].cost = "0";
-        }else{
+        }
+            // console.log(element.code);
             cptCodeData['data'][element.edition][element.code]={};
             cptCodeData['data'][element.edition][element.code].type = getTypeCode(element.type);
             cptCodeData['data'][element.edition][element.code].description = element.description;
             cptCodeData['data'][element.edition][element.code].cost = element.cost;
-        }
+        
     }
 });
     return cptCodeData;

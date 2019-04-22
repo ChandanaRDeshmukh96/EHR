@@ -28,39 +28,41 @@ function getDoW (date){
 };
 
 function getNumOfWeek (day){
-    switch(day){
+    console.log(day);
+    switch(day.trim()){
         case "monday" : return 1;
         case "tuesday" : return 2;
         case "wednesday" : return 3;
         case "thursday" : return 4;
         case "friday" : return 5;
         case "saturday" : return 6;
-        case "sunday" : return 7;
+        case "sunday" : return 0;
+        case "day" : return [1,2,3,4,5,6,0];
     }
 }
 
 function getDayOfWeek(repeat){
    var d1, d2;
    var dowArray = [];
-    var dow = repeat.split("Every")[1];
-   d1 = dow.indexOf("-")!=-1 ? getNumOfWeek(dow.split("-")[0].trim().toLowerCase()) : 999;
-   if(d1!=999){
-        d2 =getNumOfWeek(dow.split("-")[1].trim().toLowerCase());
-        // var i = d1>d2 ? d2 : d1;
-        // var l = d1>d2 ? d1 : d2;
-        var i = d1;
-        var l = d2;
-        for(i ;i<=l ;i++){
-            if(i==7){
-                dowArray.push(0);
-            }else{
-                dowArray.push(i);
-            }
-        };
-        return dowArray;
-   } else{
-           return [getNumOfWeek(dow.split("-")[0].trim().toLowerCase())]; 
-    }
+    var dow = repeat.toLowerCase().split("every")[1];
+//    d1 = dow.indexOf("-")!=-1 ? getNumOfWeek(dow.split("-")[0].trim().toLowerCase()) : 999;
+//    if(d1!=999){
+//         d2 =getNumOfWeek(dow.split("-")[1].trim().toLowerCase());
+//         // var i = d1>d2 ? d2 : d1;
+//         // var l = d1>d2 ? d1 : d2;
+//         var i = d1;
+//         var l = d2;
+//         for(i ;i<=l ;i++){
+//             if(i==7){
+//                 dowArray.push(0);
+//             }else{
+//                 dowArray.push(i);
+//             }
+//         };
+//         return dowArray;
+//    } else{
+           return [getNumOfWeek(dow)]; 
+    // }
 }
 
 function getTime(dateAndTime){

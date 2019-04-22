@@ -26,7 +26,17 @@ function generateInsuranceProviderID(){
     }else{
         return "ip00"+id;
     }
-}
+};
+
+function getFaxFormat(fax){
+    var formattedFax = "";
+    while(fax.indexOf('-')!== -1){
+        var i = fax.indexOf('-');
+        fax= fax.slice(0,i)+fax.slice(i+1);
+    }
+    formattedFax='-'+fax.slice(0,3)+'-'+fax.slice(3);
+    return formattedFax;
+};
 
 function createInsuranceProviderInfoData(element) {
     var dataObj = {};
@@ -46,13 +56,13 @@ function createInsuranceProviderInfoData(element) {
     dataObj.address={};
             dataObj.address.street=element.Address__street;
             dataObj.address.city=element.Address__city;
-            dataObj.address.state=element.Address__state;
-            dataObj.address.zipCode=element.Address__zipCode;
+            dataObj.address.state=element.Address__state === "OH" ? "Ohio" : element.Address__state;
+            dataObj.address.zip=element.Address__zipCode;
             dataObj.contact={};
             dataObj.contact.primaryContactName = element.primaryContactName;
             dataObj.contact.phone = element.phone;
             dataObj.contact.phone1 = element.phone1;
-            dataObj.contact.fax = element.fax;
+            dataObj.contact.fax = getFaxFormat(element.fax);
             dataObj.contact.website = element.website;
             dataObj.contact.email = element.email;
             dataObj.payerId = element.payerId;

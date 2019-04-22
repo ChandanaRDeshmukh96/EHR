@@ -9,6 +9,10 @@
                 "description": "Placeholder",
                 "cost": "0"
             },
+            "R10.84": {
+                "description": "Abdominal pain (generalized)",
+                "cost": "0"
+            },
             "R10.30": {
                 "description": "Abdominal pain (lower)",
                 "cost": "0"

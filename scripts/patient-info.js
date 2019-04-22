@@ -48,7 +48,7 @@ function dataWrapper(data) {
             patientsData.Address = {};
             patientsData.Address.street = element.Address__ + ", " + element.Address__street;
             patientsData.Address.city = element.Address__city;
-            patientsData.Address.state = element.Address__state;
+            patientsData.Address.state = element.Address__state === "OH" ? "Ohio" : element.Address__state;
             patientsData.Address.zipCode = element.Address__zipCode;
             patientsData.contact = {};
             patientsData.contact.cell = element.contact__cell;

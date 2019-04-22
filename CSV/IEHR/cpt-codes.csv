@@ -1,6 +1,6 @@
 edition,code,type,description,cost
-2018,10060,Surgery,"I&D, Abscess; Sngle/Smpl",98
-2018,10061,Surgery,I&D Abscess; Multi/Complc,215
+2018,10060,Surgery,"I&D, Abscess Sngle/Smpl",98
+2018,10061,Surgery,I&D Abscess Multi/Complc,215
 2018,10120,Surgery,"I&R, Foreign Body, Smpl",119
 2018,11200,Surgery,"Remove Skin Tags, 1-15",104
 2018,11201,Surgery,"Remove Skin Tags, Addl 10",55

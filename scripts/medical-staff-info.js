@@ -2,6 +2,7 @@ const fileName = "medical-staff-info";
 const csvFilePath = '../CSV/IEHR/'+fileName+'.csv';
 const csv = require('csvtojson');
 const fs = require('fs');
+var moment = require("moment");
 // let patient = require('patient-info.json').data;
 
 function generateStaffId(id){
@@ -12,6 +13,13 @@ function generateStaffId(id){
     }else{
         return "S00"+id;
     }
+};
+
+
+function caseFilter(string) 
+{
+    string = string.toLowerCase();
+    return string.charAt(0).toUpperCase() + string.slice(1);;
 };
 
 function dataWrapper(data) {
@@ -42,22 +50,22 @@ function dataWrapper(data) {
             staffData.middleName=element.middleName;
             staffData.lastName=element.lastName;
             staffData.suffix=element.suffix;
-            staffData.dob=element.dob;
-            staffData.gender=element.gender;
+            staffData.dob=moment(element.dob).format("MM/DD/YYYY");
+            staffData.gender=element.gender.indexOf('F')!=-1 ? "Female" : "Male";
             staffData.address={};
             staffData.address.street=element.Address__street;
             staffData.address.city=element.Address__city;
-            staffData.address.state=element.Address__state;
-            staffData.address.zipCode=element.Address__zipCode;
+            staffData.address.state=element.Address__state === "OH"? "Ohio":element.Address__state;
+            staffData.address.zip=element.Address__zipCode;
             staffData.contact={};
             staffData.contact.primaryPhone = element.primaryPhone;
-            staffData.contact.primaryPhoneType = element.primaryPhoneType;
+            staffData.contact.primaryPhoneType = caseFilter(element.primaryPhoneType);
             staffData.contact.alternatePhone = element.alternatePhone;
-            staffData.contact.alternatePhoneType = element.alternatePhoneType;
+            staffData.contact.alternatePhoneType = caseFilter(element.alternatePhoneType);
             staffData.email=element.email;
             staffData.ssn=element.ssn;
             staffData.empStartDate=element.empStartDate;
-            staffData.position=element.position;
+            staffData.position=caseFilter(element.position);
             staffData.credentials=element.credentials;
 
             id=id+1;

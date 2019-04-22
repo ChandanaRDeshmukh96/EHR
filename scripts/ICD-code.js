@@ -38,11 +38,11 @@ function dataWrapper(data) {
             icdCodeData['data'][element.edition]["000.00"]={};
             icdCodeData['data'][element.edition]["000.00"].description = "Placeholder";
             icdCodeData['data'][element.edition]["000.00"].cost = "0";
-        }else{
+        }
             icdCodeData['data'][element.edition][element.code]={};
             icdCodeData['data'][element.edition][element.code].description = element.description;
             icdCodeData['data'][element.edition][element.code].cost = "0";
-        }
+        
     }
 });
     return icdCodeData;
