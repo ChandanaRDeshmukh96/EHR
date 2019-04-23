@@ -19,7 +19,7 @@ function getFaxFormat(fax){
         var i = fax.indexOf('-');
         fax= fax.slice(0,i)+fax.slice(i+1);
     }
-    formattedFax='-'+fax.slice(0,3)+'-'+fax.slice(3);
+    formattedFax='+1-'+fax.slice(0,3)+'-'+fax.slice(3);
     return formattedFax;
 };
 function dataWrapper(data) {

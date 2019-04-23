@@ -34,6 +34,7 @@ function getFaxFormat(fax){
         var i = fax.indexOf('-');
         fax= fax.slice(0,i)+fax.slice(i+1);
     }
+    // format is different compared to others -> -XXX-XXXXXXX
     formattedFax='-'+fax.slice(0,3)+'-'+fax.slice(3);
     return formattedFax;
 };
@@ -49,8 +50,8 @@ function createInsuranceProviderInfoData(element) {
     dataObj.coinsurance = element.coinsurance ? element.coinsurance : 0;
     dataObj.deductibleMet = "Yes";
     dataObj.deductible = 2000;
-    dataObj.effectiveStartDate = moment(element.effectiveStartDate).format("MM/DD/YYYY");
-    dataObj.effectiveEndDate = moment(element.effectiveEndDate).format("MM/DD/YYYY");
+    dataObj.effectiveStartDate = "01/01/2022"
+    dataObj.effectiveEndDate = "12/31/2022";
     dataObj.selectedCoverage = 200;
     dataObj.syncEnable = true;
     dataObj.address={};
