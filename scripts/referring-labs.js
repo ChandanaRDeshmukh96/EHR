@@ -50,7 +50,7 @@ function dataWrapper(data) {
             dataObj.address.street=element.Address__street;
             dataObj.address.city=element.Address__city;
             dataObj.address.state=element.Address__state === "OH" ? "Ohio" : element.Address__state;
-            dataObj.address.zipCode=element.Address__zipCode;
+            dataObj.address.zip=element.Address__zipCode;
             dataObj.address.locationID="";
             dataObj.contact = {};
             dataObj.contact.phone1 = element.phone1;

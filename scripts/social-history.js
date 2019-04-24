@@ -14,7 +14,14 @@ function findChartNo(firstName, lastName) {
         }
     });
     return chartNumber;
-}
+};
+
+function caseFilter(string) 
+{
+    string = string.toLowerCase();
+    return string.charAt(0).toUpperCase() + string.slice(1);
+};
+
 function createPatientData(element, i) {
 
     var dataObj = {};
@@ -36,7 +43,7 @@ function createPatientData(element, i) {
     dataObj.illicitDrugs.other="";
     dataObj.drugDetails=element.drugDetails;
     dataObj.exercise=element.exercise;
-    dataObj.sleep=element.sleep;
+    dataObj.sleepPerHours=element.sleep;
     dataObj.useOfSeatBelt=element.useOfSeatBelt;
     dataObj.livingArrangements=element.livingArrangements;
     dataObj.marriage=element.marriage;
@@ -45,8 +52,8 @@ function createPatientData(element, i) {
     dataObj.sexuallyActive=element.sexuallyActive;
     dataObj.sexualPartners={};
     // var temp=element.sexualPartners.split(';');
-    dataObj.sexualPartners.number=element.number;
-    dataObj.sexualPartners.gender=element.gender;
+    dataObj.sexualPartner=element.number;
+    dataObj.sexualPartners.gender=caseFilter(element.gender);
     dataObj.historyOfSTIDiagnosis=element.historyOfSTIDiagnosis;
     dataObj.additionalDescription=element.additionalDescription;
     dataObj.useOfProtection=element.useOfProtection=='NA'?'':element.useOfProtection;

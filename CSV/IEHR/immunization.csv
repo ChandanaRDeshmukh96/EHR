@@ -1,48 +1,48 @@
 patientName,immunizationType,orderingPhysician,followUpDirections,dosage,manufacturer,lotNumber,expirationDate,siteOfAdministration,site,Route,adverseEffects,visGiven,followUpDirectionsProvided,patientInsToReturnOn,immunizationStartDate,nextDoseDueDate
-Karrie Owens,Tdap,Dr. Martinez,NA,NA,ImmuPro,693012,1/1/2012,Right deltoid,,IM,None,Yes,NA,NA,4/9/2011,4/9/2021
+Karrie Owens,Tdap,Dr. Martinez,NA,NA,ImmuPro,693012,1/1/2012,Right,deltoid,IM,None,Yes,NA,NA,4/9/2011,4/9/2021
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-Kevin Washington,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2018,Left deltoid,,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Left deltoid,,IM,None,Yes,Return in one month and six months,5/10/2009,4/10/2009,NA
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Right deltoid,,IM,None,Yes,Return in five months,10/10/2009,4/10/2009,NA
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Left deltoid,,IM,None,Yes,Final dose,NA,4/10/2009,NA
+Kevin Washington,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2018,Left,deltoid,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Left,deltoid,IM,None,Yes,Return in one month and six months,5/10/2009,4/10/2009,NA
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Right,deltoid,IM,None,Yes,Return in five months,10/10/2009,4/10/2009,NA
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Left,deltoid,IM,None,Yes,Final dose,NA,4/10/2009,NA
 ,,,,,,,,,,,,,,,,
-Maria Lopez,Tdap,Dr. McGrath,NA,NA,ImmuPro,4957331,9/1/2018,Right deltoid,,IM,None,Yes,NA,NA,2/16/2018,2/16/2028
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-Jack Kyser,Td,Dr. Reddy,NA,NA,ImmuPro,174377,1/1/2016,Right vastus lateralis,,IM,None,Yes,NA,NA,8/14/2015,8/14/2025
-,Hepatitis B,Dr. Reddy,NA,NA,Heptavax,1948772,11/1/2015,Left vastus lateralis,,IM,None,Yes,Return in one month and six months,3/12/2014,2/12/2014,NA
-,Hepatitis B,Dr. Reddy,NA,NA,Heptavax,1948772,12/1/2015,Right vastus lateralis,,IM,None,Yes,Return in five months,8/12/2014,2/12/2014,NA
-,Hepatitis B,Dr. Reddy,NA,NA,Heptavax,1948772,1/1/2015,Leftvastus lateralis,,IM,None,Yes,Final dose,NA,2/12/2011,NA
-,,,,,,,,,,,,,,,,
-Dae Kim,Pneumovax,Dr. Ingram,NA,NA,Ridley,455871266,12/1/2014,Right deltoid,,IM,None,Yes,NA,NA,3/26/2014,NA
+Maria Lopez,Tdap,Dr. McGrath,NA,NA,ImmuPro,4957331,9/1/2018,Right,deltoid,IM,None,Yes,NA,NA,2/16/2018,2/16/2028
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-Alexis Shaw,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2018,Left deltoid,,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Left deltoid,,IM,None,Yes,Return in one month and six months,5/10/2009,4/10/2009,NA
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Right deltoid,,IM,None,Yes,Return in five months,10/10/2009,4/10/2009,NA
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Left deltoid,,IM,None,Yes,Final dose,NA,4/10/2009,NA
+Jack Kyser,Td,Dr. Reddy,NA,NA,ImmuPro,174377,1/1/2016,Right,vastus lateralis,IM,None,Yes,NA,NA,8/14/2015,8/14/2025
+,Hepatitis B,Dr. Reddy,NA,NA,Heptavax,1948772,11/1/2015,Left,vastus lateralis,IM,None,Yes,Return in one month and six months,3/12/2014,2/12/2014,NA
+,Hepatitis B,Dr. Reddy,NA,NA,Heptavax,1948772,12/1/2015,Right,vastus lateralis,IM,None,Yes,Return in five months,8/12/2014,2/12/2014,NA
+,Hepatitis B,Dr. Reddy,NA,NA,Heptavax,1948772,1/1/2015,Left,vastus lateralis,IM,None,Yes,Final dose,NA,2/12/2011,NA
 ,,,,,,,,,,,,,,,,
-Alicia Matthews,Tdap,Dr. Reddy,NA,NA,ImmuPro,693012,1/1/2019,Right deltoid,,IM,None,Yes,NA,NA,4/9/2018,4/9/2028
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-Elaine Verados,Tdap,Dr. Ingram,NA,NA,ImmuPro,693012,1/1/2017,Right deltoid,,IM,None,Yes,NA,NA,4/9/2016,4/9/2026
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-Carl Pike,Tdap,Dr. Reddy,NA,NA,ImmuPro,693012,1/1/2019,Right deltoid,,IM,None,Yes,NA,NA,4/9/2018,4/9/2028
+Dae Kim,Pneumovax,Dr. Ingram,NA,NA,Ridley,455871266,12/1/2014,Right,deltoid,IM,None,Yes,NA,NA,3/26/2014,NA
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-James Phillips,Tdap,Dr. Ingram,NA,NA,ImmuPro,693012,1/1/2017,Right deltoid,,IM,None,Yes,NA,NA,4/9/2016,4/9/2026
+,,,,,,,,,,,,,,,,
+Alexis Shaw,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2018,Left,deltoid,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Left,deltoid,IM,None,Yes,Return in one month and six months,5/10/2009,4/10/2009,NA
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Right,deltoid,IM,None,Yes,Return in five months,10/10/2009,4/10/2009,NA
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2010,Left,deltoid,IM,None,Yes,Final dose,NA,4/10/2009,NA
+,,,,,,,,,,,,,,,,
+Alicia Matthews,Tdap,Dr. Reddy,NA,NA,ImmuPro,693012,1/1/2019,Right,deltoid,IM,None,Yes,NA,NA,4/9/2018,4/9/2028
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-Anna Jacobs,Tdap,Dr. McGrath,NA,NA,ImmuPro,693012,1/1/2017,Right deltoid,,IM,None,Yes,NA,NA,4/9/2016,4/9/2026
+,,,,,,,,,,,,,,,,
+Elaine Verados,Tdap,Dr. Ingram,NA,NA,ImmuPro,693012,1/1/2017,Right,deltoid,IM,None,Yes,NA,NA,4/9/2016,4/9/2026
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Carl Pike,Tdap,Dr. Reddy,NA,NA,ImmuPro,693012,1/1/2019,Right,deltoid,IM,None,Yes,NA,NA,4/9/2018,4/9/2028
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+James Phillips,Tdap,Dr. Ingram,NA,NA,ImmuPro,693012,1/1/2017,Right,deltoid,IM,None,Yes,NA,NA,4/9/2016,4/9/2026
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Anna Jacobs,Tdap,Dr. McGrath,NA,NA,ImmuPro,693012,1/1/2017,Right,deltoid,IM,None,Yes,NA,NA,4/9/2016,4/9/2026
 ,,,,,,,,,,,,,,,,
 Amy Peterson,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
@@ -51,42 +51,42 @@ Amy Peterson,,,,,,,,,,,,,,,,
 Jason Peterson,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-Mark Robinski,Tdap,Dr. Corotti,NA,NA,ImmuPro,693012,1/1/2017,Right deltoid,,IM,None,Yes,NA,NA,4/9/2016,4/9/2026
+Mark Robinski,Tdap,Dr. Corotti,NA,NA,ImmuPro,693012,1/1/2017,Right,deltoid,IM,None,Yes,NA,NA,4/9/2016,4/9/2026
 ,,,,,,,,,,,,,,,,
 Mark Shaw,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-Anna Lindstrom,Tdap,Dr. Ingram,NA,NA,ImmuPro,693012,1/9/2019,Right deltoid,,IM,None,Yes,NA,NA,5/9/2018,5/9/2028
+Anna Lindstrom,Tdap,Dr. Ingram,NA,NA,ImmuPro,693012,1/9/2019,Right,deltoid,IM,None,Yes,NA,NA,5/9/2018,5/9/2028
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 Cathy Hess,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-David Olivetti,Tdap,Dr. Ingram,NA,NA,ImmuPro,693012,1/9/2019,Right deltoid,,IM,None,Yes,NA,NA,5/9/2018,5/9/2028
+David Olivetti,Tdap,Dr. Ingram,NA,NA,ImmuPro,693012,1/9/2019,Right,deltoid,IM,None,Yes,NA,NA,5/9/2018,5/9/2028
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 Juan Ortega,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-Ian Mikeals,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2018,Left deltoid,,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2014,Left deltoid,,IM,None,Yes,Return in one month and six months,5/10/2013,4/10/2013,NA
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2014,Right deltoid,,IM,None,Yes,Return in five months,10/10/2013,4/10/2013,NA
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2014,Left deltoid,,IM,None,Yes,Final dose,NA,4/10/2013,NA
+Ian Mikeals,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2018,Left,deltoid,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2014,Left,deltoid,IM,None,Yes,Return in one month and six months,5/10/2013,4/10/2013,NA
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2014,Right,deltoid,IM,None,Yes,Return in five months,10/10/2013,4/10/2013,NA
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2014,Left,deltoid,IM,None,Yes,Final dose,NA,4/10/2013,NA
 ,,,,,,,,,,,,,,,,
-Gregory Mikeals,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2018,Left deltoid,,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-Jessie Hamilton,Tdap,Dr. Reddy,NA,NA,ImmuPro,420915,6/1/2018,Left deltoid,,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
-,,,,,,,,,,,,,,,,
-Cynthia Kyser,Tdap,Dr. Reddy,NA,NA,ImmuPro,693012,1/1/2019,Right deltoid,,IM,None,Yes,NA,NA,4/9/2018,4/9/2028
+Gregory Mikeals,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2018,Left,deltoid,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-Jaden Shaw,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2020,Left deltoid,,IM,None,Yes,NA,NA,1/14/2019,1/14/2029
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2021,Left deltoid,,IM,None,Yes,Return in one month and six months,5/10/2020,4/10/2020,NA
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2021,Right deltoid,,IM,None,Yes,Return in five months,10/10/2020,4/10/2020,NA
-,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2021,Left deltoid,,IM,None,Yes,Final dose,NA,4/10/2020,NA
 ,,,,,,,,,,,,,,,,
-Jared Hess,Tdap,Dr. McGrath,NA,NA,ImmuPro,693012,1/1/2017,Right deltoid,,IM,None,Yes,NA,NA,4/9/2016,4/9/2026
+Jessie Hamilton,Tdap,Dr. Reddy,NA,NA,ImmuPro,420915,6/1/2018,Left,deltoid,IM,None,Yes,NA,NA,1/14/2017,1/14/2027
+,,,,,,,,,,,,,,,,
+Cynthia Kyser,Tdap,Dr. Reddy,NA,NA,ImmuPro,693012,1/1/2019,Right,deltoid,IM,None,Yes,NA,NA,4/9/2018,4/9/2028
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Jaden Shaw,Tdap,Dr. Ingram,NA,NA,ImmuPro,420915,6/1/2020,Left,deltoid,IM,None,Yes,NA,NA,1/14/2019,1/14/2029
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2021,Left,deltoid,IM,None,Yes,Return in one month and six months,5/10/2020,4/10/2020,NA
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2021,Right,deltoid,IM,None,Yes,Return in five months,10/10/2020,4/10/2020,NA
+,Hepatitis B,Dr. Ingram,NA,NA,Heptavax,1746500,3/1/2021,Left,deltoid,IM,None,Yes,Final dose,NA,4/10/2020,NA
+,,,,,,,,,,,,,,,,
+Jared Hess,Tdap,Dr. McGrath,NA,NA,ImmuPro,693012,1/1/2017,Right,deltoid,IM,None,Yes,NA,NA,4/9/2016,4/9/2026

@@ -25,7 +25,7 @@ function createPatientData(element, i) {
     dataObj.attachment.name = element.formName;
     dataObj.attachment.url = element.url;
     dataObj.status = element.status;
-    dataObj.lastUpdate = moment(element.lastUpdate).format("MM/DD/YYYY") + "10:00:00";
+    dataObj.lastUpdate = moment(element.lastUpdate).format("MM/DD/YYYY") + " 10:00:00";
 
     return dataObj;
 }

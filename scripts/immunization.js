@@ -15,7 +15,14 @@ function findChartNo(firstName, lastName) {
         }
     });
     return chartNumber;
-}
+};
+
+function caseFilter(string) 
+{
+    string = string.toLowerCase();
+    return string.charAt(0).toUpperCase() + string.slice(1);
+};
+
 function createData(element, i) {
 
     var dataObj = {};
@@ -28,12 +35,12 @@ function createData(element, i) {
     dataObj.lotNumber=element.lotNumber;
     dataObj.expirationDate=element.expirationDate=='NA'?'':moment(element.expirationDate).format("MM/DD/YYYY");
     dataObj.siteOfAdministration=element.siteOfAdministration;
-    dataObj.site=element.site;
+    dataObj.site=caseFilter(element.site);
     dataObj.otherSite='None';
     dataObj.adverseEffects=element.adverseEffects;
     dataObj.visGiven=element.visGiven;
-    dataObj.followUpDirectionsProvided=element.followUpDirectionsProvided;
-    dataObj.patientInsToReturnOn=element.patientInsToReturnOn;
+    dataObj.followUpDirectionsProvided=element.followUpDirectionsProvided=='NA'?'':element.followUpDirectionsProvided;
+    dataObj.patientInsToReturnOn=element.patientInsToReturnOn=='NA'?'':moment(element.patientInsToReturnOn).format("MM/DD/YYYY");
     dataObj.immunizationStartDate=element.immunizationStartDate=='NA'?'':moment(element.immunizationStartDate).format("MM/DD/YYYY");
     dataObj.nextDoseDueDate=element.nextDoseDueDate=='NA'?'':moment(element.nextDoseDueDate).format("MM/DD/YYYY");
 

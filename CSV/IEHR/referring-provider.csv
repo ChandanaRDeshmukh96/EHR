@@ -1,23 +1,23 @@
 firstName,middleName,lastName,Address__street,Address__city,Address__state,Address__zipCode,phone,fax,credentials,speciality,secondarySpeciality,npiNumber
-Mark,,Abelman,1957 Lakeview Dr,Toledo,Ohio,43601-1957,555-958-1753,555-958-8583,M.D.,Family Practice,,2224567833
-Ashlynn,,Harris,17922 Mack Ave,Hanson,XY,49752,555-795-3674,555-795-3936,M.D.,Cardiology,Pulmonology,1975836675
+Mark,,Abelman,1957 Lakeview Dr,Toledo,Ohio,43601-1957,555-958-1753,555-958-8583,M.D.,Family Medicine,,2224567833
+Ashlynn,,Harris,17922 Mack Ave,Hanson,XY,49752,555-795-3674,555-795-3936,M.D.,Cardiology,Pulmonary,1975836675
 Amyra,Marie,Sanchez,147 Greenbrough St,Midland,XY,36789,555-241-9337,555-241-9154,M.D.,Podiatry,,2793668710
 Isha,,Dhar,3694 Hopeton Dr,Bringham Farms,XY,28715,555-367-2003,555-367-4587,M.D.,Gynecology & Obstetrics,,1789645233
 Christina,Lee,Wu,18187 Hampton St,Aurora,XY,71985,555-956-1398,555-956-6783,M.D.,Gastroenterology,Colon/Rectal,2697845321
 Nikolai,,Kowalski,2678 Broadstone Ave,Scottsdale,XY,67854,555-254-6986,555-254-3678,M.D.,Dermatology,,3978614320
 Pratik,,Singh,1934 Main St,Norman,XY,26748,555-674-0599,555-674-9512,M.D.,Plastic Surgery,Dermatology,9748975362
-Rachel,Abigail,Bernstein,961 Pebble Ave,Brighton,XY,36975,555-753-2468,555-753-5489,M.D.,Pulmonology,,3002149836
+Rachel,Abigail,Bernstein,961 Pebble Ave,Brighton,XY,36975,555-753-2468,555-753-5489,M.D.,Pulmonary,,3002149836
 Benedito,,Silva,12478 Penrose Dr,Birmingham,XY,25874,555-479-8536,555-479-7536,M.D.,ENT,,1200367848
-Bridget,Aileen,Kelly,963 Vale Way,Williamstown,XY,25896,555-726-5489,555-726-3501,M.D.,Orthopedics,,6175935011
-Jason,Alexander,Williams,21 Beachside St,Hanson,XY,49752,555-489-7536,555-489-3507,M.D.,Oncology,Hematology,3678963507
+Bridget,Aileen,Kelly,963 Vale Way,Williamstown,XY,25896,555-726-5489,555-726-3501,M.D.,Orthopedic Surgery,,6175935011
+Jason,Alexander,Williams,21 Beachside St,Hanson,XY,49752,555-489-7536,555-489-3507,M.D.,Oncology & Hematology,,3678963507
 Claire,Rose,Douglas,4697 Manor Ln,Midland,XY,36789,555-936-6871,555-936-1753,M.D.,Rheumatology,,4987256394
 Mychelle,,Hampton,6528 Crescent Ave,Bringham Farms,XY,28715,555-597-5324,555-597-3674,M.D.,Ophthalmology,,1597265489
 Ethan,James,Wiggins,27559 Bridgeway Dr,Aurora,XY,71985,555-759-3501,555-759-9337,M.D.,Internal Medicine,,3029784587
-Jayla,,Chapman,963 Clarice Ave,Scottsdale,XY,67854,555-896-3507,555-896-2468,D.O.,Family Practice,,3579512586
-Joshua,,Bolden,5826 Redwood St,Norman,XY,26748,555-978-4587,555-978-2003,M.D.,Allergy,Immunology,1597532468
+Jayla,,Chapman,963 Clarice Ave,Scottsdale,XY,67854,555-896-3507,555-896-2468,D.O.,Family Medicine,,3579512586
+Joshua,,Bolden,5826 Redwood St,Norman,XY,26748,555-978-4587,555-978-2003,M.D.,Allergy & Immunology,,1597532468
 Sanjay,,Patel,621 University Blvd,Brighton,XY,36975,555-245-6783,555-245-1398,M.D.,Neurology,,2589631475
-Makayla,,Phillips,3968 Juniper Dr,Birmingham,XY,25874,555-200-3678,555-200-6986,D.O.,Pediatrics,,1357982469
+Makayla,,Phillips,3968 Juniper Dr,Birmingham,XY,25874,555-200-3678,555-200-6986,D.O.,Pediatric Medicine,,1357982469
 Dawn,,Alston,79664 Fountain St,Williamstown,XY,25896,555-357-9512,555-357-0599,M.D.,Psychiatry,,3512647982
 Brandon,Matthew,Edwards,693 College St,Scottsdale,XY,67854,555-246-3587,555-246-6871,M.D.,General Surgery,,3674159644
 Ki,,Chung,9364 Windmill Pointe Dr,Norman,XY,26748,555-985-3667,555-985-5324,M.D.,Urology,,1032463587
-Jacob,Michael,Eckerman,5874 Elm Ct,Midland,XY,36789,555-697-8453,555-697-3501,DPT,Physical Therapy,,4798536674
+Jacob,Michael,Eckerman,5874 Elm Ct,Midland,XY,36789,555-697-8453,555-697-3501,D.P.T.,Physical Therapy,,4798536674

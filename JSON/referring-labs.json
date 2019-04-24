@@ -11,7 +11,7 @@
                 "street": "976 Heirloom Ave",
                 "city": "Madison",
                 "state": "XY",
-                "zipCode": "58764",
+                "zip": "58764",
                 "locationID": ""
             },
             "contact": {
@@ -30,7 +30,7 @@
                 "street": "12415 Campus Ln",
                 "city": "Hanson",
                 "state": "XY",
-                "zipCode": "25798",
+                "zip": "25798",
                 "locationID": ""
             },
             "contact": {
@@ -49,7 +49,7 @@
                 "street": "6344 Monument Dr",
                 "city": "Midland",
                 "state": "XY",
-                "zipCode": "39554",
+                "zip": "39554",
                 "locationID": ""
             },
             "contact": {
@@ -68,7 +68,7 @@
                 "street": "7859 Knight Ave",
                 "city": "Bringham Farms",
                 "state": "XY",
-                "zipCode": "63174",
+                "zip": "63174",
                 "locationID": ""
             },
             "contact": {
@@ -87,7 +87,7 @@
                 "street": "89641 Ash St",
                 "city": "Aurora",
                 "state": "XY",
-                "zipCode": "96217",
+                "zip": "96217",
                 "locationID": ""
             },
             "contact": {
@@ -106,7 +106,7 @@
                 "street": "39452 Apollo Blvd",
                 "city": "Hanson",
                 "state": "XY",
-                "zipCode": "10365",
+                "zip": "10365",
                 "locationID": ""
             },
             "contact": {

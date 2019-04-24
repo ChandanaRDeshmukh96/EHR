@@ -30,8 +30,8 @@ function createPatientData(element, i) {
     dataObj.diagnosisDate = element.diagnosisDate;
     dataObj.dateModified= "Jan 09,2018 10:30 am",
     dataObj.status = element.status;
-    var duration = element.duration.split(" ");
-    dataObj.duration = duration[0]==""?"NA":duration[0];
+    var duration = element.duration.split(" ");    
+    dataObj.duration = duration[0]==""?"0":duration[0];
     var durationUnit= duration[1] ? duration[1] : element.durationUnit;
     if(durationUnit.indexOf("day")!= -1){
         dataObj.durationUnit = "Day(s)";
@@ -41,8 +41,8 @@ function createPatientData(element, i) {
         dataObj.durationUnit = "Month(s)";
     }else if(durationUnit.indexOf("year") != -1){
         dataObj.durationUnit = "Year(s)";
-    }else{
-        dataObj.durationUnit = "NA";
+    }else{        
+        dataObj.durationUnit = "Day(s)";
     }
 
     return dataObj;

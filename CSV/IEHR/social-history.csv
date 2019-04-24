@@ -1,5 +1,5 @@
 patientName,alcoholConsumption,frequency,comments,smoking,snomedCat,caffeineUse,illicitDrugs,drugDetails,exercise,sleep,useOfSeatBelt,livingArrangements,marriage,occupation,education,sexuallyActive,number,gender,historyOfSTIDiagnosis,additionalDescription,useOfProtection
-Karrie Owens,Yes,Monthly,2-3 mixed drinks,No,Never smoker,,Never,,Frequently,6 hours,Always,With family,Married,Accounting,College graduate,Yes,1,men,No,,Never
+Karrie Owens,Yes,Monthly,2-3 mixed drinks,No,Never smoker,,Never,,Frequently,6 hours,Always,With family,Married,Accounting/Finance,College graduate,Yes,1,men,No,,Never
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
@@ -13,7 +13,7 @@ Maria Lopez,Yes,Monthly,1-2 glasses of wine,No,Former smoker,,Never,,Occasionall
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
-Jack Kyser,No,,,No,Never smoker,,Never,,Frequently,8 hours,Always,With family,Never married,Current student,Current student,Never,0,,No,,NA
+Jack Kyser,No,,,No,Never smoker,,Never,,Frequently,8 hours,Always,With family,Never married,Education,Current student,Never,0,,No,,NA
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
@@ -68,7 +68,7 @@ David Olivetti,Yes,Monthly,2-3 beers,No,Never smoker,Yes,Never,,Occasional,7 hou
 ,,,,,,,,,,,,,,,,,,,,,
 Juan Ortega,Yes,Weekly,3-4 mixed drinks,Yes,Current some day smoker,Yes,Yes,Marijuana,Frequently,7 hours,Always,Alone,Single,Retail,Some college,Yes,2,women,No,,Always
 ,,,,,,,,,,,,,,,,,,,,,
-Ian Mikeals,No,,,No,Never smoker,No,No,,Frequently,9 hours,Always,With family,Single,Student,Current student,No,0,,No,,
+Ian Mikeals,No,,,No,Never smoker,No,No,,Frequently,9 hours,Always,With family,Single,Education,Current student,No,0,,No,,
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
@@ -80,7 +80,7 @@ Gregory Mikeals,Yes,Monthly,3-4 beers,No,Former smoker,Yes,No,,Occasionally,8 ho
 ,,,,,,,,,,,,,,,,,,,,,
 Jessie Hamilton,No,,,No,Never smoker,Yes,No,,Frequently,7 hours,Always,With family,Single,Unemployed,Current student,No,0,,,,
 ,,,,,,,,,,,,,,,,,,,,,
-Cynthia Kyser,Yes,Monthly,2-3 mixed drinks,No,Never smoker,,Never,,Frequently,6 hours,Always,With family,Married,Business Owner/Entrepreneurial,College graduate,Yes,1,men,No,,Always
+Cynthia Kyser,Yes,Monthly,2-3 mixed drinks,No,Never smoker,,Never,,Frequently,6 hours,Always,With family,Married,Business owner/Entrepreneurial,College graduate,Yes,1,men,No,,Always
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
