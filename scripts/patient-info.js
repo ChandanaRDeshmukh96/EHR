@@ -5,6 +5,7 @@ const fileName = "patient-info";
 const csvFilePath = '../CSV/IEHR/'+fileName+'.csv';
 const csv = require('csvtojson');
 const fs = require('fs');
+var moment = require("moment");
 // let patient = require('patient-info.json').data;
 
 function dataWrapper(data) {
@@ -31,7 +32,7 @@ function dataWrapper(data) {
             patientsData.firstName = element.firstName;
             patientsData.middleName = element.middleName;
             patientsData.lastName = element.lastName;
-            patientsData.dob = element.dob;
+            patientsData.dob = moment(element.dob).format("MM/DD/YYYY");
             patientsData.gender = element.gender;
             patientsData.maritalStatus = element.maritalStatus;
             patientsData.studentStatus = element.studentStatus;

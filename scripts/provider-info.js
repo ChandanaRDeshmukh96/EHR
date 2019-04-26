@@ -2,6 +2,7 @@ const fileName = "provider-info";
 const csvFilePath = '../CSV/IEHR/'+fileName+'.csv';
 const csv = require('csvtojson');
 const fs = require('fs');
+var moment = require("moment");
 // let patient = require('patient-info.json').data;
 
 function dataWrapper(data) {
@@ -33,7 +34,7 @@ function dataWrapper(data) {
             providerData.gender=element.gender;
             providerData.speciality=element.speciality;
             providerData.credentials=element.credentials;
-            providerData.dob=element.dob;
+            providerData.dob=moment(element.dob).format("MM/DD/YYYY");
             providerData.phone=element.phone;
             providerData.cell=element.cell;
             providerData.email=element.email;
@@ -51,7 +52,7 @@ function dataWrapper(data) {
             providerData.ssn=element.ssn;
             providerData.practiceLicenseNumber=element.practiceLicenseNumber;
             providerData.practiceLicenseExpirationDate=element.practiceLicenseExpirationDate;
-            providerData.stateIssuingLicense=element.stateIssuingLicense;
+            providerData.stateIssuingLicense=element.stateIssuingLicense == "OH" ? "Ohio" : element.stateIssuingLicense;
             providerData.secondaryspeciality=element.secondaryspeciality;
             providerData.suffix="";
             providerData.primaryPhoneType="Home";

@@ -9,6 +9,12 @@ var moment = require("moment");
 
 var id = 0;
 
+function caseFilter(string) 
+{
+    string = string.toLowerCase();
+    return string.charAt(0).toUpperCase() + string.slice(1);
+};
+
 function findChartNo(firstName, lastName) {
     var chartNumber;
     // console.log("firstname, lastname", firstName, lastName)
@@ -27,14 +33,14 @@ function createVitalData(element) {
     dataObj.height = element.height.split(" ")[0];
     dataObj.weight = element.weight.split(" ")[0];
     dataObj.systolic = element.BP.split("/")[0];
-    // dataObj.diastolic = element.BP.split("/")[1].split(" ")[0];
+    dataObj.diastolic = element.BP.indexOf(" ")!=-1 ? element.BP.split("/")[1].split(" ")[0] : element.BP.split("/")[1];
     dataObj.armExamined = element.armExamined;
     dataObj.patientPosition = element.patientPosition;
     dataObj.pulse = element.pulse;
     dataObj.respiratoryRate = element.respiratoryRate;
     dataObj.painScale = element.painScale;
     dataObj.temperature = element.temperature.split(" ")[0];
-    dataObj.selectedTempType = element.selectedTempType;
+    dataObj.selectedTempType = caseFilter(element.selectedTempType);
     dataObj.headCircumference = element.headCircumference;
     dataObj.spo2 = element.spo2;
     dataObj.dateTime = moment(element.date).format("ddd MMM DD YYYY") +" "+ moment(element.time, "h:mm").format("hh:mm:ss");
