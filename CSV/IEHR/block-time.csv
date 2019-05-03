@@ -4,21 +4,81 @@ Rodriguez,Fridays 4:00 pm,1 hour,Every Friday,Meeting,All clinic staff meet Frid
 McGrath,Fridays 4:00 pm,1 hour,Every Friday,Meeting,All clinic staff meet Fridays between 4:00-5:00 pm for a staff meeting
 Corrotti,Fridays 4:00 pm,1 hour,Every Friday,Meeting,All clinic staff meet Fridays between 4:00-5:00 pm for a staff meeting
 Reddy,Fridays 4:00 pm,1 hour,Every Friday,Meeting,All clinic staff meet Fridays between 4:00-5:00 pm for a staff meeting
-Ingram,Mondays-Fridays 12:00 pm,1 hour,Everyday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
-Rodriguez,Mondays-Fridays 12:00 pm,1 hour,Everyday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
-McGrath,Mondays-Fridays 12:00 pm,1 hour,Everyday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
-Corrotti,Mondays-Fridays 12:00 pm,1 hour,Everyday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
-Reddy,Mondays-Fridays 12:00 pm,1 hour,Everyday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
-Ingram,Mondays-Fridays 12:00 am,8 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
-Rodriguez,Mondays-Fridays 12:00 am,8 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
-McGrath,Mondays-Fridays 12:00 am,8 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
-Corrotti,Mondays-Fridays 12:00 am,8 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
-Reddy,Mondays-Fridays 12:00 am,8 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
-Ingram,Mondays-Fridays 5:00 pm,7 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
-Rodriguez,Mondays-Fridays 5:00 pm,7 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
-McGrath,Mondays-Fridays 5:00 pm,7 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
-Corrotti,Mondays-Fridays 5:00 pm,7 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
-Reddy,Mondays-Fridays 5:00 pm,7 hours,Everyday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Mondays 12:00 pm,1 hour,Every Monday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Rodriguez,Mondays 12:00 pm,1 hour,Every Monday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+McGrath,Mondays 12:00 pm,1 hour,Every Monday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Corrotti,Mondays 12:00 pm,1 hour,Every Monday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Reddy,Mondays 12:00 pm,1 hour,Every Monday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Ingram,Tuesdays 12:00 pm,1 hour,Every Tuesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Rodriguez,Tuesdays 12:00 pm,1 hour,Every Tuesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+McGrath,Tuesdays 12:00 pm,1 hour,Every Tuesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Corrotti,Tuesdays 12:00 pm,1 hour,Every Tuesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Reddy,Tuesdays 12:00 pm,1 hour,Every Tuesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Ingram,Wednesdays 12:00 pm,1 hour,Every Wednesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Rodriguez,Wednesdays 12:00 pm,1 hour,Every Wednesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+McGrath,Wednesdays 12:00 pm,1 hour,Every Wednesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Corrotti,Wednesdays 12:00 pm,1 hour,Every Wednesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Reddy,Wednesdays 12:00 pm,1 hour,Every Wednesday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Ingram,Thursdays 12:00 pm,1 hour,Every Thursday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Rodriguez,Thursdays 12:00 pm,1 hour,Every Thursday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+McGrath,Thursdays 12:00 pm,1 hour,Every Thursday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Corrotti,Thursdays 12:00 pm,1 hour,Every Thursday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Reddy,Thursdays 12:00 pm,1 hour,Every Thursday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Ingram,Fridays 12:00 pm,1 hour,Every Friday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Rodriguez,Fridays 12:00 pm,1 hour,Every Friday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+McGrath,Fridays 12:00 pm,1 hour,Every Friday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Corrotti,Fridays 12:00 pm,1 hour,Every Friday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Reddy,Fridays 12:00 pm,1 hour,Every Friday,Lunch,All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm
+Ingram,Mondays 12:00 am,8 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Mondays 12:00 am,8 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Mondays 12:00 am,8 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Mondays 12:00 am,8 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Mondays 12:00 am,8 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Mondays 5:00 pm,7 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Mondays 5:00 pm,7 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Mondays 5:00 pm,7 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Mondays 5:00 pm,7 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Mondays 5:00 pm,7 hours,Every Monday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Tuesdays 12:00 am,8 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Tuesdays 12:00 am,8 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Tuesdays 12:00 am,8 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Tuesdays 12:00 am,8 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Tuesdays 12:00 am,8 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Tuesdays 5:00 pm,7 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Tuesdays 5:00 pm,7 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Tuesdays 5:00 pm,7 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Tuesdays 5:00 pm,7 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Tuesdays 5:00 pm,7 hours,Every Tuesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Wednesdays 12:00 am,8 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Wednesdays 12:00 am,8 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Wednesdays 12:00 am,8 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Wednesdays 12:00 am,8 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Wednesdays 12:00 am,8 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Wednesdays 5:00 pm,7 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Wednesdays 5:00 pm,7 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Wednesdays 5:00 pm,7 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Wednesdays 5:00 pm,7 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Wednesdays 5:00 pm,7 hours,Every Wednesday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Thursdays 12:00 am,8 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Thursdays 12:00 am,8 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Thursdays 12:00 am,8 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Thursdays 12:00 am,8 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Thursdays 12:00 am,8 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Thursdays 5:00 pm,7 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Thursdays 5:00 pm,7 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Thursdays 5:00 pm,7 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Thursdays 5:00 pm,7 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Thursdays 5:00 pm,7 hours,Every Thursday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Fridays 12:00 am,8 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Fridays 12:00 am,8 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Fridays 12:00 am,8 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Fridays 12:00 am,8 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Fridays 12:00 am,8 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Ingram,Fridays 5:00 pm,7 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Rodriguez,Fridays 5:00 pm,7 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+McGrath,Fridays 5:00 pm,7 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Corrotti,Fridays 5:00 pm,7 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
+Reddy,Fridays 5:00 pm,7 hours,Every Friday,No office hours,Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday
 Ingram,Saturdays-Sundays 12:00 am,24 hours,Every Saturday,No office hours,No provider clinic hours on Saturdays and Sundays
 Rodriguez,Saturdays-Sundays 12:00 am,24 hours,Every Saturday,No office hours,No provider clinic hours on Saturdays and Sundays
 McGrath,Saturdays-Sundays 12:00 am,24 hours,Every Saturday,No office hours,No provider clinic hours on Saturdays and Sundays

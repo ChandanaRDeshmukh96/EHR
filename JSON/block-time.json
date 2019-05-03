@@ -9,8 +9,8 @@
             "start": "16:00",
             "end": "17:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 16:00",
-            "endTime": "Wed Jan 9 2019 17:00",
+            "startTime": "Fri Jan 11 2019 16:00",
+            "endTime": "Fri Jan 11 2019 17:00",
             "dow": [
                 5
             ],
@@ -31,8 +31,8 @@
             "start": "16:00",
             "end": "17:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 16:00",
-            "endTime": "Wed Jan 9 2019 17:00",
+            "startTime": "Fri Jan 11 2019 16:00",
+            "endTime": "Fri Jan 11 2019 17:00",
             "dow": [
                 5
             ],
@@ -53,8 +53,8 @@
             "start": "16:00",
             "end": "17:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 16:00",
-            "endTime": "Wed Jan 9 2019 17:00",
+            "startTime": "Fri Jan 11 2019 16:00",
+            "endTime": "Fri Jan 11 2019 17:00",
             "dow": [
                 5
             ],
@@ -75,8 +75,8 @@
             "start": "16:00",
             "end": "17:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 16:00",
-            "endTime": "Wed Jan 9 2019 17:00",
+            "startTime": "Fri Jan 11 2019 16:00",
+            "endTime": "Fri Jan 11 2019 17:00",
             "dow": [
                 5
             ],
@@ -97,8 +97,8 @@
             "start": "16:00",
             "end": "17:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 16:00",
-            "endTime": "Wed Jan 9 2019 17:00",
+            "startTime": "Fri Jan 11 2019 16:00",
+            "endTime": "Fri Jan 11 2019 17:00",
             "dow": [
                 5
             ],
@@ -119,18 +119,14 @@
             "start": "12:00",
             "end": "13:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 12:00",
-            "endTime": "Wed Jan 9 2019 13:00",
+            "startTime": "Mon Jan 14 2019 12:00",
+            "endTime": "Mon Jan 14 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                1
             ],
             "allDay": false,
             "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
-            "repeat": "everyday",
+            "repeat": "every monday",
             "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "jingra01",
@@ -145,18 +141,14 @@
             "start": "12:00",
             "end": "13:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 12:00",
-            "endTime": "Wed Jan 9 2019 13:00",
+            "startTime": "Mon Jan 14 2019 12:00",
+            "endTime": "Mon Jan 14 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                1
             ],
             "allDay": false,
             "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
-            "repeat": "everyday",
+            "repeat": "every monday",
             "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "mrodri01",
@@ -171,18 +163,14 @@
             "start": "12:00",
             "end": "13:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 12:00",
-            "endTime": "Wed Jan 9 2019 13:00",
+            "startTime": "Mon Jan 14 2019 12:00",
+            "endTime": "Mon Jan 14 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                1
             ],
             "allDay": false,
             "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
-            "repeat": "everyday",
+            "repeat": "every monday",
             "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "pmcgra01",
@@ -197,18 +185,14 @@
             "start": "12:00",
             "end": "13:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 12:00",
-            "endTime": "Wed Jan 9 2019 13:00",
+            "startTime": "Mon Jan 14 2019 12:00",
+            "endTime": "Mon Jan 14 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                1
             ],
             "allDay": false,
             "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
-            "repeat": "everyday",
+            "repeat": "every monday",
             "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "lcorrot01",
@@ -223,18 +207,14 @@
             "start": "12:00",
             "end": "13:00",
             "duration": "01:00",
-            "startTime": "Wed Jan 9 2019 12:00",
-            "endTime": "Wed Jan 9 2019 13:00",
+            "startTime": "Mon Jan 14 2019 12:00",
+            "endTime": "Mon Jan 14 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                1
             ],
             "allDay": false,
             "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
-            "repeat": "everyday",
+            "repeat": "every monday",
             "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "mreddy01",
@@ -246,22 +226,18 @@
         },
         {
             "ID": "bt11",
-            "start": "00:00",
-            "end": "08:00",
-            "duration": "08:00",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 08:00",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Tue Jan 15 2019 12:00",
+            "endTime": "Tue Jan 15 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                2
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every tuesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "jingra01",
                 "salutation": "Dr.",
@@ -272,22 +248,18 @@
         },
         {
             "ID": "bt12",
-            "start": "00:00",
-            "end": "08:00",
-            "duration": "08:00",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 08:00",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Tue Jan 15 2019 12:00",
+            "endTime": "Tue Jan 15 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                2
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every tuesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "mrodri01",
                 "salutation": "Dr.",
@@ -298,22 +270,18 @@
         },
         {
             "ID": "bt13",
-            "start": "00:00",
-            "end": "08:00",
-            "duration": "08:00",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 08:00",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Tue Jan 15 2019 12:00",
+            "endTime": "Tue Jan 15 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                2
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every tuesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "pmcgra01",
                 "salutation": "Dr.",
@@ -324,22 +292,18 @@
         },
         {
             "ID": "bt14",
-            "start": "00:00",
-            "end": "08:00",
-            "duration": "08:00",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 08:00",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Tue Jan 15 2019 12:00",
+            "endTime": "Tue Jan 15 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                2
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every tuesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "lcorrot01",
                 "salutation": "Dr.",
@@ -350,22 +314,18 @@
         },
         {
             "ID": "bt15",
-            "start": "00:00",
-            "end": "08:00",
-            "duration": "08:00",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 08:00",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Tue Jan 15 2019 12:00",
+            "endTime": "Tue Jan 15 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                2
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every tuesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "mreddy01",
                 "salutation": "Dr.",
@@ -376,22 +336,18 @@
         },
         {
             "ID": "bt16",
-            "start": "17:00",
-            "end": "23:59",
-            "duration": "06:59",
-            "startTime": "Wed Jan 9 2019 17:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Wed Jan 9 2019 12:00",
+            "endTime": "Wed Jan 9 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                3
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every wednesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "jingra01",
                 "salutation": "Dr.",
@@ -402,22 +358,18 @@
         },
         {
             "ID": "bt17",
-            "start": "17:00",
-            "end": "23:59",
-            "duration": "06:59",
-            "startTime": "Wed Jan 9 2019 17:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Wed Jan 9 2019 12:00",
+            "endTime": "Wed Jan 9 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                3
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every wednesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "mrodri01",
                 "salutation": "Dr.",
@@ -428,22 +380,18 @@
         },
         {
             "ID": "bt18",
-            "start": "17:00",
-            "end": "23:59",
-            "duration": "06:59",
-            "startTime": "Wed Jan 9 2019 17:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Wed Jan 9 2019 12:00",
+            "endTime": "Wed Jan 9 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                3
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every wednesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "pmcgra01",
                 "salutation": "Dr.",
@@ -454,22 +402,18 @@
         },
         {
             "ID": "bt19",
-            "start": "17:00",
-            "end": "23:59",
-            "duration": "06:59",
-            "startTime": "Wed Jan 9 2019 17:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Wed Jan 9 2019 12:00",
+            "endTime": "Wed Jan 9 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                3
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every wednesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "lcorrot01",
                 "salutation": "Dr.",
@@ -480,22 +424,18 @@
         },
         {
             "ID": "bt20",
-            "start": "17:00",
-            "end": "23:59",
-            "duration": "06:59",
-            "startTime": "Wed Jan 9 2019 17:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Wed Jan 9 2019 12:00",
+            "endTime": "Wed Jan 9 2019 13:00",
             "dow": [
-                1,
-                2,
-                3,
-                4,
-                5
+                3
             ],
             "allDay": false,
-            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
-            "repeat": "everyday",
-            "reason": "No office hours",
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every wednesday",
+            "reason": "Lunch",
             "providerInfo": {
                 "providerUserID": "mreddy01",
                 "salutation": "Dr.",
@@ -506,11 +446,1331 @@
         },
         {
             "ID": "bt21",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Thu Jan 10 2019 12:00",
+            "endTime": "Thu Jan 10 2019 13:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every thursday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt22",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Thu Jan 10 2019 12:00",
+            "endTime": "Thu Jan 10 2019 13:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every thursday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt23",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Thu Jan 10 2019 12:00",
+            "endTime": "Thu Jan 10 2019 13:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every thursday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt24",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Thu Jan 10 2019 12:00",
+            "endTime": "Thu Jan 10 2019 13:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every thursday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt25",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Thu Jan 10 2019 12:00",
+            "endTime": "Thu Jan 10 2019 13:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every thursday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt26",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Fri Jan 11 2019 12:00",
+            "endTime": "Fri Jan 11 2019 13:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every friday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt27",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Fri Jan 11 2019 12:00",
+            "endTime": "Fri Jan 11 2019 13:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every friday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt28",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Fri Jan 11 2019 12:00",
+            "endTime": "Fri Jan 11 2019 13:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every friday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt29",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Fri Jan 11 2019 12:00",
+            "endTime": "Fri Jan 11 2019 13:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every friday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt30",
+            "start": "12:00",
+            "end": "13:00",
+            "duration": "01:00",
+            "startTime": "Fri Jan 11 2019 12:00",
+            "endTime": "Fri Jan 11 2019 13:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "All providers closed for lunch Mondays through Fridays between 12:00-1:00 pm",
+            "repeat": "every friday",
+            "reason": "Lunch",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt31",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Mon Jan 14 2019 00:00",
+            "endTime": "Mon Jan 14 2019 08:00",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt32",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Mon Jan 14 2019 00:00",
+            "endTime": "Mon Jan 14 2019 08:00",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt33",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Mon Jan 14 2019 00:00",
+            "endTime": "Mon Jan 14 2019 08:00",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt34",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Mon Jan 14 2019 00:00",
+            "endTime": "Mon Jan 14 2019 08:00",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt35",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Mon Jan 14 2019 00:00",
+            "endTime": "Mon Jan 14 2019 08:00",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt36",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Mon Jan 14 2019 17:00",
+            "endTime": "Mon Jan 14 2019 23:59",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt37",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Mon Jan 14 2019 17:00",
+            "endTime": "Mon Jan 14 2019 23:59",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt38",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Mon Jan 14 2019 17:00",
+            "endTime": "Mon Jan 14 2019 23:59",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt39",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Mon Jan 14 2019 17:00",
+            "endTime": "Mon Jan 14 2019 23:59",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt40",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Mon Jan 14 2019 17:00",
+            "endTime": "Mon Jan 14 2019 23:59",
+            "dow": [
+                1
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every monday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt41",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Tue Jan 15 2019 00:00",
+            "endTime": "Tue Jan 15 2019 08:00",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt42",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Tue Jan 15 2019 00:00",
+            "endTime": "Tue Jan 15 2019 08:00",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt43",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Tue Jan 15 2019 00:00",
+            "endTime": "Tue Jan 15 2019 08:00",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt44",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Tue Jan 15 2019 00:00",
+            "endTime": "Tue Jan 15 2019 08:00",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt45",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Tue Jan 15 2019 00:00",
+            "endTime": "Tue Jan 15 2019 08:00",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt46",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Tue Jan 15 2019 17:00",
+            "endTime": "Tue Jan 15 2019 23:59",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt47",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Tue Jan 15 2019 17:00",
+            "endTime": "Tue Jan 15 2019 23:59",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt48",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Tue Jan 15 2019 17:00",
+            "endTime": "Tue Jan 15 2019 23:59",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt49",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Tue Jan 15 2019 17:00",
+            "endTime": "Tue Jan 15 2019 23:59",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt50",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Tue Jan 15 2019 17:00",
+            "endTime": "Tue Jan 15 2019 23:59",
+            "dow": [
+                2
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every tuesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt51",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Wed Jan 9 2019 00:00",
+            "endTime": "Wed Jan 9 2019 08:00",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt52",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Wed Jan 9 2019 00:00",
+            "endTime": "Wed Jan 9 2019 08:00",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt53",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Wed Jan 9 2019 00:00",
+            "endTime": "Wed Jan 9 2019 08:00",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt54",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Wed Jan 9 2019 00:00",
+            "endTime": "Wed Jan 9 2019 08:00",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt55",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Wed Jan 9 2019 00:00",
+            "endTime": "Wed Jan 9 2019 08:00",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt56",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Wed Jan 9 2019 17:00",
+            "endTime": "Wed Jan 9 2019 23:59",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt57",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Wed Jan 9 2019 17:00",
+            "endTime": "Wed Jan 9 2019 23:59",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt58",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Wed Jan 9 2019 17:00",
+            "endTime": "Wed Jan 9 2019 23:59",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt59",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Wed Jan 9 2019 17:00",
+            "endTime": "Wed Jan 9 2019 23:59",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt60",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Wed Jan 9 2019 17:00",
+            "endTime": "Wed Jan 9 2019 23:59",
+            "dow": [
+                3
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every wednesday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt61",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Thu Jan 10 2019 00:00",
+            "endTime": "Thu Jan 10 2019 08:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt62",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Thu Jan 10 2019 00:00",
+            "endTime": "Thu Jan 10 2019 08:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt63",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Thu Jan 10 2019 00:00",
+            "endTime": "Thu Jan 10 2019 08:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt64",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Thu Jan 10 2019 00:00",
+            "endTime": "Thu Jan 10 2019 08:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt65",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Thu Jan 10 2019 00:00",
+            "endTime": "Thu Jan 10 2019 08:00",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt66",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Thu Jan 10 2019 17:00",
+            "endTime": "Thu Jan 10 2019 23:59",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt67",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Thu Jan 10 2019 17:00",
+            "endTime": "Thu Jan 10 2019 23:59",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt68",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Thu Jan 10 2019 17:00",
+            "endTime": "Thu Jan 10 2019 23:59",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt69",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Thu Jan 10 2019 17:00",
+            "endTime": "Thu Jan 10 2019 23:59",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt70",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Thu Jan 10 2019 17:00",
+            "endTime": "Thu Jan 10 2019 23:59",
+            "dow": [
+                4
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every thursday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt71",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Fri Jan 11 2019 00:00",
+            "endTime": "Fri Jan 11 2019 08:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt72",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Fri Jan 11 2019 00:00",
+            "endTime": "Fri Jan 11 2019 08:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt73",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Fri Jan 11 2019 00:00",
+            "endTime": "Fri Jan 11 2019 08:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt74",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Fri Jan 11 2019 00:00",
+            "endTime": "Fri Jan 11 2019 08:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt75",
+            "start": "00:00",
+            "end": "08:00",
+            "duration": "08:00",
+            "startTime": "Fri Jan 11 2019 00:00",
+            "endTime": "Fri Jan 11 2019 08:00",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt76",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Fri Jan 11 2019 17:00",
+            "endTime": "Fri Jan 11 2019 23:59",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "jingra01",
+                "salutation": "Dr.",
+                "firstName": "James",
+                "lastName": "Ingram"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt77",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Fri Jan 11 2019 17:00",
+            "endTime": "Fri Jan 11 2019 23:59",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mrodri01",
+                "salutation": "Dr.",
+                "firstName": "Maria",
+                "lastName": "Rodriguez"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt78",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Fri Jan 11 2019 17:00",
+            "endTime": "Fri Jan 11 2019 23:59",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "pmcgra01",
+                "salutation": "Dr.",
+                "firstName": "Patricia",
+                "lastName": "McGrath"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt79",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Fri Jan 11 2019 17:00",
+            "endTime": "Fri Jan 11 2019 23:59",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "lcorrot01",
+                "salutation": "Dr.",
+                "firstName": "Lorenzo",
+                "lastName": "Corrotti"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt80",
+            "start": "17:00",
+            "end": "23:59",
+            "duration": "06:59",
+            "startTime": "Fri Jan 11 2019 17:00",
+            "endTime": "Fri Jan 11 2019 23:59",
+            "dow": [
+                5
+            ],
+            "allDay": false,
+            "description": "Provider clinic hours are between 8:00 am - 5:00 pm Monday through Friday",
+            "repeat": "every friday",
+            "reason": "No office hours",
+            "providerInfo": {
+                "providerUserID": "mreddy01",
+                "salutation": "Dr.",
+                "firstName": "Maya",
+                "lastName": "Reddy"
+            },
+            "type": "Break entry"
+        },
+        {
+            "ID": "bt81",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sat Jan 12 2019 00:00",
+            "endTime": "Sat Jan 12 2019 23:59",
             "dow": [
                 6
             ],
@@ -527,12 +1787,12 @@
             "type": "Break entry"
         },
         {
-            "ID": "bt22",
+            "ID": "bt82",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sat Jan 12 2019 00:00",
+            "endTime": "Sat Jan 12 2019 23:59",
             "dow": [
                 6
             ],
@@ -549,12 +1809,12 @@
             "type": "Break entry"
         },
         {
-            "ID": "bt23",
+            "ID": "bt83",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sat Jan 12 2019 00:00",
+            "endTime": "Sat Jan 12 2019 23:59",
             "dow": [
                 6
             ],
@@ -571,12 +1831,12 @@
             "type": "Break entry"
         },
         {
-            "ID": "bt24",
+            "ID": "bt84",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sat Jan 12 2019 00:00",
+            "endTime": "Sat Jan 12 2019 23:59",
             "dow": [
                 6
             ],
@@ -593,12 +1853,12 @@
             "type": "Break entry"
         },
         {
-            "ID": "bt25",
+            "ID": "bt85",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sat Jan 12 2019 00:00",
+            "endTime": "Sat Jan 12 2019 23:59",
             "dow": [
                 6
             ],
@@ -615,12 +1875,12 @@
             "type": "Break entry"
         },
         {
-            "ID": "bt26",
+            "ID": "bt86",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sun Jan 13 2019 00:00",
+            "endTime": "Sun Jan 13 2019 23:59",
             "dow": [
                 0
             ],
@@ -637,12 +1897,12 @@
             "type": "Break entry"
         },
         {
-            "ID": "bt27",
+            "ID": "bt87",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sun Jan 13 2019 00:00",
+            "endTime": "Sun Jan 13 2019 23:59",
             "dow": [
                 0
             ],
@@ -659,12 +1919,12 @@
             "type": "Break entry"
         },
         {
-            "ID": "bt28",
+            "ID": "bt88",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sun Jan 13 2019 00:00",
+            "endTime": "Sun Jan 13 2019 23:59",
             "dow": [
                 0
             ],
@@ -681,12 +1941,12 @@
             "type": "Break entry"
         },
         {
-            "ID": "bt29",
+            "ID": "bt89",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sun Jan 13 2019 00:00",
+            "endTime": "Sun Jan 13 2019 23:59",
             "dow": [
                 0
             ],
@@ -703,12 +1963,12 @@
             "type": "Break entry"
         },
         {
-            "ID": "bt30",
+            "ID": "bt90",
             "start": "00:00",
             "end": "23:59",
             "duration": "23:59",
-            "startTime": "Wed Jan 9 2019 00:00",
-            "endTime": "Wed Jan 9 2019 23:59",
+            "startTime": "Sun Jan 13 2019 00:00",
+            "endTime": "Sun Jan 13 2019 23:59",
             "dow": [
                 0
             ],

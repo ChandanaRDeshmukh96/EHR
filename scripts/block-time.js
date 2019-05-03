@@ -71,6 +71,14 @@ function getDayOfWeek(repeat){
     // }
 }
 
+function getStartDate(startDate, repeat){
+    var startday =  moment(startDate, "ddd MMM D YYYY HH:mm").day();
+    var currentday = parseInt(getDayOfWeek(repeat));
+    currentday = currentday<startday ? currentday+7 : currentday;
+    startDate = moment(startDate, "ddd MMM D YYYY HH:mm").day(currentday).format("ddd MMM D YYYY HH:mm");
+    return startDate;
+}
+
 function getTime(dateAndTime){
     var time = dateAndTime.split(" ");
     return time[1]+time[2];
@@ -100,8 +108,8 @@ function createProviderOfficeHoursData(providerInfo, element) {
     }else{
         dataObj.duration = duration == "00:00" ? "23:59" : duration; 
     }
-    dataObj.startTime = "Wed Jan 9 2019 " +dataObj.start;
-    dataObj.endTime =  "Wed Jan 9 2019 " +dataObj.end;
+    dataObj.startTime = getStartDate("Wed Jan 9 2019 "+dataObj.start, element.repeat.toLowerCase());
+    dataObj.endTime =  getStartDate("Wed Jan 9 2019 "+dataObj.end, element.repeat.toLowerCase());
     dataObj.dow= getDayOfWeek(element.repeat);
     dataObj.allDay = false;
     dataObj.description = element.description;

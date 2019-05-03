@@ -70,8 +70,7 @@ function createRecallData(element, chartNo, providerInfo) {
     dataObj.providerInfo.providerUserID=providerInfo? providerInfo.providerUserID : "undefined";
     dataObj.recallStatus=element.recallStatus;
     dataObj.recallReason=element.recallReason;
-    // var date= new Date(element.recallWeek);
-    // dataObj.recallWeek=date.toLocaleDateString("en-US");
+// format date to first day of the week i.e sunday of every week.
     dataObj.recallWeek=moment(moment(element.recallWeek).format("MM/DD/YYYY")).day(0).format("MM/DD/YYYY");
     return dataObj;
 }
