@@ -5,9 +5,10 @@ const fs = require('fs');
 let patient = require('../JSON/patient-info.json').data;
 let provider = require('../JSON/provider-info.json').data;
 var moment = require("moment");
+var id = 0;
 
-
-function generatePrescriptionId(id){
+function generatePrescriptionId(){
+    id ++;
     if(id<10){
         return "PRI0"+id;
     }else {

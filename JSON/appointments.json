@@ -17,9 +17,10 @@
             "selectedRepeat": "Never",
             "rangeDeviation": {},
             "_recurring": false,
+            "dow": [],
             "rangeEnd": "Thu Mar 31 2022 08:45",
             "status": "Checked in waiting",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -61,7 +62,7 @@
             "selectedRepeat": "Never",
             "rangeEnd": "Mon, Apr 04, 2022 08:30",
             "status": "Ready for checkout",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -103,7 +104,7 @@
             "selectedRepeat": "Never",
             "rangeEnd": "Fri, Apr 01, 2022 08:30",
             "status": "Ready for checkout",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -145,7 +146,7 @@
             "selectedRepeat": "Never",
             "rangeEnd": "Mon, Apr 04, 2022 09:30",
             "status": "Ready for checkout",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -187,7 +188,7 @@
             "selectedRepeat": "Never",
             "rangeEnd": "Thu, Mar 31, 2022 09:30",
             "status": "Ready for checkout",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -229,7 +230,7 @@
             "selectedRepeat": "Never",
             "rangeEnd": "Wed, Mar 30, 2022 10:30",
             "status": "Ready for checkout",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -274,9 +275,10 @@
             "selectedRepeat": "Never",
             "rangeDeviation": {},
             "_recurring": false,
+            "dow": [],
             "rangeEnd": "Fri Apr 09 2021 09:45",
             "status": "Checked in waiting",
-            "appointmentType": "New",
+            "appointmentType": "New appointment",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -321,9 +323,10 @@
             "selectedRepeat": "Never",
             "rangeDeviation": {},
             "_recurring": false,
+            "dow": [],
             "rangeEnd": "Wed Nov 18 2020 11:15",
             "status": "Checked in waiting",
-            "appointmentType": "New",
+            "appointmentType": "New appointment",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -368,9 +371,10 @@
             "selectedRepeat": "Never",
             "rangeDeviation": {},
             "_recurring": false,
+            "dow": [],
             "rangeEnd": "Mon Apr 19 2021 09:15",
             "status": "Checked in waiting",
-            "appointmentType": "New",
+            "appointmentType": "New appointment",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -415,9 +419,10 @@
             "selectedRepeat": "Never",
             "rangeDeviation": {},
             "_recurring": false,
+            "dow": [],
             "rangeEnd": "Sat Sep 12 2020 11:15",
             "status": "Checked in waiting",
-            "appointmentType": "New",
+            "appointmentType": "New appointment",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -451,18 +456,18 @@
         },
         {
             "appointmentID": "ar11",
-            "startTime": "Mon Jan 03 2022 08:15",
-            "rangeStart": "Mon Jan 03 2022 08:15",
-            "endTime": "Mon Jan 03 2022 08:30",
+            "startTime": "Mon Jan 3 2022 08:15",
+            "rangeStart": "Mon Jan 3 2022 08:15",
+            "endTime": "Mon Jan 3 2022 08:30",
             "start": "08:15",
             "end": "08:30",
             "duration": "00:15",
             "reasonForVisit": "Follow up back pain",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {
                 "ar11_01032022": {
-                    "appointmentType": "New appointment",
+                    "appointmentType": "Follow up",
                     "checkInTime": "08:15",
                     "providerInfo": {
                         "providerUserID": "jingra01"
@@ -472,9 +477,12 @@
                 }
             },
             "_recurring": true,
-            "rangeEnd": "Mon, Apr 04 2022 08:30",
+            "dow": [
+                1
+            ],
+            "rangeEnd": "Mon Apr 4 2022 08:30",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
@@ -508,34 +516,41 @@
         },
         {
             "appointmentID": "ar12",
-            "startTime": "Mon Jan 03 2022 09:00",
-            "rangeStart": "Mon Jan 03 2022 09:00",
-            "endTime": "Mon Jan 03 2022 09:30",
+            "startTime": "Mon Jan 3 2022 09:00",
+            "rangeStart": "Mon Jan 3 2022 09:00",
+            "endTime": "Mon Jan 3 2022 09:30",
             "start": "09:00",
             "end": "09:30",
             "duration": "00:30",
             "reasonForVisit": "Sore throat",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {
                 "ar12_01032022": {
-                    "appointmentType": "New appointment",
+                    "appointmentType": "Follow up",
                     "checkInTime": "09:00",
-                    "providerInfo": {},
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
                     "reasonForVisit": "Sore throat",
                     "status": "Checked in waiting"
                 }
             },
             "_recurring": true,
-            "rangeEnd": "Mon, Apr 04 2022 09:30",
+            "dow": [
+                1
+            ],
+            "rangeEnd": "Mon Apr 4 2022 09:30",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/03/2022",
             "treatmentTime": "09:00",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA003"
             },
@@ -561,34 +576,41 @@
         },
         {
             "appointmentID": "ar13",
-            "startTime": "Mon Jan 03 2022 09:15",
-            "rangeStart": "Mon Jan 03 2022 09:15",
-            "endTime": "Mon Jan 03 2022 09:30",
+            "startTime": "Mon Jan 3 2022 09:15",
+            "rangeStart": "Mon Jan 3 2022 09:15",
+            "endTime": "Mon Jan 3 2022 09:30",
             "start": "09:15",
             "end": "09:30",
             "duration": "00:15",
             "reasonForVisit": "Ulcer",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {
                 "ar13_01032022": {
-                    "appointmentType": "New appointment",
+                    "appointmentType": "Follow up",
                     "checkInTime": "09:15",
-                    "providerInfo": {},
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
                     "reasonForVisit": "Ulcer",
                     "status": "Checked in waiting"
                 }
             },
             "_recurring": true,
-            "rangeEnd": "Mon, Apr 04 2022 09:30",
+            "dow": [
+                1
+            ],
+            "rangeEnd": "Mon Apr 4 2022 09:30",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/03/2022",
             "treatmentTime": "09:15",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA006"
             },
@@ -614,34 +636,41 @@
         },
         {
             "appointmentID": "ar14",
-            "startTime": "Mon Jan 03 2022 10:30",
-            "rangeStart": "Mon Jan 03 2022 10:30",
-            "endTime": "Mon Jan 03 2022 10:45",
+            "startTime": "Mon Jan 3 2022 10:30",
+            "rangeStart": "Mon Jan 3 2022 10:30",
+            "endTime": "Mon Jan 3 2022 10:45",
             "start": "10:30",
             "end": "10:45",
             "duration": "00:15",
             "reasonForVisit": "Flu shot",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {
                 "ar14_01032022": {
-                    "appointmentType": "New appointment",
+                    "appointmentType": "Follow up",
                     "checkInTime": "10:30",
-                    "providerInfo": {},
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
                     "reasonForVisit": "Flu shot",
                     "status": "Checked in waiting"
                 }
             },
             "_recurring": true,
-            "rangeEnd": "Mon, Apr 04 2022 10:45",
+            "dow": [
+                1
+            ],
+            "rangeEnd": "Mon Apr 4 2022 10:45",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/03/2022",
             "treatmentTime": "10:30",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA018"
             },
@@ -667,34 +696,41 @@
         },
         {
             "appointmentID": "ar15",
-            "startTime": "Mon Jan 03 2022 10:45",
-            "rangeStart": "Mon Jan 03 2022 10:45",
-            "endTime": "Mon Jan 03 2022 11:00",
+            "startTime": "Mon Jan 3 2022 10:45",
+            "rangeStart": "Mon Jan 3 2022 10:45",
+            "endTime": "Mon Jan 3 2022 11:00",
             "start": "10:45",
             "end": "11:00",
             "duration": "00:15",
             "reasonForVisit": "Rash",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {
                 "ar15_01032022": {
-                    "appointmentType": "New appointment",
+                    "appointmentType": "Follow up",
                     "checkInTime": "10:45",
-                    "providerInfo": {},
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
                     "reasonForVisit": "Rash",
                     "status": "Checked in waiting"
                 }
             },
             "_recurring": true,
-            "rangeEnd": "Mon, Apr 04 2022 11:00",
+            "dow": [
+                1
+            ],
+            "rangeEnd": "Mon Apr 4 2022 11:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/03/2022",
             "treatmentTime": "10:45",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA008"
             },
@@ -722,136 +758,163 @@
             "appointmentID": "ar16",
             "start": "11:00",
             "end": "11:30",
-            "startTime": "Mon, Jan 03 2022 11:00",
-            "endTime": "Mon, Jan 03 2022 11:30",
+            "startTime": "Mon, Jan 03, 2022 11:00",
+            "endTime": "Mon, Jan 03, 2022 11:30",
             "duration": "00:30",
             "reasonForVisit": "Acne",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 11:00",
-            "rangeEnd": "Mon, Jan 03 2022 11:30",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 11:00",
+            "rangeEnd": "Mon, Jan 03, 2022 11:30",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
             "treatmentTime": "11:00",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA005"
             }
         },
         {
             "appointmentID": "ar17",
-            "start": "01:00",
-            "end": "01:30",
-            "startTime": "Mon, Jan 03 2022 01:00",
-            "endTime": "Mon, Jan 03 2022 01:30",
+            "start": "13:00",
+            "end": "13:30",
+            "startTime": "Mon, Jan 03, 2022 13:00",
+            "endTime": "Mon, Jan 03, 2022 13:30",
             "duration": "00:30",
             "reasonForVisit": "Blood in urine",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 01:00",
-            "rangeEnd": "Mon, Jan 03 2022 01:30",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 13:00",
+            "rangeEnd": "Mon, Jan 03, 2022 13:30",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
-            "treatmentTime": "01:00",
-            "providerInfo": {},
+            "treatmentTime": "13:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA001"
             }
         },
         {
             "appointmentID": "ar18",
-            "start": "01:45",
-            "end": "02:00",
-            "startTime": "Mon, Jan 03 2022 01:45",
-            "endTime": "Mon, Jan 03 2022 02:00",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Mon, Jan 03, 2022 13:45",
+            "endTime": "Mon, Jan 03, 2022 14:00",
             "duration": "00:15",
             "reasonForVisit": "Foreign body in eye",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 01:45",
-            "rangeEnd": "Mon, Jan 03 2022 02:00",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 13:45",
+            "rangeEnd": "Mon, Jan 03, 2022 14:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
-            "treatmentTime": "01:45",
-            "providerInfo": {},
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA024"
             }
         },
         {
             "appointmentID": "ar19",
-            "start": "03:00",
-            "end": "04:00",
-            "startTime": "Mon, Jan 03 2022 03:00",
-            "endTime": "Mon, Jan 03 2022 04:00",
+            "start": "15:00",
+            "end": "16:00",
+            "startTime": "Mon, Jan 03, 2022 15:00",
+            "endTime": "Mon, Jan 03, 2022 16:00",
             "duration": "01:00",
             "reasonForVisit": "Annual exam",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 03:00",
-            "rangeEnd": "Mon, Jan 03 2022 04:00",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 15:00",
+            "rangeEnd": "Mon, Jan 03, 2022 16:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
-            "treatmentTime": "03:00",
-            "providerInfo": {},
+            "treatmentTime": "15:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA012"
             }
         },
         {
             "appointmentID": "ar20",
-            "startTime": "Mon Jan 03 2022 09:45",
-            "rangeStart": "Mon Jan 03 2022 09:45",
-            "endTime": "Mon Jan 03 2022 10:00",
+            "startTime": "Mon Jan 3 2022 09:45",
+            "rangeStart": "Mon Jan 3 2022 09:45",
+            "endTime": "Mon Jan 3 2022 10:00",
             "start": "09:45",
             "end": "10:00",
             "duration": "00:15",
             "reasonForVisit": "Blood pressure",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {
                 "ar20_01032022": {
-                    "appointmentType": "New appointment",
+                    "appointmentType": "Follow up",
                     "checkInTime": "09:45",
-                    "providerInfo": {},
+                    "providerInfo": {
+                        "providerUserID": "pmcgra01"
+                    },
                     "reasonForVisit": "Blood pressure",
                     "status": "Checked in waiting"
                 }
             },
             "_recurring": true,
-            "rangeEnd": "Mon, Apr 04 2022 10:00",
+            "dow": [
+                1
+            ],
+            "rangeEnd": "Mon Apr 4 2022 10:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/03/2022",
             "treatmentTime": "09:45",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA010"
             },
@@ -879,110 +942,132 @@
             "appointmentID": "ar21",
             "start": "11:00",
             "end": "12:00",
-            "startTime": "Mon, Jan 03 2022 11:00",
-            "endTime": "Mon, Jan 03 2022 12:00",
+            "startTime": "Mon, Jan 03, 2022 11:00",
+            "endTime": "Mon, Jan 03, 2022 12:00",
             "duration": "01:00",
             "reasonForVisit": "Annual exam",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 11:00",
-            "rangeEnd": "Mon, Jan 03 2022 12:00",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 11:00",
+            "rangeEnd": "Mon, Jan 03, 2022 12:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
             "treatmentTime": "11:00",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA012"
             }
         },
         {
             "appointmentID": "ar22",
-            "start": "01:30",
-            "end": "01:45",
-            "startTime": "Mon, Jan 03 2022 01:30",
-            "endTime": "Mon, Jan 03 2022 01:45",
+            "start": "13:30",
+            "end": "13:45",
+            "startTime": "Mon, Jan 03, 2022 13:30",
+            "endTime": "Mon, Jan 03, 2022 13:45",
             "duration": "00:15",
             "reasonForVisit": "Asthma",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 01:30",
-            "rangeEnd": "Mon, Jan 03 2022 01:45",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 13:30",
+            "rangeEnd": "Mon, Jan 03, 2022 13:45",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
-            "treatmentTime": "01:30",
-            "providerInfo": {},
+            "treatmentTime": "13:30",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA013"
             }
         },
         {
             "appointmentID": "ar23",
-            "start": "02:45",
-            "end": "03:45",
-            "startTime": "Mon, Jan 03 2022 02:45",
-            "endTime": "Mon, Jan 03 2022 03:45",
+            "start": "14:45",
+            "end": "15:45",
+            "startTime": "Mon, Jan 03, 2022 14:45",
+            "endTime": "Mon, Jan 03, 2022 15:45",
             "duration": "01:00",
             "reasonForVisit": "Gyn exam",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 02:45",
-            "rangeEnd": "Mon, Jan 03 2022 03:45",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 14:45",
+            "rangeEnd": "Mon, Jan 03, 2022 15:45",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
-            "treatmentTime": "02:45",
-            "providerInfo": {},
+            "treatmentTime": "14:45",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
             "patientInfo": {
                 "chartNumber": "AA011"
             }
         },
         {
             "appointmentID": "ar24",
-            "startTime": "Mon Jan 03 2022 09:45",
-            "rangeStart": "Mon Jan 03 2022 09:45",
-            "endTime": "Mon Jan 03 2022 10:00",
+            "startTime": "Mon Jan 3 2022 09:45",
+            "rangeStart": "Mon Jan 3 2022 09:45",
+            "endTime": "Mon Jan 3 2022 10:00",
             "start": "09:45",
             "end": "10:00",
             "duration": "00:15",
             "reasonForVisit": "Blood pressure",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {
                 "ar24_01032022": {
-                    "appointmentType": "New appointment",
+                    "appointmentType": "Follow up",
                     "checkInTime": "09:45",
-                    "providerInfo": {},
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
                     "reasonForVisit": "Blood pressure",
                     "status": "Checked in waiting"
                 }
             },
             "_recurring": true,
-            "rangeEnd": "Mon, Apr 04 2022 10:00",
+            "dow": [
+                1
+            ],
+            "rangeEnd": "Mon Apr 4 2022 10:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/03/2022",
             "treatmentTime": "09:45",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
             "patientInfo": {
                 "chartNumber": "AA010"
             },
@@ -1010,24 +1095,29 @@
             "appointmentID": "ar25",
             "start": "10:30",
             "end": "11:00",
-            "startTime": "Mon, Jan 03 2022 10:30",
-            "endTime": "Mon, Jan 03 2022 11:00",
+            "startTime": "Mon, Jan 03, 2022 10:30",
+            "endTime": "Mon, Jan 03, 2022 11:00",
             "duration": "00:30",
             "reasonForVisit": "School physical",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 10:30",
-            "rangeEnd": "Mon, Jan 03 2022 11:00",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 10:30",
+            "rangeEnd": "Mon, Jan 03, 2022 11:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
             "treatmentTime": "10:30",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
             "patientInfo": {
                 "chartNumber": "AA015"
             }
@@ -1036,84 +1126,101 @@
             "appointmentID": "ar26",
             "start": "11:00",
             "end": "12:00",
-            "startTime": "Mon, Jan 03 2022 11:00",
-            "endTime": "Mon, Jan 03 2022 12:00",
+            "startTime": "Mon, Jan 03, 2022 11:00",
+            "endTime": "Mon, Jan 03, 2022 12:00",
             "duration": "01:00",
             "reasonForVisit": "Annual physical",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 11:00",
-            "rangeEnd": "Mon, Jan 03 2022 12:00",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 11:00",
+            "rangeEnd": "Mon, Jan 03, 2022 12:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
             "treatmentTime": "11:00",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
             "patientInfo": {
                 "chartNumber": "AA016"
             }
         },
         {
             "appointmentID": "ar27",
-            "start": "01:45",
-            "end": "02:00",
-            "startTime": "Mon, Jan 03 2022 01:45",
-            "endTime": "Mon, Jan 03 2022 02:00",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Mon, Jan 03, 2022 13:45",
+            "endTime": "Mon, Jan 03, 2022 14:00",
             "duration": "00:15",
             "reasonForVisit": "Flu shot",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 01:45",
-            "rangeEnd": "Mon, Jan 03 2022 02:00",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 13:45",
+            "rangeEnd": "Mon, Jan 03, 2022 14:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
-            "treatmentTime": "01:45",
-            "providerInfo": {},
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
             "patientInfo": {
                 "chartNumber": "AA020"
             }
         },
         {
             "appointmentID": "ar28",
-            "startTime": "Mon Jan 03 2022 09:45",
-            "rangeStart": "Mon Jan 03 2022 09:45",
-            "endTime": "Mon Jan 03 2022 10:00",
+            "startTime": "Mon Jan 3 2022 09:45",
+            "rangeStart": "Mon Jan 3 2022 09:45",
+            "endTime": "Mon Jan 3 2022 10:00",
             "start": "09:45",
             "end": "10:00",
             "duration": "00:15",
             "reasonForVisit": "Leg pain",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {
                 "ar28_01032022": {
-                    "appointmentType": "New appointment",
+                    "appointmentType": "Follow up",
                     "checkInTime": "09:45",
-                    "providerInfo": {},
+                    "providerInfo": {
+                        "providerUserID": "mrodri01"
+                    },
                     "reasonForVisit": "Leg pain",
                     "status": "Checked in waiting"
                 }
             },
             "_recurring": true,
-            "rangeEnd": "Mon, Apr 04 2022 10:00",
+            "dow": [
+                1
+            ],
+            "rangeEnd": "Mon Apr 4 2022 10:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/03/2022",
             "treatmentTime": "09:45",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
             "patientInfo": {
                 "chartNumber": "AA013"
             },
@@ -1140,51 +1247,3469 @@
         {
             "appointmentID": "ar29",
             "start": "11:15",
-            "end": "12:15",
-            "startTime": "Mon, Jan 03 2022 11:15",
-            "endTime": "Mon, Jan 03 2022 12:15",
-            "duration": "01:00",
+            "end": "12:00",
+            "startTime": "Mon, Jan 03, 2022 11:15",
+            "endTime": "Mon, Jan 03, 2022 12:00",
+            "duration": "00:45",
             "reasonForVisit": "Annual physical",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 11:15",
-            "rangeEnd": "Mon, Jan 03 2022 12:15",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 11:15",
+            "rangeEnd": "Mon, Jan 03, 2022 12:00",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
             "treatmentTime": "11:15",
-            "providerInfo": {},
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
             "patientInfo": {
                 "chartNumber": "AA011"
             }
         },
         {
             "appointmentID": "ar30",
-            "start": "02:00",
-            "end": "02:30",
-            "startTime": "Mon, Jan 03 2022 02:00",
-            "endTime": "Mon, Jan 03 2022 02:30",
+            "start": "14:00",
+            "end": "14:30",
+            "startTime": "Mon, Jan 03, 2022 14:00",
+            "endTime": "Mon, Jan 03, 2022 14:30",
             "duration": "00:30",
             "reasonForVisit": "Pre-operative testing",
             "allDay": false,
-            "selectedRepeat": "",
+            "selectedRepeat": "Every Monday",
             "rangeDeviation": {},
             "_recurring": true,
-            "rangeStart": "Mon, Jan 03 2022 02:00",
-            "rangeEnd": "Mon, Jan 03 2022 02:30",
+            "dow": [
+                1
+            ],
+            "rangeStart": "Mon, Jan 03, 2022 14:00",
+            "rangeEnd": "Mon, Jan 03, 2022 14:30",
             "status": "Pending",
-            "appointmentType": "Follow-up",
+            "appointmentType": "Follow up",
             "contact-home": "",
             "cell": "",
             "work": "",
             "treatmentDate": "04/02/2022",
-            "treatmentTime": "02:00",
-            "providerInfo": {},
+            "treatmentTime": "14:00",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA019"
+            }
+        },
+        {
+            "appointmentID": "ar31",
+            "startTime": "Tue Jan 4 2022 08:15",
+            "rangeStart": "Tue Jan 4 2022 08:15",
+            "endTime": "Tue Jan 4 2022 08:30",
+            "start": "08:15",
+            "end": "08:30",
+            "duration": "00:15",
+            "reasonForVisit": "Follow up back pain",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {
+                "ar31_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "08:15",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Follow up back pain",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeEnd": "Tue Apr 5 2022 08:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "08:15",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar32",
+            "startTime": "Tue Jan 4 2022 09:00",
+            "rangeStart": "Tue Jan 4 2022 09:00",
+            "endTime": "Tue Jan 4 2022 09:30",
+            "start": "09:00",
+            "end": "09:30",
+            "duration": "00:30",
+            "reasonForVisit": "Sore throat",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {
+                "ar32_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:00",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Sore throat",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeEnd": "Tue Apr 5 2022 09:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA003"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar33",
+            "startTime": "Tue Jan 4 2022 09:15",
+            "rangeStart": "Tue Jan 4 2022 09:15",
+            "endTime": "Tue Jan 4 2022 09:30",
+            "start": "09:15",
+            "end": "09:30",
+            "duration": "00:15",
+            "reasonForVisit": "Ulcer",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {
+                "ar33_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:15",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Ulcer",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeEnd": "Tue Apr 5 2022 09:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:15",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA006"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar34",
+            "startTime": "Tue Jan 4 2022 10:30",
+            "rangeStart": "Tue Jan 4 2022 10:30",
+            "endTime": "Tue Jan 4 2022 10:45",
+            "start": "10:30",
+            "end": "10:45",
+            "duration": "00:15",
+            "reasonForVisit": "Flu shot",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {
+                "ar34_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "10:30",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Flu shot",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeEnd": "Tue Apr 5 2022 10:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "10:30",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA018"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar35",
+            "startTime": "Tue Jan 4 2022 10:45",
+            "rangeStart": "Tue Jan 4 2022 10:45",
+            "endTime": "Tue Jan 4 2022 11:00",
+            "start": "10:45",
+            "end": "11:00",
+            "duration": "00:15",
+            "reasonForVisit": "Rash",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {
+                "ar35_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "10:45",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Rash",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeEnd": "Tue Apr 5 2022 11:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "10:45",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA008"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar36",
+            "start": "11:00",
+            "end": "11:30",
+            "startTime": "Tue, Jan 04, 2022 11:00",
+            "endTime": "Tue, Jan 04, 2022 11:30",
+            "duration": "00:30",
+            "reasonForVisit": "Acne",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 11:00",
+            "rangeEnd": "Tue, Jan 04, 2022 11:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA005"
+            }
+        },
+        {
+            "appointmentID": "ar37",
+            "start": "13:00",
+            "end": "13:30",
+            "startTime": "Tue, Jan 04, 2022 13:00",
+            "endTime": "Tue, Jan 04, 2022 13:30",
+            "duration": "00:30",
+            "reasonForVisit": "Blood in urine",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 13:00",
+            "rangeEnd": "Tue, Jan 04, 2022 13:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA001"
+            }
+        },
+        {
+            "appointmentID": "ar38",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Tue, Jan 04, 2022 13:45",
+            "endTime": "Tue, Jan 04, 2022 14:00",
+            "duration": "00:15",
+            "reasonForVisit": "Foreign body in eye",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 13:45",
+            "rangeEnd": "Tue, Jan 04, 2022 14:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA024"
+            }
+        },
+        {
+            "appointmentID": "ar39",
+            "start": "15:00",
+            "end": "16:00",
+            "startTime": "Tue, Jan 04, 2022 15:00",
+            "endTime": "Tue, Jan 04, 2022 16:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual exam",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 15:00",
+            "rangeEnd": "Tue, Jan 04, 2022 16:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "15:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA012"
+            }
+        },
+        {
+            "appointmentID": "ar40",
+            "startTime": "Tue Jan 4 2022 09:45",
+            "rangeStart": "Tue Jan 4 2022 09:45",
+            "endTime": "Tue Jan 4 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {
+                "ar40_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "pmcgra01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeEnd": "Tue Apr 5 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar41",
+            "start": "11:00",
+            "end": "12:00",
+            "startTime": "Tue, Jan 04, 2022 11:00",
+            "endTime": "Tue, Jan 04, 2022 12:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual exam",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 11:00",
+            "rangeEnd": "Tue, Jan 04, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA012"
+            }
+        },
+        {
+            "appointmentID": "ar42",
+            "start": "13:30",
+            "end": "13:45",
+            "startTime": "Tue, Jan 04, 2022 13:30",
+            "endTime": "Tue, Jan 04, 2022 13:45",
+            "duration": "00:15",
+            "reasonForVisit": "Asthma",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 13:30",
+            "rangeEnd": "Tue, Jan 04, 2022 13:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:30",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            }
+        },
+        {
+            "appointmentID": "ar43",
+            "start": "14:45",
+            "end": "15:45",
+            "startTime": "Tue, Jan 04, 2022 14:45",
+            "endTime": "Tue, Jan 04, 2022 15:45",
+            "duration": "01:00",
+            "reasonForVisit": "Gyn exam",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 14:45",
+            "rangeEnd": "Tue, Jan 04, 2022 15:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "14:45",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA011"
+            }
+        },
+        {
+            "appointmentID": "ar44",
+            "startTime": "Tue Jan 4 2022 09:45",
+            "rangeStart": "Tue Jan 4 2022 09:45",
+            "endTime": "Tue Jan 4 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {
+                "ar44_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeEnd": "Tue Apr 5 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar45",
+            "start": "10:30",
+            "end": "11:00",
+            "startTime": "Tue, Jan 04, 2022 10:30",
+            "endTime": "Tue, Jan 04, 2022 11:00",
+            "duration": "00:30",
+            "reasonForVisit": "School physical",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 10:30",
+            "rangeEnd": "Tue, Jan 04, 2022 11:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "10:30",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA015"
+            }
+        },
+        {
+            "appointmentID": "ar46",
+            "start": "11:00",
+            "end": "12:00",
+            "startTime": "Tue, Jan 04, 2022 11:00",
+            "endTime": "Tue, Jan 04, 2022 12:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 11:00",
+            "rangeEnd": "Tue, Jan 04, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA016"
+            }
+        },
+        {
+            "appointmentID": "ar47",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Tue, Jan 04, 2022 13:45",
+            "endTime": "Tue, Jan 04, 2022 14:00",
+            "duration": "00:15",
+            "reasonForVisit": "Flu shot",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 13:45",
+            "rangeEnd": "Tue, Jan 04, 2022 14:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA020"
+            }
+        },
+        {
+            "appointmentID": "ar48",
+            "startTime": "Tue Jan 4 2022 09:45",
+            "rangeStart": "Tue Jan 4 2022 09:45",
+            "endTime": "Tue Jan 4 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Leg pain",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {
+                "ar48_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mrodri01"
+                    },
+                    "reasonForVisit": "Leg pain",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeEnd": "Tue Apr 5 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar49",
+            "start": "11:15",
+            "end": "12:00",
+            "startTime": "Tue, Jan 04, 2022 11:15",
+            "endTime": "Tue, Jan 04, 2022 12:00",
+            "duration": "00:45",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 11:15",
+            "rangeEnd": "Tue, Jan 04, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:15",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA011"
+            }
+        },
+        {
+            "appointmentID": "ar50",
+            "start": "14:00",
+            "end": "14:30",
+            "startTime": "Tue, Jan 04, 2022 14:00",
+            "endTime": "Tue, Jan 04, 2022 14:30",
+            "duration": "00:30",
+            "reasonForVisit": "Pre-operative testing",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeStart": "Tue, Jan 04, 2022 14:00",
+            "rangeEnd": "Tue, Jan 04, 2022 14:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "14:00",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA019"
+            }
+        },
+        {
+            "appointmentID": "ar51",
+            "startTime": "Wed Jan 5 2022 08:15",
+            "rangeStart": "Wed Jan 5 2022 08:15",
+            "endTime": "Wed Jan 5 2022 08:30",
+            "start": "08:15",
+            "end": "08:30",
+            "duration": "00:15",
+            "reasonForVisit": "Follow up back pain",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {
+                "ar51_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "08:15",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Follow up back pain",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeEnd": "Wed Apr 6 2022 08:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "08:15",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar52",
+            "startTime": "Wed Jan 5 2022 09:00",
+            "rangeStart": "Wed Jan 5 2022 09:00",
+            "endTime": "Wed Jan 5 2022 09:30",
+            "start": "09:00",
+            "end": "09:30",
+            "duration": "00:30",
+            "reasonForVisit": "Sore throat",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {
+                "ar52_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:00",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Sore throat",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeEnd": "Wed Apr 6 2022 09:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA003"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar53",
+            "startTime": "Wed Jan 5 2022 09:15",
+            "rangeStart": "Wed Jan 5 2022 09:15",
+            "endTime": "Wed Jan 5 2022 09:30",
+            "start": "09:15",
+            "end": "09:30",
+            "duration": "00:15",
+            "reasonForVisit": "Ulcer",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {
+                "ar53_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:15",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Ulcer",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeEnd": "Wed Apr 6 2022 09:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:15",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA006"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar54",
+            "startTime": "Wed Jan 5 2022 10:30",
+            "rangeStart": "Wed Jan 5 2022 10:30",
+            "endTime": "Wed Jan 5 2022 10:45",
+            "start": "10:30",
+            "end": "10:45",
+            "duration": "00:15",
+            "reasonForVisit": "Flu shot",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {
+                "ar54_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "10:30",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Flu shot",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeEnd": "Wed Apr 6 2022 10:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "10:30",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA018"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar55",
+            "startTime": "Wed Jan 5 2022 10:45",
+            "rangeStart": "Wed Jan 5 2022 10:45",
+            "endTime": "Wed Jan 5 2022 11:00",
+            "start": "10:45",
+            "end": "11:00",
+            "duration": "00:15",
+            "reasonForVisit": "Rash",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {
+                "ar55_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "10:45",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Rash",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeEnd": "Wed Apr 6 2022 11:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "10:45",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA008"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar56",
+            "start": "11:00",
+            "end": "11:30",
+            "startTime": "Wed, Jan 05, 2022 11:00",
+            "endTime": "Wed, Jan 05, 2022 11:30",
+            "duration": "00:30",
+            "reasonForVisit": "Acne",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 11:00",
+            "rangeEnd": "Wed, Jan 05, 2022 11:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA005"
+            }
+        },
+        {
+            "appointmentID": "ar57",
+            "start": "13:00",
+            "end": "13:30",
+            "startTime": "Wed, Jan 05, 2022 13:00",
+            "endTime": "Wed, Jan 05, 2022 13:30",
+            "duration": "00:30",
+            "reasonForVisit": "Blood in urine",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 13:00",
+            "rangeEnd": "Wed, Jan 05, 2022 13:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA001"
+            }
+        },
+        {
+            "appointmentID": "ar58",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Wed, Jan 05, 2022 13:45",
+            "endTime": "Wed, Jan 05, 2022 14:00",
+            "duration": "00:15",
+            "reasonForVisit": "Foreign body in eye",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 13:45",
+            "rangeEnd": "Wed, Jan 05, 2022 14:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA024"
+            }
+        },
+        {
+            "appointmentID": "ar59",
+            "start": "15:00",
+            "end": "16:00",
+            "startTime": "Wed, Jan 05, 2022 15:00",
+            "endTime": "Wed, Jan 05, 2022 16:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual exam",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 15:00",
+            "rangeEnd": "Wed, Jan 05, 2022 16:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "15:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA012"
+            }
+        },
+        {
+            "appointmentID": "ar60",
+            "startTime": "Wed Jan 5 2022 09:45",
+            "rangeStart": "Wed Jan 5 2022 09:45",
+            "endTime": "Wed Jan 5 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {
+                "ar60_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "pmcgra01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeEnd": "Wed Apr 6 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar61",
+            "start": "11:00",
+            "end": "12:00",
+            "startTime": "Wed, Jan 05, 2022 11:00",
+            "endTime": "Wed, Jan 05, 2022 12:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual exam",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 11:00",
+            "rangeEnd": "Wed, Jan 05, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA012"
+            }
+        },
+        {
+            "appointmentID": "ar62",
+            "start": "13:30",
+            "end": "13:45",
+            "startTime": "Wed, Jan 05, 2022 13:30",
+            "endTime": "Wed, Jan 05, 2022 13:45",
+            "duration": "00:15",
+            "reasonForVisit": "Asthma",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 13:30",
+            "rangeEnd": "Wed, Jan 05, 2022 13:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:30",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            }
+        },
+        {
+            "appointmentID": "ar63",
+            "start": "14:45",
+            "end": "15:45",
+            "startTime": "Wed, Jan 05, 2022 14:45",
+            "endTime": "Wed, Jan 05, 2022 15:45",
+            "duration": "01:00",
+            "reasonForVisit": "Gyn exam",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 14:45",
+            "rangeEnd": "Wed, Jan 05, 2022 15:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "14:45",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA011"
+            }
+        },
+        {
+            "appointmentID": "ar64",
+            "startTime": "Wed Jan 5 2022 09:45",
+            "rangeStart": "Wed Jan 5 2022 09:45",
+            "endTime": "Wed Jan 5 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {
+                "ar64_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeEnd": "Wed Apr 6 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar65",
+            "start": "10:30",
+            "end": "11:00",
+            "startTime": "Wed, Jan 05, 2022 10:30",
+            "endTime": "Wed, Jan 05, 2022 11:00",
+            "duration": "00:30",
+            "reasonForVisit": "School physical",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 10:30",
+            "rangeEnd": "Wed, Jan 05, 2022 11:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "10:30",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA015"
+            }
+        },
+        {
+            "appointmentID": "ar66",
+            "start": "11:00",
+            "end": "12:00",
+            "startTime": "Wed, Jan 05, 2022 11:00",
+            "endTime": "Wed, Jan 05, 2022 12:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 11:00",
+            "rangeEnd": "Wed, Jan 05, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA016"
+            }
+        },
+        {
+            "appointmentID": "ar67",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Wed, Jan 05, 2022 13:45",
+            "endTime": "Wed, Jan 05, 2022 14:00",
+            "duration": "00:15",
+            "reasonForVisit": "Flu shot",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 13:45",
+            "rangeEnd": "Wed, Jan 05, 2022 14:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA020"
+            }
+        },
+        {
+            "appointmentID": "ar68",
+            "startTime": "Wed Jan 5 2022 09:45",
+            "rangeStart": "Wed Jan 5 2022 09:45",
+            "endTime": "Wed Jan 5 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Leg pain",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {
+                "ar68_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mrodri01"
+                    },
+                    "reasonForVisit": "Leg pain",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeEnd": "Wed Apr 6 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar69",
+            "start": "11:15",
+            "end": "12:00",
+            "startTime": "Wed, Jan 05, 2022 11:15",
+            "endTime": "Wed, Jan 05, 2022 12:00",
+            "duration": "00:45",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 11:15",
+            "rangeEnd": "Wed, Jan 05, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:15",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA011"
+            }
+        },
+        {
+            "appointmentID": "ar70",
+            "start": "14:00",
+            "end": "14:30",
+            "startTime": "Wed, Jan 05, 2022 14:00",
+            "endTime": "Wed, Jan 05, 2022 14:30",
+            "duration": "00:30",
+            "reasonForVisit": "Pre-operative testing",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeStart": "Wed, Jan 05, 2022 14:00",
+            "rangeEnd": "Wed, Jan 05, 2022 14:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "14:00",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA019"
+            }
+        },
+        {
+            "appointmentID": "ar71",
+            "startTime": "Thu Jan 6 2022 08:15",
+            "rangeStart": "Thu Jan 6 2022 08:15",
+            "endTime": "Thu Jan 6 2022 08:30",
+            "start": "08:15",
+            "end": "08:30",
+            "duration": "00:15",
+            "reasonForVisit": "Follow up back pain",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {
+                "ar71_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "08:15",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Follow up back pain",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeEnd": "Thu Apr 7 2022 08:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "08:15",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar72",
+            "startTime": "Thu Jan 6 2022 09:00",
+            "rangeStart": "Thu Jan 6 2022 09:00",
+            "endTime": "Thu Jan 6 2022 09:30",
+            "start": "09:00",
+            "end": "09:30",
+            "duration": "00:30",
+            "reasonForVisit": "Sore throat",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {
+                "ar72_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:00",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Sore throat",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeEnd": "Thu Apr 7 2022 09:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA003"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar73",
+            "startTime": "Thu Jan 6 2022 09:15",
+            "rangeStart": "Thu Jan 6 2022 09:15",
+            "endTime": "Thu Jan 6 2022 09:30",
+            "start": "09:15",
+            "end": "09:30",
+            "duration": "00:15",
+            "reasonForVisit": "Ulcer",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {
+                "ar73_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:15",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Ulcer",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeEnd": "Thu Apr 7 2022 09:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:15",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA006"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar74",
+            "startTime": "Thu Jan 6 2022 10:30",
+            "rangeStart": "Thu Jan 6 2022 10:30",
+            "endTime": "Thu Jan 6 2022 10:45",
+            "start": "10:30",
+            "end": "10:45",
+            "duration": "00:15",
+            "reasonForVisit": "Flu shot",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {
+                "ar74_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "10:30",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Flu shot",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeEnd": "Thu Apr 7 2022 10:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "10:30",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA018"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar75",
+            "startTime": "Thu Jan 6 2022 10:45",
+            "rangeStart": "Thu Jan 6 2022 10:45",
+            "endTime": "Thu Jan 6 2022 11:00",
+            "start": "10:45",
+            "end": "11:00",
+            "duration": "00:15",
+            "reasonForVisit": "Rash",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {
+                "ar75_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "10:45",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Rash",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeEnd": "Thu Apr 7 2022 11:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "10:45",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA008"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar76",
+            "start": "11:00",
+            "end": "11:30",
+            "startTime": "Thu, Jan 06, 2022 11:00",
+            "endTime": "Thu, Jan 06, 2022 11:30",
+            "duration": "00:30",
+            "reasonForVisit": "Acne",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 11:00",
+            "rangeEnd": "Thu, Jan 06, 2022 11:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA005"
+            }
+        },
+        {
+            "appointmentID": "ar77",
+            "start": "13:00",
+            "end": "13:30",
+            "startTime": "Thu, Jan 06, 2022 13:00",
+            "endTime": "Thu, Jan 06, 2022 13:30",
+            "duration": "00:30",
+            "reasonForVisit": "Blood in urine",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 13:00",
+            "rangeEnd": "Thu, Jan 06, 2022 13:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA001"
+            }
+        },
+        {
+            "appointmentID": "ar78",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Thu, Jan 06, 2022 13:45",
+            "endTime": "Thu, Jan 06, 2022 14:00",
+            "duration": "00:15",
+            "reasonForVisit": "Foreign body in eye",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 13:45",
+            "rangeEnd": "Thu, Jan 06, 2022 14:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA024"
+            }
+        },
+        {
+            "appointmentID": "ar79",
+            "start": "15:00",
+            "end": "16:00",
+            "startTime": "Thu, Jan 06, 2022 15:00",
+            "endTime": "Thu, Jan 06, 2022 16:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual exam",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 15:00",
+            "rangeEnd": "Thu, Jan 06, 2022 16:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "15:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA012"
+            }
+        },
+        {
+            "appointmentID": "ar80",
+            "startTime": "Thu Jan 6 2022 09:45",
+            "rangeStart": "Thu Jan 6 2022 09:45",
+            "endTime": "Thu Jan 6 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {
+                "ar80_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "pmcgra01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeEnd": "Thu Apr 7 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar81",
+            "start": "11:00",
+            "end": "12:00",
+            "startTime": "Thu, Jan 06, 2022 11:00",
+            "endTime": "Thu, Jan 06, 2022 12:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual exam",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 11:00",
+            "rangeEnd": "Thu, Jan 06, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA012"
+            }
+        },
+        {
+            "appointmentID": "ar82",
+            "start": "13:30",
+            "end": "13:45",
+            "startTime": "Thu, Jan 06, 2022 13:30",
+            "endTime": "Thu, Jan 06, 2022 13:45",
+            "duration": "00:15",
+            "reasonForVisit": "Asthma",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 13:30",
+            "rangeEnd": "Thu, Jan 06, 2022 13:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:30",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            }
+        },
+        {
+            "appointmentID": "ar83",
+            "start": "14:45",
+            "end": "15:45",
+            "startTime": "Thu, Jan 06, 2022 14:45",
+            "endTime": "Thu, Jan 06, 2022 15:45",
+            "duration": "01:00",
+            "reasonForVisit": "Gyn exam",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 14:45",
+            "rangeEnd": "Thu, Jan 06, 2022 15:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "14:45",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA011"
+            }
+        },
+        {
+            "appointmentID": "ar84",
+            "startTime": "Thu Jan 6 2022 09:45",
+            "rangeStart": "Thu Jan 6 2022 09:45",
+            "endTime": "Thu Jan 6 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {
+                "ar84_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeEnd": "Thu Apr 7 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar85",
+            "start": "10:30",
+            "end": "11:00",
+            "startTime": "Thu, Jan 06, 2022 10:30",
+            "endTime": "Thu, Jan 06, 2022 11:00",
+            "duration": "00:30",
+            "reasonForVisit": "School physical",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 10:30",
+            "rangeEnd": "Thu, Jan 06, 2022 11:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "10:30",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA015"
+            }
+        },
+        {
+            "appointmentID": "ar86",
+            "start": "11:00",
+            "end": "12:00",
+            "startTime": "Thu, Jan 06, 2022 11:00",
+            "endTime": "Thu, Jan 06, 2022 12:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 11:00",
+            "rangeEnd": "Thu, Jan 06, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA016"
+            }
+        },
+        {
+            "appointmentID": "ar87",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Thu, Jan 06, 2022 13:45",
+            "endTime": "Thu, Jan 06, 2022 14:00",
+            "duration": "00:15",
+            "reasonForVisit": "Flu shot",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 13:45",
+            "rangeEnd": "Thu, Jan 06, 2022 14:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA020"
+            }
+        },
+        {
+            "appointmentID": "ar88",
+            "startTime": "Thu Jan 6 2022 09:45",
+            "rangeStart": "Thu Jan 6 2022 09:45",
+            "endTime": "Thu Jan 6 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Leg pain",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {
+                "ar88_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mrodri01"
+                    },
+                    "reasonForVisit": "Leg pain",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeEnd": "Thu Apr 7 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar89",
+            "start": "11:15",
+            "end": "12:00",
+            "startTime": "Thu, Jan 06, 2022 11:15",
+            "endTime": "Thu, Jan 06, 2022 12:00",
+            "duration": "00:45",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 11:15",
+            "rangeEnd": "Thu, Jan 06, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:15",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA011"
+            }
+        },
+        {
+            "appointmentID": "ar90",
+            "start": "14:00",
+            "end": "14:30",
+            "startTime": "Thu, Jan 06, 2022 14:00",
+            "endTime": "Thu, Jan 06, 2022 14:30",
+            "duration": "00:30",
+            "reasonForVisit": "Pre-operative testing",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeStart": "Thu, Jan 06, 2022 14:00",
+            "rangeEnd": "Thu, Jan 06, 2022 14:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "14:00",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA019"
+            }
+        },
+        {
+            "appointmentID": "ar91",
+            "startTime": "Fri Jan 7 2022 08:15",
+            "rangeStart": "Fri Jan 7 2022 08:15",
+            "endTime": "Fri Jan 7 2022 08:30",
+            "start": "08:15",
+            "end": "08:30",
+            "duration": "00:15",
+            "reasonForVisit": "Follow up back pain",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {
+                "ar91_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "08:15",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Follow up back pain",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeEnd": "Fri Apr 8 2022 08:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "08:15",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar92",
+            "startTime": "Fri Jan 7 2022 09:00",
+            "rangeStart": "Fri Jan 7 2022 09:00",
+            "endTime": "Fri Jan 7 2022 09:30",
+            "start": "09:00",
+            "end": "09:30",
+            "duration": "00:30",
+            "reasonForVisit": "Sore throat",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {
+                "ar92_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:00",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Sore throat",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeEnd": "Fri Apr 8 2022 09:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA003"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar93",
+            "startTime": "Fri Jan 7 2022 09:15",
+            "rangeStart": "Fri Jan 7 2022 09:15",
+            "endTime": "Fri Jan 7 2022 09:30",
+            "start": "09:15",
+            "end": "09:30",
+            "duration": "00:15",
+            "reasonForVisit": "Ulcer",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {
+                "ar93_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:15",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Ulcer",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeEnd": "Fri Apr 8 2022 09:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:15",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA006"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar94",
+            "startTime": "Fri Jan 7 2022 10:30",
+            "rangeStart": "Fri Jan 7 2022 10:30",
+            "endTime": "Fri Jan 7 2022 10:45",
+            "start": "10:30",
+            "end": "10:45",
+            "duration": "00:15",
+            "reasonForVisit": "Flu shot",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {
+                "ar94_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "10:30",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Flu shot",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeEnd": "Fri Apr 8 2022 10:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "10:30",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA018"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar95",
+            "startTime": "Fri Jan 7 2022 10:45",
+            "rangeStart": "Fri Jan 7 2022 10:45",
+            "endTime": "Fri Jan 7 2022 11:00",
+            "start": "10:45",
+            "end": "11:00",
+            "duration": "00:15",
+            "reasonForVisit": "Rash",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {
+                "ar95_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "10:45",
+                    "providerInfo": {
+                        "providerUserID": "jingra01"
+                    },
+                    "reasonForVisit": "Rash",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeEnd": "Fri Apr 8 2022 11:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "10:45",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA008"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar96",
+            "start": "11:00",
+            "end": "11:30",
+            "startTime": "Fri, Jan 07, 2022 11:00",
+            "endTime": "Fri, Jan 07, 2022 11:30",
+            "duration": "00:30",
+            "reasonForVisit": "Acne",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 11:00",
+            "rangeEnd": "Fri, Jan 07, 2022 11:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA005"
+            }
+        },
+        {
+            "appointmentID": "ar97",
+            "start": "13:00",
+            "end": "13:30",
+            "startTime": "Fri, Jan 07, 2022 13:00",
+            "endTime": "Fri, Jan 07, 2022 13:30",
+            "duration": "00:30",
+            "reasonForVisit": "Blood in urine",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 13:00",
+            "rangeEnd": "Fri, Jan 07, 2022 13:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA001"
+            }
+        },
+        {
+            "appointmentID": "ar98",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Fri, Jan 07, 2022 13:45",
+            "endTime": "Fri, Jan 07, 2022 14:00",
+            "duration": "00:15",
+            "reasonForVisit": "Foreign body in eye",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 13:45",
+            "rangeEnd": "Fri, Jan 07, 2022 14:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA024"
+            }
+        },
+        {
+            "appointmentID": "ar99",
+            "start": "15:00",
+            "end": "16:00",
+            "startTime": "Fri, Jan 07, 2022 15:00",
+            "endTime": "Fri, Jan 07, 2022 16:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual exam",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 15:00",
+            "rangeEnd": "Fri, Jan 07, 2022 16:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "15:00",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA012"
+            }
+        },
+        {
+            "appointmentID": "ar100",
+            "startTime": "Fri Jan 7 2022 09:45",
+            "rangeStart": "Fri Jan 7 2022 09:45",
+            "endTime": "Fri Jan 7 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {
+                "ar100_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "pmcgra01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeEnd": "Fri Apr 8 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar101",
+            "start": "11:00",
+            "end": "12:00",
+            "startTime": "Fri, Jan 07, 2022 11:00",
+            "endTime": "Fri, Jan 07, 2022 12:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual exam",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 11:00",
+            "rangeEnd": "Fri, Jan 07, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA012"
+            }
+        },
+        {
+            "appointmentID": "ar102",
+            "start": "13:30",
+            "end": "13:45",
+            "startTime": "Fri, Jan 07, 2022 13:30",
+            "endTime": "Fri, Jan 07, 2022 13:45",
+            "duration": "00:15",
+            "reasonForVisit": "Asthma",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 13:30",
+            "rangeEnd": "Fri, Jan 07, 2022 13:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:30",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            }
+        },
+        {
+            "appointmentID": "ar103",
+            "start": "14:45",
+            "end": "15:45",
+            "startTime": "Fri, Jan 07, 2022 14:45",
+            "endTime": "Fri, Jan 07, 2022 15:45",
+            "duration": "01:00",
+            "reasonForVisit": "Gyn exam",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 14:45",
+            "rangeEnd": "Fri, Jan 07, 2022 15:45",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "14:45",
+            "providerInfo": {
+                "providerUserID": "pmcgra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA011"
+            }
+        },
+        {
+            "appointmentID": "ar104",
+            "startTime": "Fri Jan 7 2022 09:45",
+            "rangeStart": "Fri Jan 7 2022 09:45",
+            "endTime": "Fri Jan 7 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {
+                "ar104_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeEnd": "Fri Apr 8 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar105",
+            "start": "10:30",
+            "end": "11:00",
+            "startTime": "Fri, Jan 07, 2022 10:30",
+            "endTime": "Fri, Jan 07, 2022 11:00",
+            "duration": "00:30",
+            "reasonForVisit": "School physical",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 10:30",
+            "rangeEnd": "Fri, Jan 07, 2022 11:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "10:30",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA015"
+            }
+        },
+        {
+            "appointmentID": "ar106",
+            "start": "11:00",
+            "end": "12:00",
+            "startTime": "Fri, Jan 07, 2022 11:00",
+            "endTime": "Fri, Jan 07, 2022 12:00",
+            "duration": "01:00",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 11:00",
+            "rangeEnd": "Fri, Jan 07, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA016"
+            }
+        },
+        {
+            "appointmentID": "ar107",
+            "start": "13:45",
+            "end": "14:00",
+            "startTime": "Fri, Jan 07, 2022 13:45",
+            "endTime": "Fri, Jan 07, 2022 14:00",
+            "duration": "00:15",
+            "reasonForVisit": "Flu shot",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 13:45",
+            "rangeEnd": "Fri, Jan 07, 2022 14:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "13:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA020"
+            }
+        },
+        {
+            "appointmentID": "ar108",
+            "startTime": "Fri Jan 7 2022 09:45",
+            "rangeStart": "Fri Jan 7 2022 09:45",
+            "endTime": "Fri Jan 7 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Leg pain",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {
+                "ar108_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mrodri01"
+                    },
+                    "reasonForVisit": "Leg pain",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeEnd": "Fri Apr 8 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA013"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar109",
+            "start": "11:15",
+            "end": "12:00",
+            "startTime": "Fri, Jan 07, 2022 11:15",
+            "endTime": "Fri, Jan 07, 2022 12:00",
+            "duration": "00:45",
+            "reasonForVisit": "Annual physical",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 11:15",
+            "rangeEnd": "Fri, Jan 07, 2022 12:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "11:15",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA011"
+            }
+        },
+        {
+            "appointmentID": "ar110",
+            "start": "14:00",
+            "end": "14:30",
+            "startTime": "Fri, Jan 07, 2022 14:00",
+            "endTime": "Fri, Jan 07, 2022 14:30",
+            "duration": "00:30",
+            "reasonForVisit": "Pre-operative testing",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {},
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeStart": "Fri, Jan 07, 2022 14:00",
+            "rangeEnd": "Fri, Jan 07, 2022 14:30",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/02/2022",
+            "treatmentTime": "14:00",
+            "providerInfo": {
+                "providerUserID": "mrodri01"
+            },
             "patientInfo": {
                 "chartNumber": "AA019"
             }

@@ -6,7 +6,7 @@
     "data": {
         "AA019": [
             {
-                "apptId": "ar52",
+                "apptId": "ar07",
                 "chiefComplaint": "Muscle aches",
                 "presentIllness": "C/O sore muscles for the last five days. Worsens upon activity. Has had a low grade fever on and off. Denies known injury.",
                 "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
@@ -54,7 +54,7 @@
         ],
         "AA005": [
             {
-                "apptId": "ar53",
+                "apptId": "ar08",
                 "chiefComplaint": "Annual physical",
                 "presentIllness": "No complaints, follow up high cholesterol",
                 "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
@@ -131,7 +131,7 @@
         ],
         "AA001": [
             {
-                "apptId": "ar54",
+                "apptId": "ar09",
                 "chiefComplaint": "Annual physical",
                 "presentIllness": "No complaints, follow up migraines",
                 "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
@@ -204,7 +204,7 @@
         ],
         "AA021": [
             {
-                "apptId": "ar55",
+                "apptId": "ar10",
                 "chiefComplaint": "Cough",
                 "presentIllness": "C/O deep cough x 3 days, fever, body aches, chills, fatigue, and headache",
                 "reviewOfSystem": "GENERAL: No weight change, + fever, + chills, + night sweats, + generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: + headache, no dizziness, lightheadedness, tinnitus, ear pain or discharge. PULMONARY: + wheezing, + cough, + congestion, - hemoptysis, + chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
@@ -266,7 +266,7 @@
         ],
         "AA009": [
             {
-                "apptId": "ar47",
+                "apptId": "ar02",
                 "chiefComplaint": "Diabetic check",
                 "presentIllness": "Here for diabetic check up, states that blood sugar levels have been elevated over the past few weeks, no other complaints",
                 "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
@@ -313,7 +313,7 @@
         ],
         "AA002": [
             {
-                "apptId": "ar48",
+                "apptId": "ar03",
                 "chiefComplaint": "Check up",
                 "presentIllness": "No complaints",
                 "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
@@ -366,7 +366,7 @@
         ],
         "AA003": [
             {
-                "apptId": "ar49",
+                "apptId": "ar04",
                 "chiefComplaint": "Complete physical",
                 "presentIllness": "No complaints",
                 "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
@@ -427,7 +427,7 @@
         ],
         "AA006": [
             {
-                "apptId": "ar50",
+                "apptId": "ar05",
                 "chiefComplaint": "Leg pain",
                 "presentIllness": "C/O upper right leg pain and tenderness, worse with activity, relieved somewhat with ibuprofen, no known injury",
                 "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
@@ -476,7 +476,7 @@
         ],
         "AA004": [
             {
-                "apptId": "ar51",
+                "apptId": "ar06",
                 "chiefComplaint": "Headaches",
                 "presentIllness": "C/O headaches, worse at night, relieved with ibuprofen",
                 "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",

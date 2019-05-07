@@ -15,6 +15,34 @@ function isEmpty(obj) {
   return true;
 };
 
+
+function getDayOfWeek(repeat){
+  var dow = repeat.toLowerCase().split("every")[1];
+
+  switch(dow.trim()){
+    case "monday" : return [1];
+    case "tuesday" : return [2];
+    case "wednesday" : return [3];
+    case "thursday" : return [4];
+    case "friday" : return [5];
+    case "saturday" : return [6];
+    case "sunday" : return [0];
+    case "day" : return [1,2,3,4,5,6,0];
+  }
+}
+
+function getStartDate(startDate, repeat){
+  if(repeat.toLowerCase() == "never"){
+    return startDate;
+  }
+  var startday =  moment(startDate, "ddd MMM D YYYY HH:mm").day();
+  var currentday = parseInt(getDayOfWeek(repeat));
+  currentday = currentday<startday ? currentday+7 : currentday;
+  startDate = moment(startDate, "ddd MMM D YYYY HH:mm").day(currentday).format("ddd MMM D YYYY HH:mm");
+  return startDate;
+}
+
+
 function findChartNo(firstName, lastName) {
   var chartNumber;
   patient.forEach((item) => {
@@ -46,6 +74,11 @@ function generateAptId(id) {
 };
 
 function getDow(repeat) {
+  if(repeat){
+    if (repeat.indexOf(" ")!=-1){
+      repeat = repeat.split(" ")[1];
+    }
+  }
   switch (repeat) {
     case "Monday": {
       return [1];
@@ -79,6 +112,11 @@ function getDow(repeat) {
       return [1, 2, 3, 4, 5];
       break;
     };
+    case "Never":{
+      return [];
+      break;
+    }
+
 
   }
 };
@@ -88,55 +126,55 @@ function createCheckedInWaitingObj(element) {
   checkInObj.appointmentID = generateAptId();
   if (element.selectedRepeat.toLowerCase() != "never") {
     var rangeDeviationAptID = checkInObj.appointmentID + "_01032022";
-    checkInObj.startTime = "Mon Jan 03 2022 " + moment(element.startTime, "hh:mm").format("hh:mm");
-    checkInObj.rangeStart = "Mon Jan 03 2022 " + moment(element.startTime, "hh:mm").format("hh:mm");
-    checkInObj.endTime = "Mon Jan 03 2022 " + moment(element.startTime, "hh:mm").add(parseInt(element.duration), "minutes").format("hh:mm")
-    checkInObj.start = moment(element.startTime, "hh:mm").format("hh:mm");
-    checkInObj.end = moment(element.startTime, "hh:mm").add(parseInt(element.duration), "minutes").format("hh:mm")
+    checkInObj.startTime = getStartDate("Mon Jan 03 2022 " + moment(element.startTime, "hh:mm a").format("HH:mm"), element.selectedRepeat);
+    checkInObj.rangeStart = getStartDate("Mon Jan 03 2022 " + moment(element.startTime, "hh:mm a").format("HH:mm"), element.selectedRepeat);
+    checkInObj.endTime = getStartDate("Mon Jan 03 2022 " + moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm"),element.selectedRepeat);
+    checkInObj.start = moment(element.startTime, "hh:mm a").format("HH:mm");
+    checkInObj.end = moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm")
     checkInObj.duration = moment(element.duration, "mm").format("HH:mm");
     checkInObj.reasonForVisit = element.reasonForVisit;
     checkInObj.allDay = false;
     checkInObj.selectedRepeat = element.selectedRepeat;
     checkInObj.rangeDeviation = {};
     checkInObj.rangeDeviation[rangeDeviationAptID] = {};
-    checkInObj.rangeDeviation[rangeDeviationAptID].appointmentType = "New appointment";
-    checkInObj.rangeDeviation[rangeDeviationAptID].checkInTime = moment(element.startTime, "hh:mm").format("hh:mm");
+    checkInObj.rangeDeviation[rangeDeviationAptID].appointmentType = element.appointmentType;
+    checkInObj.rangeDeviation[rangeDeviationAptID].checkInTime = moment(element.startTime, "hh:mm a").format("HH:mm");
     checkInObj.rangeDeviation[rangeDeviationAptID].providerInfo = {};
     checkInObj.rangeDeviation[rangeDeviationAptID].providerInfo.providerUserID = findProviderInfo(element.providerName).providerUserID;
     checkInObj.rangeDeviation[rangeDeviationAptID].reasonForVisit = element.reasonForVisit;
     checkInObj.rangeDeviation[rangeDeviationAptID].status = "Checked in waiting";
     checkInObj._recurring = true;
     // checkInObj._recurring = false;
-    checkInObj.dow = getDow(element.selectedRepeat);
-    checkInObj.rangeEnd = "Mon, Apr 04 2022 " + moment(element.startTime, "hh:mm").add(parseInt(element.duration), "minutes").format("hh:mm");
+    checkInObj.dow = element.selectedRepeat ? getDow(element.selectedRepeat) :console.log(element);
+    checkInObj.rangeEnd = getStartDate("Mon, Apr 04 2022 " + moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm"), element.selectedRepeat);
     checkInObj.status = element.selectedRepeat.toLowerCase() === "never" ? element.status : "Pending";
     checkInObj.appointmentType = element.appointmentType;
     checkInObj["contact-home"] = element["contact-home"];
     checkInObj.cell = element.cell;
     checkInObj.work = element.work;
     checkInObj.treatmentDate = moment("01/03/2022").add(3, "months").format("MM/DD/YYYY");
-    checkInObj.treatmentTime = moment(element.startTime, "hh:mm").format("hh:mm");
+    checkInObj.treatmentTime = moment(element.startTime, "hh:mm a").format("HH:mm");
   } else {
-    checkInObj.startTime = moment(element.aptDate).format("ddd MMM DD YYYY") + moment(element.startTime, "hh:mm").format(" hh:mm");
-    checkInObj.rangeStart = moment(element.aptDate).format("ddd MMM DD YYYY") + moment(element.startTime, "hh:mm").format(" hh:mm");
-    checkInObj.endTime = moment(checkInObj.startTime, "ddd MMM DD YYYY hh:mm").add(parseInt(element.duration), "minutes").format("ddd MMM DD YYYY hh:mm");
-    checkInObj.start = moment(element.startTime, "hh:mm").format("hh:mm");
-    checkInObj.end = moment(element.startTime, "hh:mm").add(parseInt(element.duration), "minutes").format("hh:mm")
+    checkInObj.startTime = getStartDate(moment(element.aptDate).format("ddd MMM DD YYYY") + moment(element.startTime, "hh:mm a").format(" HH:mm"), element.selectedRepeat);
+    checkInObj.rangeStart = getStartDate(moment(element.aptDate).format("ddd MMM DD YYYY") + moment(element.startTime, "hh:mm a").format(" HH:mm"), element.selectedRepeat);
+    checkInObj.endTime = getStartDate(moment(checkInObj.startTime, "ddd MMM DD YYYY HH:mm").add(parseInt(element.duration), "minutes").format("ddd MMM DD YYYY HH:mm"), element.selectedRepeat);
+    checkInObj.start = moment(element.startTime, "hh:mm a").format("HH:mm");
+    checkInObj.end = moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm")
     checkInObj.duration = moment(element.duration, "mm").format("HH:mm");
     checkInObj.reasonForVisit = element.reasonForVisit;
     checkInObj.allDay = false;
     checkInObj.selectedRepeat = element.selectedRepeat;
     checkInObj.rangeDeviation = {};
     checkInObj._recurring = false;
-    checkInObj.dow = getDow(element.selectedRepeat);
-    checkInObj.rangeEnd = moment(checkInObj.startTime, "ddd MMM DD YYYY hh:mm").add(parseInt(element.duration), "minutes").format("ddd MMM DD YYYY hh:mm");
+    checkInObj.dow = element.selectedRepeat ? getDow(element.selectedRepeat) :console.log(element);
+    checkInObj.rangeEnd = getStartDate(moment(checkInObj.startTime, "ddd MMM DD YYYY HH:mm").add(parseInt(element.duration), "minutes").format("ddd MMM DD YYYY HH:mm"), element.selectedRepeat);
     checkInObj.status = element.status;
     checkInObj.appointmentType = element.appointmentType;
     checkInObj["contact-home"] = element["contact-home"];
     checkInObj.cell = element.cell;
     checkInObj.work = element.work;
     checkInObj.treatmentDate = moment(element.aptDate).format("MM/DD/YYYY");
-    checkInObj.treatmentTime = moment(element.startTime, "hh:mm").format("hh:mm");
+    checkInObj.treatmentTime = moment(element.startTime, "hh:mm a").format("HH:mm");
   }
     checkInObj.providerInfo = {};
     checkInObj.providerInfo.providerUserID = findProviderInfo(element.providerName).providerUserID;
@@ -167,10 +205,10 @@ function createPendingObj(element) {
   // not required to check it it is repeat appointment coz "element.selectedRepeat" is doing it.
   var pendingObj = {};
   pendingObj.appointmentID = generateAptId();
-  pendingObj.start = moment(element.startTime, "hh:mm").format("hh:mm");
-  pendingObj.end = moment(element.startTime, "hh:mm").add(parseInt(element.duration), "minutes").format("hh:mm")
-  pendingObj.startTime = "Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm").format("hh:mm");
-  pendingObj.endTime = "Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm").add(parseInt(element.duration), "minutes").format("hh:mm")
+  pendingObj.start = moment(element.startTime, "hh:mm a").format("HH:mm");
+  pendingObj.end = moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm")
+  pendingObj.startTime = moment(getStartDate("Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm a").format("HH:mm"),element.selectedRepeat)).format("ddd, MMM DD, YYYY HH:mm");
+  pendingObj.endTime = moment(getStartDate("Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm"), element.selectedRepeat)).format("ddd, MMM DD, YYYY HH:mm");
   if(element.duration>=60){
     var h = parseInt(element.duration/60);
     var m = element%60;
@@ -183,16 +221,16 @@ function createPendingObj(element) {
   pendingObj.selectedRepeat = element.selectedRepeat;
   pendingObj.rangeDeviation = {};
   pendingObj._recurring = true;
-  pendingObj.dow = getDow(element.selectedRepeat);
-  pendingObj.rangeStart = "Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm").format("hh:mm");
-  pendingObj.rangeEnd = "Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm").add(parseInt(element.duration), "minutes").format("hh:mm")
+  pendingObj.dow = element.selectedRepeat ? getDow(element.selectedRepeat) :console.log(element);
+  pendingObj.rangeStart = moment(getStartDate("Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm a").format("HH:mm"),element.selectedRepeat)).format("ddd, MMM DD, YYYY HH:mm");
+  pendingObj.rangeEnd = moment(getStartDate("Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm"), element.selectedRepeat)).format("ddd, MMM DD, YYYY HH:mm");
   pendingObj.status = "Pending";
   pendingObj.appointmentType = element.appointmentType;
   pendingObj["contact-home"] = element["contact-home"];
   pendingObj.cell = element.cell;
   pendingObj.work = element.work;
   pendingObj.treatmentDate = moment("01/02/2022").add(3, "months").format("MM/DD/YYYY");
-  pendingObj.treatmentTime = moment(element.startTime, "hh:mm").format("hh:mm");
+  pendingObj.treatmentTime = moment(element.startTime, "hh:mm a").format("HH:mm");
   pendingObj.providerInfo = {};
   pendingObj.providerInfo.providerUserID = findProviderInfo(element.providerName).providerUserID;
   pendingObj.patientInfo = {};
@@ -207,22 +245,22 @@ function createReadyForCheckoutObj(element) {
   var createReadyForCheckoutObj = {};
   createReadyForCheckoutObj.appointmentID = generateAptId();
   // console.log( moment(element.aptDate).format("MM/DD/YYYY"));
-  var dateAndTime = element.aptDate != "" ? moment(element.aptDate).format("MM/DD/YYYY") + " " + moment(element.startTime, "h:mm").format("HH:mm") : moment(element.startTime, "h:mm").format("HH:mm");
+  var dateAndTime = element.aptDate != "" ? moment(element.aptDate).format("MM/DD/YYYY") + " " + moment(element.startTime, "hh:mm a").format("HH:mm") : moment(element.startTime, "hh:mm a").format("HH:mm");
   // console.log(dateAndTime);
-  createReadyForCheckoutObj.start = moment(dateAndTime).format("ddd, MMM DD, YYYY hh:mm");
-  createReadyForCheckoutObj.end = moment(dateAndTime).format("ddd, MMM DD, YYYY") + " " + moment(element.startTime, "h:mm").add(parseInt(element.duration), "minutes").format("hh:mm");
+  createReadyForCheckoutObj.start = moment(dateAndTime).format("ddd, MMM DD, YYYY HH:mm");
+  createReadyForCheckoutObj.end = moment(dateAndTime).format("ddd, MMM DD, YYYY") + " " + moment(element.startTime, "HH:mm").add(parseInt(element.duration), "minutes").format("HH:mm");
   createReadyForCheckoutObj.duration = moment(element.duration, "mm").format("HH:mm");
   createReadyForCheckoutObj.reasonForVisit = element.reasonForVisit;
   createReadyForCheckoutObj.allDay = false;
   createReadyForCheckoutObj.selectedRepeat = element.selectedRepeat;
-  createReadyForCheckoutObj.rangeEnd = moment(dateAndTime).add(parseInt(element.duration), "minutes").format("ddd, MMM DD, YYYY hh:mm");
+  createReadyForCheckoutObj.rangeEnd = moment(dateAndTime).add(parseInt(element.duration), "minutes").format("ddd, MMM DD, YYYY HH:mm");
   createReadyForCheckoutObj.status = "Ready for checkout";
   createReadyForCheckoutObj.appointmentType = element.appointmentType;
   createReadyForCheckoutObj["contact-home"] = element["contact-home"];
   createReadyForCheckoutObj.cell = element.cell;
   createReadyForCheckoutObj.work = element.work;
   createReadyForCheckoutObj.treatmentDate = moment(dateAndTime).format("MM/DD/YYYY");
-  createReadyForCheckoutObj.treatmentTime = moment(dateAndTime).format("hh:mm");
+  createReadyForCheckoutObj.treatmentTime = moment(dateAndTime).format("HH:mm");
   createReadyForCheckoutObj.providerInfo = {};
   createReadyForCheckoutObj.providerInfo.providerUserID = findProviderInfo(element.providerName).providerUserID;
   createReadyForCheckoutObj.patientInfo = {};
