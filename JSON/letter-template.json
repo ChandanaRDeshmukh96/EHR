@@ -6,26 +6,21 @@
     "data": [
         {
             "id": "LTR01",
-            "tempName": "Summit Bay Health Center Letterhead (IEHR)",
-            "template": ""
-        },
-        {
-            "id": "LTR02",
             "tempName": "Summit Bay Letter Template",
             "template": "<p>&lt;Date&gt;</p><p><br></p><p>&lt;Recipient&gt;</p><p>Address Line 1</p><p>Address Line 2</p><p>Address Line 3</p><p>Address Line 4</p><p><br></p><p>&lt;Salutation&gt;</p><p>&lt;Subject&gt;</p><p>&lt;Paragraph 1&gt;</p><p>&lt;Paragraph 2&gt;</p><p>&lt;Paragraph 3&gt;</p><p>&lt;Paragraph 4&gt;</p><p><br></p><p>Sincerely,</p><p><br></p><p>&lt;Provider Name&gt;</p><p><br></p><p>Enc:&nbsp;</p><div><br></div>"
         },
         {
-            "id": "LTR03",
+            "id": "LTR02",
             "tempName": "Summit Bay Jury Duty Excuse Letter",
-            "template": "<p>REQUEST TO EXCUSE FROM JURY DUTY FOR MEDICAL REASONS</p><p><br></p><p>Juror/Patient Name: ___________________________&nbsp; Juror Number:_________________</p><p><br></p><p>Scheduled Jury Duty Date: ______________________________________________________</p><p><br></p><p>I attest that the above named Juror/Patient has been a patient of Summit Bay Health Center since:&nbsp; ____________________________</p><p><br></p><p>I attest that the above named Juror/Patient has a medical condition that prevents serving on a jury at this time and that this medical condition makes it inadvisable to serve:</p><p><br></p><p>______<span style='white-space:pre'> </span>Temporarily, with an anticipated clearance to serve after (date) ____________</p><p><br></p><p>______<span style='white-space:pre'> </span>Temporarily, with an unknown resolution date of condition.</p><p><br></p><p>______<span style='white-space:pre'> </span>Permanently, due to the following medical condition(s):</p><p dir=\\\"ltr\\\" style=\\\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\\\"><span style=\\\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\\\">___________________________________</span></p><p dir=\\\"ltr\\\" style=\\\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\\\"><span style=\\\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\\\">Provider’s Signature</span></p><p dir=\\\"ltr\\\" style=\\\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\\\"><span style=\\\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\\\">&lt;Provider Name&gt;</span></p><p dir=\\\"ltr\\\" style=\\\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\\\"><span style=\\\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\\\">&lt;Date&gt;</span></p>"
+            "template": "<p>REQUEST TO EXCUSE FROM JURY DUTY FOR MEDICAL REASONS</p><p>Juror/Patient Name: _____ Juror Number:______</p><p>Scheduled Jury Duty Date: ______</p><p><br></p><p>I attest that the above named Juror/Patient has been a patient of Trilogy Family Care Center since:&nbsp; ________</p><p>I attest that the above named Juror/Patient has a medical condition that prevents serving on a jury at this time and that this medical condition makes it inadvisable to serve:</p><p>____ Temporarily, with an anticipated clearance to serve after (date) ____</p><p>____ Temporarily, with an unknown resolution date of condition.</p><p>____ Permanently, due to the following medical condition(s):</p><p><br></p><p>Provider’s Signature</p><p>&lt;Provider Name&gt;</p><p>&lt;Date&gt;</p><div><br></div>"
         },
         {
-            "id": "LTR04",
+            "id": "LTR03",
             "tempName": "Summit Bay Work/School Excuse Letter",
             "template": "<p>REQUEST TO EXCUSE FROM WORK/SCHOOL</p><p><br></p><p>Patient Name:</p><p>Chart #:</p><p>Patient was seen in the office on: &lt;date&gt;</p><p><br></p><p>____ Please excuse this patient from work/school from __________&nbsp; to&nbsp; __________.</p><p>____ Patient may return to work/school on __________.</p><p>____ Patient may return to work/school on __________</p><p>with the following restrictions:</p><p>__________________________________________________</p><p>__________________________________________________</p><p><br></p><p>_____ Other ______________________________________</p><p>__________________________________________________</p><p>__________________________________________________</p><p><br></p><p>Provider’s Signature</p><p>&lt;Provider Name&gt;</p><p>&lt;Date&gt;</p><div><br></div>"
         },
         {
-            "id": "LTR05",
+            "id": "LTR04",
             "tempName": "Summit Bay Missed Appointment Letter",
             "template": "<p>&lt;Date&gt;</p><p>Patient:</p><p>Chart Number:</p><p>Dear &lt;insert patient name&gt;</p><p>We had you scheduled for an appointment today at _______________ with Dr. __________________.&nbsp; &nbsp;Please call our office as soon as possible to reschedule.</p><p><br></p><p>Sincerely,</p><p><br></p><p>&lt; Name&gt;</p><div><br></div>"
         }

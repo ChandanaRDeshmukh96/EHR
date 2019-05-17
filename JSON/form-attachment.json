@@ -1,0 +1,13 @@
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": [
+        {
+            "id": "FAT01",
+            "label": "Summit Bay Notice of Privacy Practices",
+            "value": "ehr/asset/doc/view-chart-forms/IEHR/SBHC Notice of Privacy Practices.pdf"
+        }
+    ]
+}

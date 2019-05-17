@@ -1,0 +1,6 @@
+patientName,Date of Appointment,Appointment time,Patient chart no,Provider,Status,Procedure,Modifier,Units,Price,diagnosticCode
+Mark Robinski,4/4/2022,8:15,,Dr. Ingram,Checked out,Procedures listed in SOAP notes,,,,"E10.9,E10.8,E11.9,R19.7,R04.0,Z80.3,Z80.9,Z83.71,Z83.3,Z82.49,R53.83"
+Alicia Matthews,4/1/2022,8:15,,Dr. Rodriguez,Checked out,Procedures listed in SOAP notes,,,,"M06.9,R10.31,Z00.00,Z00.129,Z01.419,B86,A64,J02.9,J02.0,B95.0,I60.9"
+Elaine Verados,4/4/2022,9:00,,Dr. McGrath,Checked out,Procedures listed in SOAP notes,,,,"M06.9,R10.31,Z00.00,Z00.129,Z01.419,B86,A64,J02.9,J02.0,B95.0,I60.9"
+Anna Jacobs,3/31/2022,9:15,,Dr. Reddy,Checked out,Procedures listed in SOAP notes,,,,"G89.21,M79.629,M25.552,M25.551,M25.562,M25.561,G89.4,M25.50,M54.6,J15.7,N95.0,C61"
+Carl Pike,3/30/2022,10:15,,Dr. Ingram,Checked out,Procedures listed in SOAP notes,,,,"M25.60,J04.0,B85.2,G43.909,I21.09,I21.3,F17,E66.9,H60.90,H65.9,G89.1"

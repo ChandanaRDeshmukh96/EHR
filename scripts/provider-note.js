@@ -8,6 +8,7 @@ const csv = require('csvtojson');
 const fs = require('fs');
 let diagnosis = require('../JSON/ICD-code.json').data["ICD-10-CM"];
 let procedure = require('../JSON/cpt-codes.json').data["2018"];
+let patientDiagnosisData = require('../JSON/charge-capture.json').data;
 /* diagnosis = readJsonFile('../data/json/ICD-code.json');
 procedure = readJsonFile('../data/json/cpt-codes.json'); */
 // console.log("diagnosis");
@@ -96,6 +97,16 @@ function createDataArray(dataString, codeArray, key, type, additionalField, chec
 
     return resultArray;
 }
+
+function getDiagData(data, chartNo){
+    if(patientDiagnosisData[chartNo]){
+        console.log(chartNo);
+        return patientDiagnosisData[chartNo];
+    }else{
+        return createDataArray(data.diagnosis, diagnosis, 'description', 'diagnosis');
+    }
+}
+
 function createSoapNoteObject(data, chartNo) {
     var dataObj = {};
     var aptInfo = findAptId(chartNo, data.aptDate);
@@ -107,7 +118,8 @@ function createSoapNoteObject(data, chartNo) {
         dataObj.presentIllness = data.presentIllness ? data.presentIllness : '';
         dataObj.reviewOfSystem = data.reviewOfSystem ? data.reviewOfSystem : '';
         dataObj.examination = data.examination ? data.examination : '';
-        dataObj.diagnosis = data.diagnosis ? createDataArray(data.diagnosis, diagnosis, 'description', 'diagnosis') : [];
+        // dataObj.diagnosis = data.diagnosis ? createDataArray(data.diagnosis, diagnosis, 'description', 'diagnosis') : [];
+        dataObj.diagnosis = getDiagData(data, chartNo);
         dataObj.prescription = data.prescription ? createDataArray(data.prescription, procedure, 'description', 'prescription', data.additionalFieldForPrescription, checkIn) : [];
         dataObj.labs = data.labs ? createDataArray(data.labs, procedure, 'description', 'labs', '', checkIn) : [];
         dataObj.imaging = data.imaging ? createDataArray(data.imaging, '', '', 'imaging', '', checkIn) : [];

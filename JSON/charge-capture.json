@@ -1,0 +1,242 @@
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": {
+        "AA009": [
+            {
+                "id": "E10.9",
+                "value": "Diabetes (Type 1, controlled)"
+            },
+            {
+                "id": "E10.8",
+                "value": "Diabetes (Type 1, with complications)"
+            },
+            {
+                "id": "E11.9",
+                "value": "Diabetes (Type 2, controlled)"
+            },
+            {
+                "id": "R19.7",
+                "value": "Diarrhea"
+            },
+            {
+                "id": "R04.0",
+                "value": "Epistaxis (nosebleed)"
+            },
+            {
+                "id": "Z80.3",
+                "value": "Family history breast cancer"
+            },
+            {
+                "id": "Z80.9",
+                "value": "Family history cancer (unspecified)"
+            },
+            {
+                "id": "Z83.71",
+                "value": "Family history colon polyps"
+            },
+            {
+                "id": "Z83.3",
+                "value": "Family history diabetes"
+            },
+            {
+                "id": "Z82.49",
+                "value": "Family history heart disease"
+            },
+            {
+                "id": "R53.83",
+                "value": "Fatigue"
+            }
+        ],
+        "AA002": [
+            {
+                "id": "M06.9",
+                "value": "Rheumatoid arthritis"
+            },
+            {
+                "id": "R10.31",
+                "value": "RLQ abd pain"
+            },
+            {
+                "id": "Z00.00",
+                "value": "Routine general medical exam (adult)"
+            },
+            {
+                "id": "Z00.129",
+                "value": "Routine general medical exam (child)"
+            },
+            {
+                "id": "Z01.419",
+                "value": "Routine gynecological exam"
+            },
+            {
+                "id": "B86",
+                "value": "Scabies"
+            },
+            {
+                "id": "A64",
+                "value": "Sexually transmitted disease (unspecified)"
+            },
+            {
+                "id": "J02.9",
+                "value": "Sore throat"
+            },
+            {
+                "id": "J02.0",
+                "value": "Streptococcal pharyngitis (Strep throat)"
+            },
+            {
+                "id": "B95.0",
+                "value": "Streptococcus group A"
+            },
+            {
+                "id": "I60.9",
+                "value": "Subarachnoid hemorrhage (stroke)"
+            }
+        ],
+        "AA003": [
+            {
+                "id": "M06.9",
+                "value": "Rheumatoid arthritis"
+            },
+            {
+                "id": "R10.31",
+                "value": "RLQ abd pain"
+            },
+            {
+                "id": "Z00.00",
+                "value": "Routine general medical exam (adult)"
+            },
+            {
+                "id": "Z00.129",
+                "value": "Routine general medical exam (child)"
+            },
+            {
+                "id": "Z01.419",
+                "value": "Routine gynecological exam"
+            },
+            {
+                "id": "B86",
+                "value": "Scabies"
+            },
+            {
+                "id": "A64",
+                "value": "Sexually transmitted disease (unspecified)"
+            },
+            {
+                "id": "J02.9",
+                "value": "Sore throat"
+            },
+            {
+                "id": "J02.0",
+                "value": "Streptococcal pharyngitis (Strep throat)"
+            },
+            {
+                "id": "B95.0",
+                "value": "Streptococcus group A"
+            },
+            {
+                "id": "I60.9",
+                "value": "Subarachnoid hemorrhage (stroke)"
+            }
+        ],
+        "AA006": [
+            {
+                "id": "G89.21",
+                "value": "Pain (chronic) due to trauma"
+            },
+            {
+                "id": "M79.629",
+                "value": "Pain arm"
+            },
+            {
+                "id": "M25.552",
+                "value": "Pain hip (left)"
+            },
+            {
+                "id": "M25.551",
+                "value": "Pain hip (right)"
+            },
+            {
+                "id": "M25.562",
+                "value": "Pain knee (left)"
+            },
+            {
+                "id": "M25.561",
+                "value": "Pain knee (right)"
+            },
+            {
+                "id": "G89.4",
+                "value": "Pain syndrome (chronic)"
+            },
+            {
+                "id": "M25.50",
+                "value": "Pain unspecified joint"
+            },
+            {
+                "id": "M54.6",
+                "value": "Pain upper back (thoracic)"
+            },
+            {
+                "id": "J15.7",
+                "value": "Pneumonia"
+            },
+            {
+                "id": "N95.0",
+                "value": "Postmenopausal bleeding"
+            },
+            {
+                "id": "C61",
+                "value": "Prostate cancer"
+            }
+        ],
+        "AA004": [
+            {
+                "id": "M25.60",
+                "value": "Joint stiffness (NEC)"
+            },
+            {
+                "id": "J04.0",
+                "value": "Laryngitis (acute)"
+            },
+            {
+                "id": "B85.2",
+                "value": "Lice"
+            },
+            {
+                "id": "G43.909",
+                "value": "Migraine headache"
+            },
+            {
+                "id": "I21.09",
+                "value": "Myocardial infarction (acute anterior wall)"
+            },
+            {
+                "id": "I21.3",
+                "value": "Myocardial infarction (acute)"
+            },
+            {
+                "id": "F17",
+                "value": "Nicotine dependence"
+            },
+            {
+                "id": "E66.9",
+                "value": "Obesity"
+            },
+            {
+                "id": "H60.90",
+                "value": "Otitis externa"
+            },
+            {
+                "id": "H65.9",
+                "value": "Otitis media"
+            },
+            {
+                "id": "G89.1",
+                "value": "Pain (acute) not elsewhere classified"
+            }
+        ]
+    }
+}
