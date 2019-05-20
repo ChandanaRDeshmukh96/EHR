@@ -6,10 +6,10 @@ Appointment 4,,8:15 AM,15,4/1/2022,Alicia Matthews,4/1/2022,Rodriguez,checked ou
 Appointment 5,,9:00 AM,30,4/4/2022,Elaine Verados,4/4/2022,McGrath,checked out,Follow up,Complete physical,,,,,No,No,No,NA,NA,NA,NA,Never
 Appointment 6,,9:15 AM,15,3/31/2022,Anna Jacobs,3/31/2022,Reddy,checked out,Follow up,Leg pain,,,,,No,No,No,NA,NA,NA,NA,Never
 Appointment 7,,10:15 AM,15,3/30/2022,Carl Pike,3/30/2022,Ingram,checked out,Follow up,Headaches,,,,,No,No,No,NA,NA,NA,NA,Never
-,,9:30 AM,15,4/9/2021,Kevin Washington,4/9/2021,Ingram,Checked in waiting,New appointment,Muscle aches,,,,,,,,,,,,Never
-,,11:00 AM,15,11/18/2020,James Phillips,11/18/2020,Ingram,Checked in waiting,New appointment,Annual physical,,,,,,,,,,,,Never
-,,9:00 AM,15,4/19/2021,Alexis Shaw,4/19/2021,Ingram,Checked in waiting,New appointment,Annual physical,,,,,,,,,,,,Never
-,,11:00 AM,15,9/12/2020,Jack Kyser,9/12/2020,Reddy,Checked in waiting,New appointment,Cough,,,,,,,,,,,,Never
+,,9:30 AM,15,4/9/2021,Kevin Washington,4/9/2021,Ingram,checked out,New appointment,Muscle aches,,,,,,,,,,,,Never
+,,11:00 AM,15,11/18/2020,James Phillips,11/18/2020,Ingram,checked out,New appointment,Annual physical,,,,,,,,,,,,Never
+,,9:00 AM,15,4/19/2021,Alexis Shaw,4/19/2021,Ingram,checked out,New appointment,Annual physical,,,,,,,,,,,,Never
+,,11:00 AM,15,9/12/2020,Jack Kyser,9/12/2020,Reddy,checked out,New appointment,Cough,,,,,,,,,,,,Never
 Appointment 1,,8:15 AM,15,,David Olivetti,,Ingram,checked in waiting,Follow up,Follow up back pain,,,,,No,No,No,NA,NA,NA,NA,Every Monday
 Appointment 2,,9:00 AM,30,,Elaine Verados,,Ingram,checked in waiting,Follow up,Sore throat,,,,,No,No,No,NA,NA,NA,NA,Every Monday
 Appointment 3,,9:15 AM,15,,Anna Jacobs,,Ingram,checked in waiting,Follow up,Ulcer,,,,,No,No,No,NA,NA,NA,NA,Every Monday
@@ -23,7 +23,6 @@ Appointment 10,,9:45 AM,15,,Mark Shaw,,McGrath,checked in waiting,Follow up,Bloo
 Appointment 11,,11:00 AM,60,,Cathy Hess,,McGrath,pending,Follow up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Every Monday
 Appointment 12,,1:30 PM,15,,David Olivetti,,McGrath,pending,Follow up,Asthma,,,,,No,No,No,NA,NA,NA,NA,Every Monday
 Appointment 13,,2:45 PM,60,,Anna Lindstrom,,McGrath,pending,Follow up,Gyn exam,,,,,No,No,No,NA,NA,NA,NA,Every Monday
-Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Monday
 Appointment 15,,10:30 AM,30,,Ian Mikeals,,Reddy,pending,Follow up,School physical,,,,,No,No,No,NA,NA,NA,NA,Every Monday
 Appointment 16,,11:00 AM,60,,Gregory Mikeals,,Reddy,pending,Follow up,Annual physical,,,,,No,No,No,NA,NA,NA,NA,Every Monday
 Appointment 17,,1:45 PM,15,,Maria Lopez,,Reddy,pending,Follow up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Every Monday
@@ -43,7 +42,6 @@ Appointment 10,,9:45 AM,15,,Mark Shaw,,McGrath,checked in waiting,Follow up,Bloo
 Appointment 11,,11:00 AM,60,,Cathy Hess,,McGrath,pending,Follow up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Every Tuesday
 Appointment 12,,1:30 PM,15,,David Olivetti,,McGrath,pending,Follow up,Asthma,,,,,No,No,No,NA,NA,NA,NA,Every Tuesday
 Appointment 13,,2:45 PM,60,,Anna Lindstrom,,McGrath,pending,Follow up,Gyn exam,,,,,No,No,No,NA,NA,NA,NA,Every Tuesday
-Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Tuesday
 Appointment 15,,10:30 AM,30,,Ian Mikeals,,Reddy,pending,Follow up,School physical,,,,,No,No,No,NA,NA,NA,NA,Every Tuesday
 Appointment 16,,11:00 AM,60,,Gregory Mikeals,,Reddy,pending,Follow up,Annual physical,,,,,No,No,No,NA,NA,NA,NA,Every Tuesday
 Appointment 17,,1:45 PM,15,,Maria Lopez,,Reddy,pending,Follow up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Every Tuesday
@@ -63,7 +61,6 @@ Appointment 10,,9:45 AM,15,,Mark Shaw,,McGrath,checked in waiting,Follow up,Bloo
 Appointment 11,,11:00 AM,60,,Cathy Hess,,McGrath,pending,Follow up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Every Wednesday
 Appointment 12,,1:30 PM,15,,David Olivetti,,McGrath,pending,Follow up,Asthma,,,,,No,No,No,NA,NA,NA,NA,Every Wednesday
 Appointment 13,,2:45 PM,60,,Anna Lindstrom,,McGrath,pending,Follow up,Gyn exam,,,,,No,No,No,NA,NA,NA,NA,Every Wednesday
-Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Wednesday
 Appointment 15,,10:30 AM,30,,Ian Mikeals,,Reddy,pending,Follow up,School physical,,,,,No,No,No,NA,NA,NA,NA,Every Wednesday
 Appointment 16,,11:00 AM,60,,Gregory Mikeals,,Reddy,pending,Follow up,Annual physical,,,,,No,No,No,NA,NA,NA,NA,Every Wednesday
 Appointment 17,,1:45 PM,15,,Maria Lopez,,Reddy,pending,Follow up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Every Wednesday
@@ -83,7 +80,6 @@ Appointment 10,,9:45 AM,15,,Mark Shaw,,McGrath,checked in waiting,Follow up,Bloo
 Appointment 11,,11:00 AM,60,,Cathy Hess,,McGrath,pending,Follow up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Every Thursday
 Appointment 12,,1:30 PM,15,,David Olivetti,,McGrath,pending,Follow up,Asthma,,,,,No,No,No,NA,NA,NA,NA,Every Thursday
 Appointment 13,,2:45 PM,60,,Anna Lindstrom,,McGrath,pending,Follow up,Gyn exam,,,,,No,No,No,NA,NA,NA,NA,Every Thursday
-Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Thursday
 Appointment 15,,10:30 AM,30,,Ian Mikeals,,Reddy,pending,Follow up,School physical,,,,,No,No,No,NA,NA,NA,NA,Every Thursday
 Appointment 16,,11:00 AM,60,,Gregory Mikeals,,Reddy,pending,Follow up,Annual physical,,,,,No,No,No,NA,NA,NA,NA,Every Thursday
 Appointment 17,,1:45 PM,15,,Maria Lopez,,Reddy,pending,Follow up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Every Thursday
@@ -103,10 +99,10 @@ Appointment 10,,9:45 AM,15,,Mark Shaw,,McGrath,checked in waiting,Follow up,Bloo
 Appointment 11,,11:00 AM,60,,Cathy Hess,,McGrath,pending,Follow up,Annual exam,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 12,,1:30 PM,15,,David Olivetti,,McGrath,pending,Follow up,Asthma,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 13,,2:45 PM,60,,Anna Lindstrom,,McGrath,pending,Follow up,Gyn exam,,,,,No,No,No,NA,NA,NA,NA,Every Friday
-Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 15,,10:30 AM,30,,Ian Mikeals,,Reddy,pending,Follow up,School physical,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 16,,11:00 AM,60,,Gregory Mikeals,,Reddy,pending,Follow up,Annual physical,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 17,,1:45 PM,15,,Maria Lopez,,Reddy,pending,Follow up,Flu shot,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 18,,9:45 AM,15,,David Olivetti,,Rodriguez,checked in waiting,Follow up,Leg pain,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 19,,11:15 AM,45,,Anna Lindstrom,,Rodriguez,pending,Follow up,Annual physical,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 20,,2:00 PM,30,,Kevin Washington,,Rodriguez,pending,Follow up,Pre-operative testing,,,,,No,No,No,NA,NA,NA,NA,Every Friday
+Appointment 8,,9:00,15,1/17/2022,Gregory Mikeals,1/17/2022,McGrath,checked out,Follow up,Labwork,,,,,No,No,No,NA,NA,NA,NA,Never

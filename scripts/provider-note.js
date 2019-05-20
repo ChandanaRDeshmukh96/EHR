@@ -100,7 +100,6 @@ function createDataArray(dataString, codeArray, key, type, additionalField, chec
 
 function getDiagData(data, chartNo){
     if(patientDiagnosisData[chartNo]){
-        console.log(chartNo);
         return patientDiagnosisData[chartNo];
     }else{
         return createDataArray(data.diagnosis, diagnosis, 'description', 'diagnosis');

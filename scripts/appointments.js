@@ -121,10 +121,10 @@ function getDow(repeat) {
   }
 };
 
-function createCheckedInWaitingObj(element) {
+function createCheckedInWaitingObjRepeat(element) {
+  console.log(element.patientName + " " + element.selectedRepeat);
   var checkInObj = {};
   checkInObj.appointmentID = generateAptId();
-  if (element.selectedRepeat.toLowerCase() != "never") {
     var rangeDeviationAptID = checkInObj.appointmentID + "_01032022";
     checkInObj.startTime = getStartDate("Mon Jan 03 2022 " + moment(element.startTime, "hh:mm a").format("HH:mm"), element.selectedRepeat);
     checkInObj.rangeStart = getStartDate("Mon Jan 03 2022 " + moment(element.startTime, "hh:mm a").format("HH:mm"), element.selectedRepeat);
@@ -137,11 +137,13 @@ function createCheckedInWaitingObj(element) {
     checkInObj.selectedRepeat = element.selectedRepeat;
     checkInObj.rangeDeviation = {};
     checkInObj.rangeDeviation[rangeDeviationAptID] = {};
+    
     checkInObj.rangeDeviation[rangeDeviationAptID].appointmentType = element.appointmentType;
     checkInObj.rangeDeviation[rangeDeviationAptID].checkInTime = moment(element.startTime, "hh:mm a").format("HH:mm");
     checkInObj.rangeDeviation[rangeDeviationAptID].providerInfo = {};
     checkInObj.rangeDeviation[rangeDeviationAptID].providerInfo.providerUserID = findProviderInfo(element.providerName).providerUserID;
     checkInObj.rangeDeviation[rangeDeviationAptID].reasonForVisit = element.reasonForVisit;
+    console.log(checkInObj.rangeDeviation[rangeDeviationAptID]);
     checkInObj.rangeDeviation[rangeDeviationAptID].status = "Checked in waiting";
     checkInObj._recurring = true;
     // checkInObj._recurring = false;
@@ -154,28 +156,6 @@ function createCheckedInWaitingObj(element) {
     checkInObj.work = element.work;
     checkInObj.treatmentDate = moment("01/03/2022").add(3, "months").format("MM/DD/YYYY");
     checkInObj.treatmentTime = moment(element.startTime, "hh:mm a").format("HH:mm");
-  } else {
-    checkInObj.startTime = getStartDate(moment(element.aptDate).format("ddd MMM DD YYYY") + moment(element.startTime, "hh:mm a").format(" HH:mm"), element.selectedRepeat);
-    checkInObj.rangeStart = getStartDate(moment(element.aptDate).format("ddd MMM DD YYYY") + moment(element.startTime, "hh:mm a").format(" HH:mm"), element.selectedRepeat);
-    checkInObj.endTime = getStartDate(moment(checkInObj.startTime, "ddd MMM DD YYYY HH:mm").add(parseInt(element.duration), "minutes").format("ddd MMM DD YYYY HH:mm"), element.selectedRepeat);
-    checkInObj.start = moment(element.startTime, "hh:mm a").format("HH:mm");
-    checkInObj.end = moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm")
-    checkInObj.duration = moment(element.duration, "mm").format("HH:mm");
-    checkInObj.reasonForVisit = element.reasonForVisit;
-    checkInObj.allDay = false;
-    checkInObj.selectedRepeat = element.selectedRepeat;
-    checkInObj.rangeDeviation = {};
-    checkInObj._recurring = false;
-    checkInObj.dow = element.selectedRepeat ? getDow(element.selectedRepeat) :console.log(element);
-    checkInObj.rangeEnd = getStartDate(moment(checkInObj.startTime, "ddd MMM DD YYYY HH:mm").add(parseInt(element.duration), "minutes").format("ddd MMM DD YYYY HH:mm"), element.selectedRepeat);
-    checkInObj.status = element.status;
-    checkInObj.appointmentType = element.appointmentType;
-    checkInObj["contact-home"] = element["contact-home"];
-    checkInObj.cell = element.cell;
-    checkInObj.work = element.work;
-    checkInObj.treatmentDate = moment(element.aptDate).format("MM/DD/YYYY");
-    checkInObj.treatmentTime = moment(element.startTime, "hh:mm a").format("HH:mm");
-  }
     checkInObj.providerInfo = {};
     checkInObj.providerInfo.providerUserID = findProviderInfo(element.providerName).providerUserID;
     checkInObj.patientInfo = {};
@@ -197,6 +177,46 @@ function createCheckedInWaitingObj(element) {
     checkInObj.checkInData.otherDate.to = "";
     checkInObj.checkInData.referringProviderId = findProviderInfo(element.referringProvider);
 
+  return checkInObj;
+
+};
+
+function createCheckedInWaitingObj(element) {
+
+  var checkInObj = {};
+  checkInObj.appointmentID = generateAptId();
+  checkInObj.start = getStartDate(moment(element.aptDate).format("ddd MMM DD YYYY") + moment(element.startTime, "hh:mm a").format(" HH:mm"), element.selectedRepeat);
+  checkInObj.end = moment(checkInObj.start).add(parseInt(element.duration), "minutes").format("ddd MMM DD YYYY HH:mm")
+  checkInObj.rangeStart = checkInObj.start;
+  checkInObj.duration = moment(element.duration, "mm").format("HH:mm");
+  checkInObj.reasonForVisit = element.reasonForVisit;
+  checkInObj.allDay = false;
+  checkInObj.selectedRepeat = element.selectedRepeat;
+  checkInObj.rangeEnd = checkInObj.end;
+  checkInObj.patientInfo = {};
+  var name = element.patientName.split(" ");
+  checkInObj.patientInfo.chartNumber = findChartNo(name[0], name[1]);
+  checkInObj.providerInfo = {};
+  checkInObj.providerInfo.providerUserID = findProviderInfo(element.providerName).providerUserID;
+  checkInObj.status = element.status;
+  checkInObj.checkInTime = checkInObj.start;
+  checkInObj.appointmentType = element.appointmentType;
+  checkInObj.checkInData = {};
+  checkInObj.checkInData.patientCondition = {};
+  checkInObj.checkInData.patientCondition.employment = element.employment;
+  checkInObj.checkInData.patientCondition.autoAccident = element.autoAccident;
+  checkInObj.checkInData.patientCondition.state = "";
+  checkInObj.checkInData.patientCondition.otherAccident = element.otherAccident;
+  checkInObj.checkInData.currentIllnessDate = "";
+  checkInObj.checkInData.lastIllnessDate = element.lastIllnessDate;
+  checkInObj.checkInData.unableToWork = {};
+  checkInObj.checkInData.unableToWork.from = "";
+  checkInObj.checkInData.unableToWork.to = "";
+  checkInObj.checkInData.otherDate = {};
+  checkInObj.checkInData.otherDate.from = "";
+  checkInObj.checkInData.otherDate.to = "";
+  checkInObj.checkInData.referringProviderId = findProviderInfo(element.referringProvider);
+  
   return checkInObj;
 
 };
@@ -308,7 +328,13 @@ function dataWrapper(data) {
     if (flag) {
       var aptData = {};
       if (element.status.toLowerCase() == "checked in waiting") {
-        aptData = createCheckedInWaitingObj(element);
+        if(element.selectedRepeat.toLowerCase() === "never"){
+          aptData = createCheckedInWaitingObj(element);
+          
+        }
+        else{
+          aptData = createCheckedInWaitingObjRepeat(element);
+        }
       } else if (element.status.toLowerCase() == "pending") {
         aptData = createPendingObj(element);
       } else if (element.status.toLowerCase() == "checked out") {
