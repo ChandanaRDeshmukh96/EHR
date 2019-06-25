@@ -331,6 +331,41 @@
                 "duration": "0",
                 "durationUnit": "Day(s)"
             }
+        ],
+        "AA026": [
+            {
+                "id": 1,
+                "problemReported": "Angina",
+                "icdCode": "I20.9",
+                "icdCodeEdition": "ICD-10-CM",
+                "diagnosisDate": "4/21/2012",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Resolved",
+                "duration": "1",
+                "durationUnit": "Month(s)"
+            },
+            {
+                "id": 2,
+                "problemReported": "Angina",
+                "icdCode": "I20.9",
+                "icdCodeEdition": "ICD-10-CM",
+                "diagnosisDate": "6/15/2014",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Resolved",
+                "duration": "1",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 3,
+                "problemReported": "Angina",
+                "icdCode": "I20.9",
+                "icdCodeEdition": "ICD-10-CM",
+                "diagnosisDate": "8/10/2015",
+                "dateModified": "Jan 09,2018 10:30 am",
+                "status": "Resolved",
+                "duration": "1",
+                "durationUnit": "Week(s)"
+            }
         ]
     }
 }

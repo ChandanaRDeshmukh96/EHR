@@ -537,6 +537,25 @@
             "selectedCoverage": 200,
             "dependentArr": [],
             "guarantorArr": []
+        },
+        {
+            "uniqueKey2": "uk2027",
+            "insuranceId": "GAR5679009",
+            "insuranceProviderId": "ip006",
+            "insuranceProvider": "McGraw-Hill Healthmark",
+            "insurancePlan": "Managed Care HMO",
+            "isThePlanActive": "Yes",
+            "patientResponsibility": "Copay",
+            "copay": 20,
+            "coinsurance": "0",
+            "deductibleMet": "Yes",
+            "deductibleMetYtd": 0,
+            "deductible": 0,
+            "effectiveStartDate": "01/01/2016",
+            "effectiveEndDate": "12/31/2022",
+            "selectedCoverage": 200,
+            "dependentArr": [],
+            "guarantorArr": []
         }
     ]
 }

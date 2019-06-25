@@ -56,9 +56,6 @@ function dataWrapper(data) {
         },
         "data": {}
     };
-    patient.forEach(patientData =>{
-        patientVitalData.data[patientData.chartNumber] = [];
-    });
     data.forEach(element => {
         var flag = 0;
         var props = Object.keys(element);
@@ -72,7 +69,13 @@ function dataWrapper(data) {
             var name = element.patientName.split(" ");
             var chartNumber = findChartNo(name[0], name[1]);
             var vitalData = createVitalData(element);
+            if(!chartNumber){
+                console.log(element);
+            }
             if(patientVitalData.data[chartNumber] != null){
+                patientVitalData.data[chartNumber].push(vitalData);
+            }else{
+                patientVitalData.data[chartNumber]=[];
                 patientVitalData.data[chartNumber].push(vitalData);
             }
         }

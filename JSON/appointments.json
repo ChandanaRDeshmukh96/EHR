@@ -447,7 +447,7 @@
             "dow": [
                 1
             ],
-            "rangeEnd": "Mon Apr 4 2022 08:30",
+            "rangeEnd": "Sat, Apr 02, 2022 08:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -507,7 +507,7 @@
             "dow": [
                 1
             ],
-            "rangeEnd": "Mon Apr 4 2022 09:30",
+            "rangeEnd": "Sat, Apr 02, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -567,7 +567,7 @@
             "dow": [
                 1
             ],
-            "rangeEnd": "Mon Apr 4 2022 09:30",
+            "rangeEnd": "Sat, Apr 02, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -627,7 +627,7 @@
             "dow": [
                 1
             ],
-            "rangeEnd": "Mon Apr 4 2022 10:45",
+            "rangeEnd": "Sat, Apr 02, 2022 10:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -687,7 +687,7 @@
             "dow": [
                 1
             ],
-            "rangeEnd": "Mon Apr 4 2022 11:00",
+            "rangeEnd": "Sat, Apr 02, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -737,7 +737,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 11:00",
-            "rangeEnd": "Mon, Jan 03, 2022 11:30",
+            "rangeEnd": "Sat, Apr 02, 2022 11:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -768,7 +768,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 13:00",
-            "rangeEnd": "Mon, Jan 03, 2022 13:30",
+            "rangeEnd": "Sat, Apr 02, 2022 13:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -799,7 +799,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 13:45",
-            "rangeEnd": "Mon, Jan 03, 2022 14:00",
+            "rangeEnd": "Sat, Apr 02, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -830,7 +830,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 15:00",
-            "rangeEnd": "Mon, Jan 03, 2022 16:00",
+            "rangeEnd": "Sat, Apr 02, 2022 16:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -871,7 +871,7 @@
             "dow": [
                 1
             ],
-            "rangeEnd": "Mon Apr 4 2022 10:00",
+            "rangeEnd": "Sat, Apr 02, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -921,7 +921,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 11:00",
-            "rangeEnd": "Mon, Jan 03, 2022 12:00",
+            "rangeEnd": "Sat, Apr 02, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -952,7 +952,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 13:30",
-            "rangeEnd": "Mon, Jan 03, 2022 13:45",
+            "rangeEnd": "Sat, Apr 02, 2022 13:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -983,7 +983,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 14:45",
-            "rangeEnd": "Mon, Jan 03, 2022 15:45",
+            "rangeEnd": "Sat, Apr 02, 2022 15:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1014,7 +1014,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 10:30",
-            "rangeEnd": "Mon, Jan 03, 2022 11:00",
+            "rangeEnd": "Sat, Apr 02, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1045,7 +1045,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 11:00",
-            "rangeEnd": "Mon, Jan 03, 2022 12:00",
+            "rangeEnd": "Sat, Apr 02, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1076,7 +1076,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 13:45",
-            "rangeEnd": "Mon, Jan 03, 2022 14:00",
+            "rangeEnd": "Sat, Apr 02, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1117,7 +1117,7 @@
             "dow": [
                 1
             ],
-            "rangeEnd": "Mon Apr 4 2022 10:00",
+            "rangeEnd": "Sat, Apr 02, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1167,7 +1167,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 11:15",
-            "rangeEnd": "Mon, Jan 03, 2022 12:00",
+            "rangeEnd": "Sat, Apr 02, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1198,7 +1198,7 @@
                 1
             ],
             "rangeStart": "Mon, Jan 03, 2022 14:00",
-            "rangeEnd": "Mon, Jan 03, 2022 14:30",
+            "rangeEnd": "Sat, Apr 02, 2022 14:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1239,7 +1239,7 @@
             "dow": [
                 2
             ],
-            "rangeEnd": "Tue Apr 5 2022 08:30",
+            "rangeEnd": "Sun, Apr 03, 2022 08:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1299,7 +1299,7 @@
             "dow": [
                 2
             ],
-            "rangeEnd": "Tue Apr 5 2022 09:30",
+            "rangeEnd": "Sun, Apr 03, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1359,7 +1359,7 @@
             "dow": [
                 2
             ],
-            "rangeEnd": "Tue Apr 5 2022 09:30",
+            "rangeEnd": "Sun, Apr 03, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1419,7 +1419,7 @@
             "dow": [
                 2
             ],
-            "rangeEnd": "Tue Apr 5 2022 10:45",
+            "rangeEnd": "Sun, Apr 03, 2022 10:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1479,7 +1479,7 @@
             "dow": [
                 2
             ],
-            "rangeEnd": "Tue Apr 5 2022 11:00",
+            "rangeEnd": "Sun, Apr 03, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1529,7 +1529,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 11:00",
-            "rangeEnd": "Tue, Jan 04, 2022 11:30",
+            "rangeEnd": "Sun, Apr 03, 2022 11:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1560,7 +1560,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 13:00",
-            "rangeEnd": "Tue, Jan 04, 2022 13:30",
+            "rangeEnd": "Sun, Apr 03, 2022 13:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1591,7 +1591,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 13:45",
-            "rangeEnd": "Tue, Jan 04, 2022 14:00",
+            "rangeEnd": "Sun, Apr 03, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1622,7 +1622,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 15:00",
-            "rangeEnd": "Tue, Jan 04, 2022 16:00",
+            "rangeEnd": "Sun, Apr 03, 2022 16:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1663,7 +1663,7 @@
             "dow": [
                 2
             ],
-            "rangeEnd": "Tue Apr 5 2022 10:00",
+            "rangeEnd": "Sun, Apr 03, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1713,7 +1713,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 11:00",
-            "rangeEnd": "Tue, Jan 04, 2022 12:00",
+            "rangeEnd": "Sun, Apr 03, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1744,7 +1744,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 13:30",
-            "rangeEnd": "Tue, Jan 04, 2022 13:45",
+            "rangeEnd": "Sun, Apr 03, 2022 13:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1775,7 +1775,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 14:45",
-            "rangeEnd": "Tue, Jan 04, 2022 15:45",
+            "rangeEnd": "Sun, Apr 03, 2022 15:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1806,7 +1806,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 10:30",
-            "rangeEnd": "Tue, Jan 04, 2022 11:00",
+            "rangeEnd": "Sun, Apr 03, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1837,7 +1837,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 11:00",
-            "rangeEnd": "Tue, Jan 04, 2022 12:00",
+            "rangeEnd": "Sun, Apr 03, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1868,7 +1868,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 13:45",
-            "rangeEnd": "Tue, Jan 04, 2022 14:00",
+            "rangeEnd": "Sun, Apr 03, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1909,7 +1909,7 @@
             "dow": [
                 2
             ],
-            "rangeEnd": "Tue Apr 5 2022 10:00",
+            "rangeEnd": "Sun, Apr 03, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1959,7 +1959,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 11:15",
-            "rangeEnd": "Tue, Jan 04, 2022 12:00",
+            "rangeEnd": "Sun, Apr 03, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -1990,7 +1990,7 @@
                 2
             ],
             "rangeStart": "Tue, Jan 04, 2022 14:00",
-            "rangeEnd": "Tue, Jan 04, 2022 14:30",
+            "rangeEnd": "Sun, Apr 03, 2022 14:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2031,7 +2031,7 @@
             "dow": [
                 3
             ],
-            "rangeEnd": "Wed Apr 6 2022 08:30",
+            "rangeEnd": "Mon, Apr 04, 2022 08:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2091,7 +2091,7 @@
             "dow": [
                 3
             ],
-            "rangeEnd": "Wed Apr 6 2022 09:30",
+            "rangeEnd": "Mon, Apr 04, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2151,7 +2151,7 @@
             "dow": [
                 3
             ],
-            "rangeEnd": "Wed Apr 6 2022 09:30",
+            "rangeEnd": "Mon, Apr 04, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2211,7 +2211,7 @@
             "dow": [
                 3
             ],
-            "rangeEnd": "Wed Apr 6 2022 10:45",
+            "rangeEnd": "Mon, Apr 04, 2022 10:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2271,7 +2271,7 @@
             "dow": [
                 3
             ],
-            "rangeEnd": "Wed Apr 6 2022 11:00",
+            "rangeEnd": "Mon, Apr 04, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2321,7 +2321,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 11:00",
-            "rangeEnd": "Wed, Jan 05, 2022 11:30",
+            "rangeEnd": "Mon, Apr 04, 2022 11:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2352,7 +2352,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 13:00",
-            "rangeEnd": "Wed, Jan 05, 2022 13:30",
+            "rangeEnd": "Mon, Apr 04, 2022 13:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2383,7 +2383,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 13:45",
-            "rangeEnd": "Wed, Jan 05, 2022 14:00",
+            "rangeEnd": "Mon, Apr 04, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2414,7 +2414,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 15:00",
-            "rangeEnd": "Wed, Jan 05, 2022 16:00",
+            "rangeEnd": "Mon, Apr 04, 2022 16:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2455,7 +2455,7 @@
             "dow": [
                 3
             ],
-            "rangeEnd": "Wed Apr 6 2022 10:00",
+            "rangeEnd": "Mon, Apr 04, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2505,7 +2505,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 11:00",
-            "rangeEnd": "Wed, Jan 05, 2022 12:00",
+            "rangeEnd": "Mon, Apr 04, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2536,7 +2536,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 13:30",
-            "rangeEnd": "Wed, Jan 05, 2022 13:45",
+            "rangeEnd": "Mon, Apr 04, 2022 13:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2567,7 +2567,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 14:45",
-            "rangeEnd": "Wed, Jan 05, 2022 15:45",
+            "rangeEnd": "Mon, Apr 04, 2022 15:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2598,7 +2598,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 10:30",
-            "rangeEnd": "Wed, Jan 05, 2022 11:00",
+            "rangeEnd": "Mon, Apr 04, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2629,7 +2629,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 11:00",
-            "rangeEnd": "Wed, Jan 05, 2022 12:00",
+            "rangeEnd": "Mon, Apr 04, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2660,7 +2660,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 13:45",
-            "rangeEnd": "Wed, Jan 05, 2022 14:00",
+            "rangeEnd": "Mon, Apr 04, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2701,7 +2701,7 @@
             "dow": [
                 3
             ],
-            "rangeEnd": "Wed Apr 6 2022 10:00",
+            "rangeEnd": "Mon, Apr 04, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2751,7 +2751,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 11:15",
-            "rangeEnd": "Wed, Jan 05, 2022 12:00",
+            "rangeEnd": "Mon, Apr 04, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2782,7 +2782,7 @@
                 3
             ],
             "rangeStart": "Wed, Jan 05, 2022 14:00",
-            "rangeEnd": "Wed, Jan 05, 2022 14:30",
+            "rangeEnd": "Mon, Apr 04, 2022 14:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2823,7 +2823,7 @@
             "dow": [
                 4
             ],
-            "rangeEnd": "Thu Apr 7 2022 08:30",
+            "rangeEnd": "Tue, Apr 05, 2022 08:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2883,7 +2883,7 @@
             "dow": [
                 4
             ],
-            "rangeEnd": "Thu Apr 7 2022 09:30",
+            "rangeEnd": "Tue, Apr 05, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -2943,7 +2943,7 @@
             "dow": [
                 4
             ],
-            "rangeEnd": "Thu Apr 7 2022 09:30",
+            "rangeEnd": "Tue, Apr 05, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3003,7 +3003,7 @@
             "dow": [
                 4
             ],
-            "rangeEnd": "Thu Apr 7 2022 10:45",
+            "rangeEnd": "Tue, Apr 05, 2022 10:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3063,7 +3063,7 @@
             "dow": [
                 4
             ],
-            "rangeEnd": "Thu Apr 7 2022 11:00",
+            "rangeEnd": "Tue, Apr 05, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3113,7 +3113,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 11:00",
-            "rangeEnd": "Thu, Jan 06, 2022 11:30",
+            "rangeEnd": "Tue, Apr 05, 2022 11:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3144,7 +3144,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 13:00",
-            "rangeEnd": "Thu, Jan 06, 2022 13:30",
+            "rangeEnd": "Tue, Apr 05, 2022 13:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3175,7 +3175,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 13:45",
-            "rangeEnd": "Thu, Jan 06, 2022 14:00",
+            "rangeEnd": "Tue, Apr 05, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3206,7 +3206,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 15:00",
-            "rangeEnd": "Thu, Jan 06, 2022 16:00",
+            "rangeEnd": "Tue, Apr 05, 2022 16:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3247,7 +3247,7 @@
             "dow": [
                 4
             ],
-            "rangeEnd": "Thu Apr 7 2022 10:00",
+            "rangeEnd": "Tue, Apr 05, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3297,7 +3297,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 11:00",
-            "rangeEnd": "Thu, Jan 06, 2022 12:00",
+            "rangeEnd": "Tue, Apr 05, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3328,7 +3328,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 13:30",
-            "rangeEnd": "Thu, Jan 06, 2022 13:45",
+            "rangeEnd": "Tue, Apr 05, 2022 13:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3359,7 +3359,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 14:45",
-            "rangeEnd": "Thu, Jan 06, 2022 15:45",
+            "rangeEnd": "Tue, Apr 05, 2022 15:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3390,7 +3390,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 10:30",
-            "rangeEnd": "Thu, Jan 06, 2022 11:00",
+            "rangeEnd": "Tue, Apr 05, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3421,7 +3421,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 11:00",
-            "rangeEnd": "Thu, Jan 06, 2022 12:00",
+            "rangeEnd": "Tue, Apr 05, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3452,7 +3452,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 13:45",
-            "rangeEnd": "Thu, Jan 06, 2022 14:00",
+            "rangeEnd": "Tue, Apr 05, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3493,7 +3493,7 @@
             "dow": [
                 4
             ],
-            "rangeEnd": "Thu Apr 7 2022 10:00",
+            "rangeEnd": "Tue, Apr 05, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3543,7 +3543,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 11:15",
-            "rangeEnd": "Thu, Jan 06, 2022 12:00",
+            "rangeEnd": "Tue, Apr 05, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3574,7 +3574,7 @@
                 4
             ],
             "rangeStart": "Thu, Jan 06, 2022 14:00",
-            "rangeEnd": "Thu, Jan 06, 2022 14:30",
+            "rangeEnd": "Tue, Apr 05, 2022 14:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3615,7 +3615,7 @@
             "dow": [
                 5
             ],
-            "rangeEnd": "Fri Apr 8 2022 08:30",
+            "rangeEnd": "Wed, Apr 06, 2022 08:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3675,7 +3675,7 @@
             "dow": [
                 5
             ],
-            "rangeEnd": "Fri Apr 8 2022 09:30",
+            "rangeEnd": "Wed, Apr 06, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3735,7 +3735,7 @@
             "dow": [
                 5
             ],
-            "rangeEnd": "Fri Apr 8 2022 09:30",
+            "rangeEnd": "Wed, Apr 06, 2022 09:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3795,7 +3795,7 @@
             "dow": [
                 5
             ],
-            "rangeEnd": "Fri Apr 8 2022 10:45",
+            "rangeEnd": "Wed, Apr 06, 2022 10:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3855,7 +3855,7 @@
             "dow": [
                 5
             ],
-            "rangeEnd": "Fri Apr 8 2022 11:00",
+            "rangeEnd": "Wed, Apr 06, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3905,7 +3905,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 11:00",
-            "rangeEnd": "Fri, Jan 07, 2022 11:30",
+            "rangeEnd": "Wed, Apr 06, 2022 11:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3936,7 +3936,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 13:00",
-            "rangeEnd": "Fri, Jan 07, 2022 13:30",
+            "rangeEnd": "Wed, Apr 06, 2022 13:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3967,7 +3967,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 13:45",
-            "rangeEnd": "Fri, Jan 07, 2022 14:00",
+            "rangeEnd": "Wed, Apr 06, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -3998,7 +3998,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 15:00",
-            "rangeEnd": "Fri, Jan 07, 2022 16:00",
+            "rangeEnd": "Wed, Apr 06, 2022 16:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4039,7 +4039,7 @@
             "dow": [
                 5
             ],
-            "rangeEnd": "Fri Apr 8 2022 10:00",
+            "rangeEnd": "Wed, Apr 06, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4089,7 +4089,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 11:00",
-            "rangeEnd": "Fri, Jan 07, 2022 12:00",
+            "rangeEnd": "Wed, Apr 06, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4120,7 +4120,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 13:30",
-            "rangeEnd": "Fri, Jan 07, 2022 13:45",
+            "rangeEnd": "Wed, Apr 06, 2022 13:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4151,7 +4151,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 14:45",
-            "rangeEnd": "Fri, Jan 07, 2022 15:45",
+            "rangeEnd": "Wed, Apr 06, 2022 15:45",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4182,7 +4182,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 10:30",
-            "rangeEnd": "Fri, Jan 07, 2022 11:00",
+            "rangeEnd": "Wed, Apr 06, 2022 11:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4213,7 +4213,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 11:00",
-            "rangeEnd": "Fri, Jan 07, 2022 12:00",
+            "rangeEnd": "Wed, Apr 06, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4244,7 +4244,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 13:45",
-            "rangeEnd": "Fri, Jan 07, 2022 14:00",
+            "rangeEnd": "Wed, Apr 06, 2022 14:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4285,7 +4285,7 @@
             "dow": [
                 5
             ],
-            "rangeEnd": "Fri Apr 8 2022 10:00",
+            "rangeEnd": "Wed, Apr 06, 2022 10:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4335,7 +4335,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 11:15",
-            "rangeEnd": "Fri, Jan 07, 2022 12:00",
+            "rangeEnd": "Wed, Apr 06, 2022 12:00",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4366,7 +4366,7 @@
                 5
             ],
             "rangeStart": "Fri, Jan 07, 2022 14:00",
-            "rangeEnd": "Fri, Jan 07, 2022 14:30",
+            "rangeEnd": "Wed, Apr 06, 2022 14:30",
             "status": "Pending",
             "appointmentType": "Follow up",
             "contact-home": "",
@@ -4402,6 +4402,390 @@
             },
             "patientInfo": {
                 "chartNumber": "AA016"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar107",
+            "start": "Tue, Mar 01, 2022 11:00",
+            "end": "Tue, Mar 01, 2022 11:15",
+            "duration": "00:15",
+            "reasonForVisit": "Follow up",
+            "allDay": false,
+            "selectedRepeat": "Never",
+            "rangeEnd": "Tue, Mar 01, 2022 11:15",
+            "status": "Ready for checkout",
+            "appointmentType": "New appointment",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "03/01/2022",
+            "treatmentTime": "11:00",
+            "providerInfo": {
+                "providerUserID": "lcorrot01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA024"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar108",
+            "startTime": "Mon Jan 3 2022 09:45",
+            "rangeStart": "Mon Jan 3 2022 09:45",
+            "endTime": "Mon Jan 3 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Monday",
+            "rangeDeviation": {
+                "ar108_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                1
+            ],
+            "rangeEnd": "Sat, Apr 02, 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar109",
+            "startTime": "Tue Jan 4 2022 09:45",
+            "rangeStart": "Tue Jan 4 2022 09:45",
+            "endTime": "Tue Jan 4 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Tuesday",
+            "rangeDeviation": {
+                "ar109_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                2
+            ],
+            "rangeEnd": "Sun, Apr 03, 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar110",
+            "startTime": "Wed Jan 5 2022 09:45",
+            "rangeStart": "Wed Jan 5 2022 09:45",
+            "endTime": "Wed Jan 5 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Wednesday",
+            "rangeDeviation": {
+                "ar110_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                3
+            ],
+            "rangeEnd": "Mon, Apr 04, 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar111",
+            "startTime": "Thu Jan 6 2022 09:45",
+            "rangeStart": "Thu Jan 6 2022 09:45",
+            "endTime": "Thu Jan 6 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Thursday",
+            "rangeDeviation": {
+                "ar111_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                4
+            ],
+            "rangeEnd": "Tue, Apr 05, 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar112",
+            "startTime": "Fri Jan 7 2022 09:45",
+            "rangeStart": "Fri Jan 7 2022 09:45",
+            "endTime": "Fri Jan 7 2022 10:00",
+            "start": "09:45",
+            "end": "10:00",
+            "duration": "00:15",
+            "reasonForVisit": "Blood pressure",
+            "allDay": false,
+            "selectedRepeat": "Every Friday",
+            "rangeDeviation": {
+                "ar112_01032022": {
+                    "appointmentType": "Follow up",
+                    "checkInTime": "09:45",
+                    "providerInfo": {
+                        "providerUserID": "mreddy01"
+                    },
+                    "reasonForVisit": "Blood pressure",
+                    "status": "Checked in waiting"
+                }
+            },
+            "_recurring": true,
+            "dow": [
+                5
+            ],
+            "rangeEnd": "Wed, Apr 06, 2022 10:00",
+            "status": "Pending",
+            "appointmentType": "Follow up",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "04/03/2022",
+            "treatmentTime": "09:45",
+            "providerInfo": {
+                "providerUserID": "mreddy01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA010"
+            },
+            "checkInData": {
+                "patientCondition": {
+                    "employment": "No",
+                    "autoAccident": "No",
+                    "state": "",
+                    "otherAccident": "No"
+                },
+                "currentIllnessDate": "",
+                "lastIllnessDate": "NA",
+                "unableToWork": {
+                    "from": "",
+                    "to": ""
+                },
+                "otherDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "referringProviderId": {}
+            }
+        },
+        {
+            "appointmentID": "ar113",
+            "start": "Wed, Mar 30, 2022 09:30",
+            "end": "Wed, Mar 30, 2022 10:00",
+            "duration": "00:30",
+            "reasonForVisit": "Shortness of breath",
+            "allDay": false,
+            "selectedRepeat": "Never",
+            "rangeEnd": "Wed, Mar 30, 2022 10:00",
+            "status": "Ready for checkout",
+            "appointmentType": "New",
+            "contact-home": "",
+            "cell": "",
+            "work": "",
+            "treatmentDate": "03/30/2022",
+            "treatmentTime": "09:30",
+            "providerInfo": {
+                "providerUserID": "jingra01"
+            },
+            "patientInfo": {
+                "chartNumber": "AA026"
             },
             "checkInData": {
                 "patientCondition": {

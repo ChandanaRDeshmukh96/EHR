@@ -50,6 +50,7 @@ function findChartNo(firstName, lastName) {
       chartNumber = item.chartNumber;
     }
   });
+  chartNumber ? {} : console.log(firstName+" "+lastName+" not found");
   return chartNumber;
 };
 
@@ -122,7 +123,6 @@ function getDow(repeat) {
 };
 
 function createCheckedInWaitingObjRepeat(element) {
-  console.log(element.patientName + " " + element.selectedRepeat);
   var checkInObj = {};
   checkInObj.appointmentID = generateAptId();
     var rangeDeviationAptID = checkInObj.appointmentID + "_01032022";
@@ -143,12 +143,11 @@ function createCheckedInWaitingObjRepeat(element) {
     checkInObj.rangeDeviation[rangeDeviationAptID].providerInfo = {};
     checkInObj.rangeDeviation[rangeDeviationAptID].providerInfo.providerUserID = findProviderInfo(element.providerName).providerUserID;
     checkInObj.rangeDeviation[rangeDeviationAptID].reasonForVisit = element.reasonForVisit;
-    console.log(checkInObj.rangeDeviation[rangeDeviationAptID]);
     checkInObj.rangeDeviation[rangeDeviationAptID].status = "Checked in waiting";
     checkInObj._recurring = true;
     // checkInObj._recurring = false;
     checkInObj.dow = element.selectedRepeat ? getDow(element.selectedRepeat) :console.log(element);
-    checkInObj.rangeEnd = getStartDate("Mon, Apr 04 2022 " + moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm"), element.selectedRepeat);
+    checkInObj.rangeEnd = moment(checkInObj.endTime).add(89, "days").format("ddd, MMM DD, YYYY HH:mm");
     checkInObj.status = element.selectedRepeat.toLowerCase() === "never" ? element.status : "Pending";
     checkInObj.appointmentType = element.appointmentType;
     checkInObj["contact-home"] = element["contact-home"];
@@ -243,7 +242,7 @@ function createPendingObj(element) {
   pendingObj._recurring = true;
   pendingObj.dow = element.selectedRepeat ? getDow(element.selectedRepeat) :console.log(element);
   pendingObj.rangeStart = moment(getStartDate("Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm a").format("HH:mm"),element.selectedRepeat)).format("ddd, MMM DD, YYYY HH:mm");
-  pendingObj.rangeEnd = moment(getStartDate("Mon, Jan 03 2022 " + moment(element.startTime, "hh:mm a").add(parseInt(element.duration), "minutes").format("HH:mm"), element.selectedRepeat)).format("ddd, MMM DD, YYYY HH:mm");
+  pendingObj.rangeEnd = moment(pendingObj.endTime).add(89, "days").format("ddd, MMM DD, YYYY HH:mm");
   pendingObj.status = "Pending";
   pendingObj.appointmentType = element.appointmentType;
   pendingObj["contact-home"] = element["contact-home"];

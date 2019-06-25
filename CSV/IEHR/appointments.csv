@@ -105,4 +105,11 @@ Appointment 17,,1:45 PM,15,,Maria Lopez,,Reddy,pending,Follow up,Flu shot,,,,,No
 Appointment 18,,9:45 AM,15,,David Olivetti,,Rodriguez,checked in waiting,Follow up,Leg pain,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 19,,11:15 AM,45,,Anna Lindstrom,,Rodriguez,pending,Follow up,Annual physical,,,,,No,No,No,NA,NA,NA,NA,Every Friday
 Appointment 20,,2:00 PM,30,,Kevin Washington,,Rodriguez,pending,Follow up,Pre-operative testing,,,,,No,No,No,NA,NA,NA,NA,Every Friday
-Appointment 8,,9:00,15,1/17/2022,Gregory Mikeals,1/17/2022,McGrath,checked out,Follow up,Labwork,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 8,,9:00 AM,15,1/17/2022,Gregory Mikeals,1/17/2022,McGrath,checked out,Follow up,Labwork,,,,,No,No,No,NA,NA,NA,NA,Never
+,,11:00 AM,15,3/1/2022,Jaden Shaw,3/1/2022,Corrotti,Checked out,New appointment,Follow up,,,,,No,No,No,NA,NA,NA,NA,Never
+Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Monday
+Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Tuesday
+Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Wednesday
+Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Thursday
+Appointment 14,,9:45 AM,15,,Mark Shaw,,Reddy,checked in waiting,Follow up,Blood pressure,,,,,No,No,No,NA,NA,NA,NA,Every Friday
+,,9:30,30,3/30/2022,Alfredo Garza,,Ingram,Checked Out,New,Shortness of breath,,,,,No,No,No,NA,NA,NA,NA,Never

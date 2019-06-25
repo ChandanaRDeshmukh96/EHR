@@ -1053,6 +1053,48 @@
                 "additionalDescription": "",
                 "useOfProtection": "Never"
             }
+        ],
+        "AA026": [
+            {
+                "id": 1,
+                "alcoholConsumption": {
+                    "value": "No"
+                },
+                "frequency": {
+                    "value": ""
+                },
+                "alcoholMoreDetail": "",
+                "smoking": {
+                    "value": "Yes"
+                },
+                "snomedCat": {
+                    "value": "Current some day smoker"
+                },
+                "caffeineUse": {
+                    "value": "Yes",
+                    "other": ""
+                },
+                "illicitDrugs": {
+                    "value": "No",
+                    "other": ""
+                },
+                "drugDetails": "",
+                "exercise": "Occasionally",
+                "sleepPerHours": "8 hours",
+                "useOfSeatBelt": "Always",
+                "livingArrangements": "Alone",
+                "marriage": "Single",
+                "occupation": "Engineering",
+                "education": "College graduate",
+                "sexuallyActive": "Yes",
+                "sexualPartners": {
+                    "gender": "Women"
+                },
+                "sexualPartner": "1",
+                "historyOfSTIDiagnosis": "No",
+                "additionalDescription": "",
+                "useOfProtection": "Never"
+            }
         ]
     }
 }

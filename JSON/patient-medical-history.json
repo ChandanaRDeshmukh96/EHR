@@ -438,6 +438,53 @@
                 "duration": "0",
                 "durationUnit": "Day(s)"
             }
+        ],
+        "AA026": [
+            {
+                "id": 1,
+                "pmhDescription": "Bronchitis (acute)",
+                "diagnosisDate": "11/18/2020",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "resolved",
+                "duration": "2",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 2,
+                "pmhDescription": "Anemia",
+                "diagnosisDate": "01/15/2018",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "resolved",
+                "duration": "1",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 3,
+                "pmhDescription": "Tibia fracture",
+                "diagnosisDate": "09/01/2012",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "6",
+                "durationUnit": "Week(s)"
+            },
+            {
+                "id": 4,
+                "pmhDescription": "Angina",
+                "diagnosisDate": "04/21/2012",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Ongoing",
+                "duration": "0",
+                "durationUnit": "Day(s)"
+            },
+            {
+                "id": 5,
+                "pmhDescription": "Appendicitis",
+                "diagnosisDate": "03/04/2002",
+                "dateModified": "Jan 09,2019 10:30 am",
+                "resolution": "Resolved",
+                "duration": "1",
+                "durationUnit": "Week(s)"
+            }
         ]
     }
 }

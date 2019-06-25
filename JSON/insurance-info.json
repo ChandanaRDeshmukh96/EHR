@@ -336,6 +336,19 @@
                     "isGuarantor": "Yes"
                 }
             ]
+        },
+        {
+            "chartNumber": "AA026",
+            "insuranceData": [
+                {
+                    "uniqueKey2": "uk2027",
+                    "uniqueKey": "pi27",
+                    "insuranceType": "Primary",
+                    "insuranceId": "GAR5679009",
+                    "groupInsId": "6500",
+                    "isGuarantor": "Yes"
+                }
+            ]
         }
     ]
 }

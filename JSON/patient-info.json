@@ -778,6 +778,37 @@
             "chartNumber": "AA025",
             "id": 24,
             "patientProfileImage": "ehr/asset/img/patient-profile/IEHR/Jared Hess_IEHR.JPG"
+        },
+        {
+            "firstName": "Alfredo",
+            "middleName": "Jose",
+            "lastName": "Garza",
+            "dob": "07/31/1958",
+            "gender": "Male",
+            "maritalStatus": "Single",
+            "studentStatus": "No",
+            "employmentStatus": "Full-time",
+            "Employer": "Guardian Industries",
+            "email": "agarcia@guardianind.com",
+            "ssn": "349-19-3741",
+            "preferredLanguage": "English",
+            "race": "Declined to specify",
+            "ethnicity": "Hispanic",
+            "religion": "Catholic",
+            "homePhone": "419-555-6173",
+            "workPhone": "419-555-0037",
+            "Address": {
+                "street": "3729, Clearwater St",
+                "city": "Bluffton",
+                "state": "Ohio",
+                "zipCode": "45817"
+            },
+            "contact": {
+                "cell": "419-555-6179"
+            },
+            "chartNumber": "AA026",
+            "id": 25,
+            "patientProfileImage": "ehr/asset/img/patient-profile/IEHR/Alfredo Garza_IEHR.JPG"
         }
     ]
 }

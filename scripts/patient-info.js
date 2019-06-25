@@ -1,4 +1,4 @@
-// to execute the function directlly, please type in ---> node -e 'require("./patient-info")()' 
+// to execute the function directlly, please type in ---> node -e "require('./patient-info.js')()"
 // if the exported funtion has a name ---> node -e 'require("./patient-info")func_name()'
 
 const fileName = "patient-info";

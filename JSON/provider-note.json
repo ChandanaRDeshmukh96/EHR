@@ -829,6 +829,159 @@
                 "referringPractice": [],
                 "SOAPNoteRecordedDate": ""
             }
+        ],
+        "AA024": [
+            {
+                "apptId": "ar107",
+                "chiefComplaint": "",
+                "presentIllness": "",
+                "reviewOfSystem": "",
+                "examination": "",
+                "diagnosis": [
+                    {
+                        "id": "Z00.00",
+                        "value": "Routine general medical exam (adult)"
+                    },
+                    {
+                        "id": "Z00.129",
+                        "value": "Routine general medical exam (child)"
+                    },
+                    {
+                        "id": "Z01.419",
+                        "value": "Routine gynecological exam"
+                    },
+                    {
+                        "id": "B86",
+                        "value": "Scabies"
+                    },
+                    {
+                        "id": "A64",
+                        "value": "Sexually transmitted disease (unspecified)"
+                    },
+                    {
+                        "id": "J02.9",
+                        "value": "Sore throat"
+                    },
+                    {
+                        "id": "J02.0",
+                        "value": "Streptococcal pharyngitis (Strep throat)"
+                    },
+                    {
+                        "id": "B95.0",
+                        "value": "Streptococcus group A"
+                    },
+                    {
+                        "id": "I60.9",
+                        "value": "Subarachnoid hemorrhage (stroke)"
+                    }
+                ],
+                "prescription": [],
+                "labs": [],
+                "imaging": [],
+                "immunization": [],
+                "injection": [],
+                "procedure": [
+                    {
+                        "id": "99204",
+                        "value": "NP Extended L4 Comp/Mod"
+                    }
+                ],
+                "attachments": [],
+                "followUpRequired": "No",
+                "followUpTimeline": "NA",
+                "patientEducation": "",
+                "addendum": [],
+                "referringProvider": [],
+                "referringLabs": [],
+                "referringPractice": [],
+                "SOAPNoteRecordedDate": ""
+            }
+        ],
+        "AA026": [
+            {
+                "apptId": "ar113",
+                "chiefComplaint": "Shortness of breath",
+                "presentIllness": "C/O shortness of breath x 1 week. Symptoms worsen with exercise.",
+                "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: + wheezing, - cough, - congestion, -hemoptysis, - respiratory infections, - tuberculosis, - chest wall pain. CV: No chest pain, arrhythmia, syncope, + dyspnea, + exertional dyspnea, - orthopnea, - paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice.",
+                "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. + wheezing, - rales, - rhonchi, - stridor, or - rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly normal to percussion.",
+                "diagnosis": [
+                    {
+                        "id": "J45.20",
+                        "value": "Asthma (mild intermittent, uncomplicated)"
+                    }
+                ],
+                "prescription": [],
+                "labs": [
+                    {
+                        "id": "80048",
+                        "value": "Basic Metabolic Panel"
+                    },
+                    {
+                        "id": "80060",
+                        "value": "Lipid Panel"
+                    },
+                    {
+                        "id": "81000",
+                        "value": "Urinalysis"
+                    },
+                    {
+                        "id": "85025",
+                        "value": "Complete CBC w/auto diff WBC"
+                    },
+                    {
+                        "id": "36415",
+                        "value": "Venipuncture (blood draw)"
+                    }
+                ],
+                "imaging": [
+                    {
+                        "id": "71046",
+                        "value": "Chest X-ray Two Views, Frontal and Lateral"
+                    }
+                ],
+                "immunization": [
+                    {
+                        "id": "90471",
+                        "value": "Immun Admin",
+                        "additionalField": ""
+                    },
+                    {
+                        "id": "90656",
+                        "value": "Influenza Vaccine",
+                        "additionalField": ""
+                    },
+                    {
+                        "id": "90472",
+                        "value": "Immun Admin, Ea Add'l",
+                        "additionalField": ""
+                    },
+                    {
+                        "id": "90718",
+                        "value": "Tetanus/Diphtheria Vaccine",
+                        "additionalField": ""
+                    }
+                ],
+                "injection": [],
+                "procedure": [
+                    {
+                        "id": "99213",
+                        "value": "EP Limited L3 Expanded"
+                    }
+                ],
+                "attachments": [],
+                "followUpRequired": "Yes",
+                "followUpTimeline": "1 Month(s)",
+                "patientEducation": "Weight Management, Asthma, High Blood Pressure, Smoking Cessation, Td Vaccine",
+                "addendum": [],
+                "referringProvider": [
+                    {
+                        "id": "Ashlynn Harris - cardiology/pulmonary"
+                    }
+                ],
+                "referringLabs": [],
+                "referringPractice": [],
+                "SOAPNoteRecordedDate": ""
+            }
         ]
     }
 }

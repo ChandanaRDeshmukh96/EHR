@@ -708,6 +708,65 @@
                 "immunizationStartDate": "04/09/2016",
                 "nextDoseDueDate": "04/09/2026"
             }
+        ],
+        "AA026": [
+            {
+                "id": 1,
+                "immunizationType": "Hepatitis B",
+                "orderingPhysician": "Dr. Rodriguez",
+                "followUpDirections": "NA",
+                "dosage": "NA",
+                "manufacturer": "Heptavax",
+                "lotNumber": "1746500",
+                "expirationDate": "03/01/2010",
+                "siteOfAdministration": "Left",
+                "site": "Deltoid",
+                "otherSite": "None",
+                "adverseEffects": "None",
+                "visGiven": "Yes",
+                "followUpDirectionsProvided": "Return in one month and six months",
+                "patientInsToReturnOn": "05/10/2009",
+                "immunizationStartDate": "04/10/2009",
+                "nextDoseDueDate": ""
+            },
+            {
+                "id": 2,
+                "immunizationType": "Hepatitis B",
+                "orderingPhysician": "Dr. Rodriguez",
+                "followUpDirections": "NA",
+                "dosage": "NA",
+                "manufacturer": "Heptavax",
+                "lotNumber": "1746500",
+                "expirationDate": "03/01/2010",
+                "siteOfAdministration": "Right",
+                "site": "Deltoid",
+                "otherSite": "None",
+                "adverseEffects": "None",
+                "visGiven": "Yes",
+                "followUpDirectionsProvided": "Return in five months",
+                "patientInsToReturnOn": "10/10/2009",
+                "immunizationStartDate": "04/10/2009",
+                "nextDoseDueDate": ""
+            },
+            {
+                "id": 3,
+                "immunizationType": "Hepatitis B",
+                "orderingPhysician": "Dr. Rodriguez",
+                "followUpDirections": "NA",
+                "dosage": "NA",
+                "manufacturer": "Heptavax",
+                "lotNumber": "1746500",
+                "expirationDate": "03/01/2010",
+                "siteOfAdministration": "Left",
+                "site": "Deltoid",
+                "otherSite": "None",
+                "adverseEffects": "None",
+                "visGiven": "Yes",
+                "followUpDirectionsProvided": "Final dose",
+                "patientInsToReturnOn": "",
+                "immunizationStartDate": "04/10/2009",
+                "nextDoseDueDate": ""
+            }
         ]
     }
 }

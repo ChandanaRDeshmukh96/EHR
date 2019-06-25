@@ -1,1 +1,553 @@
-{"info":{"status":"200","message":"OK"},"data":{"AA018":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Breast cancer","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""},{"id":3,"relationship":"Brother","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""}],"AA019":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Diabetes","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Congestive heart failure","deceased":"No","deathAge":"","deathReason":""},{"id":3,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Melanoma","deceased":"No","deathAge":"","deathReason":""}],"AA020":[{"id":1,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Prostate cancer","deceased":"Yes","deathAge":"72","deathReason":"Metastatic prostate cancer"},{"id":2,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Hypothyroidism","deceased":"No","deathAge":"","deathReason":""}],"AA021":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Anxiety disorder","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Hypercholesterolemia","deceased":"No","deathAge":"","deathReason":""},{"id":3,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Hypertension","deceased":"No","deathAge":"","deathReason":""},{"id":4,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Congenital heart defect","deceased":"Yes","deathAge":"8 months","deathReason":"Sudden cardiac arrest"}],"AA022":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Myocardial infarction,\nPulmonary embolism","deceased":"Yes","deathAge":"66","deathReason":"Pulmonary embolism"},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Benign prostatic hypertrophy, \nHypercholesterolemia,\nHypertension","deceased":"","deathAge":"","deathReason":""},{"id":3,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Hypertension","deceased":"No","deathAge":"","deathReason":""}],"AA001":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Heart disease","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Hypertension","deceased":"Yes","deathAge":"58","deathReason":"Prostate cancer"}],"AA002":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Skin cancer","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""},{"id":3,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""}],"AA003":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Breast cancer","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Diabetes","deceased":"No","deathAge":"","deathReason":""}],"AA004":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Hypertension","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""},{"id":3,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Hypertension","deceased":"No","deathAge":"","deathReason":""}],"AA005":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Heart disease","deceased":"Yes","deathAge":"60","deathReason":"Motor vehicle accident"},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Hypertension","deceased":"No","deathAge":"","deathReason":""}],"AA006":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Diabetes","deceased":"Yes","deathAge":"78","deathReason":"Diabetic complications"}],"AA007":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"Yes","deathAge":"91","deathReason":"Kidney failure"},{"id":2,"relationship":"Brother","ifOtherRelationship":"","diagnosis":"Diabetes Type II","deceased":"no","deathAge":"","deathReason":""},{"id":3,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Prostate cancer","deceased":"Yes","deathAge":"88","deathReason":"Prostate cancer"}],"AA008":[{"id":1,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Diabetes","deceased":"Yes","deathAge":"78","deathReason":"Heart attack"},{"id":2,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Hyperlipidemia","deceased":"Yes","deathAge":"69","deathReason":"Breast cancer"}],"AA009":[{"id":1,"relationship":"Brother","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""}],"AA010":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Colon cancer","deceased":"Yes","deathAge":"54","deathReason":"Colon cancer"},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""}],"AA011":[{"id":1,"relationship":"Brother","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""}],"AA012":[{"id":1,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Diabetes","deceased":"Yes","deathAge":"71","deathReason":"Heart attack"},{"id":2,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Hyperlipidemia","deceased":"No","deathAge":"","deathReason":""}],"AA013":[{"id":1,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Heart disease","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Skin cancer","deceased":"No","deathAge":"","deathReason":""},{"id":3,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""}],"AA014":[{"id":1,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Diabetes","deceased":"No","deathAge":"","deathReason":""}],"AA015":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Diabetes","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""}],"AA016":[{"id":1,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Diabetes","deceased":"Yes","deathAge":"70","deathReason":"Heart attack"}],"AA017":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Hypertension","deceased":"No","deathAge":"","deathReason":""}],"AA023":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Skin cancer","deceased":"No","deathAge":"","deathReason":""},{"id":2,"relationship":"Father","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""},{"id":3,"relationship":"Sister","ifOtherRelationship":"","diagnosis":"Asthma","deceased":"No","deathAge":"","deathReason":""}],"AA025":[{"id":1,"relationship":"Mother","ifOtherRelationship":"","diagnosis":"Diabetes","deceased":"Yes","deathAge":"74","deathReason":"Diabetic complications"}]}}
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": {
+        "AA018": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Breast cancer",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Brother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA019": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Congestive heart failure",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Melanoma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA020": [
+            {
+                "id": 1,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Prostate cancer",
+                "deceased": "Yes",
+                "deathAge": "72",
+                "deathReason": "Metastatic prostate cancer"
+            },
+            {
+                "id": 2,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hypothyroidism",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA021": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Anxiety disorder",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hypercholesterolemia",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hypertension",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 4,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Congenital heart defect",
+                "deceased": "Yes",
+                "deathAge": "8 months",
+                "deathReason": "Sudden cardiac arrest"
+            }
+        ],
+        "AA022": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Myocardial infarction,\r\nPulmonary embolism",
+                "deceased": "Yes",
+                "deathAge": "66",
+                "deathReason": "Pulmonary embolism"
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Benign prostatic hypertrophy, \r\nHypercholesterolemia,\r\nHypertension",
+                "deceased": "",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hypertension",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA001": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Heart disease",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hypertension",
+                "deceased": "Yes",
+                "deathAge": "58",
+                "deathReason": "Prostate cancer"
+            }
+        ],
+        "AA002": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Skin cancer",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA003": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Breast cancer",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA004": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hypertension",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hypertension",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA005": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Heart disease",
+                "deceased": "Yes",
+                "deathAge": "60",
+                "deathReason": "Motor vehicle accident"
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hypertension",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA006": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes",
+                "deceased": "Yes",
+                "deathAge": "78",
+                "deathReason": "Diabetic complications"
+            }
+        ],
+        "AA007": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "Yes",
+                "deathAge": "91",
+                "deathReason": "Kidney failure"
+            },
+            {
+                "id": 2,
+                "relationship": "Brother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes Type II",
+                "deceased": "no",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Prostate cancer",
+                "deceased": "Yes",
+                "deathAge": "88",
+                "deathReason": "Prostate cancer"
+            }
+        ],
+        "AA008": [
+            {
+                "id": 1,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes",
+                "deceased": "Yes",
+                "deathAge": "78",
+                "deathReason": "Heart attack"
+            },
+            {
+                "id": 2,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hyperlipidemia",
+                "deceased": "Yes",
+                "deathAge": "69",
+                "deathReason": "Breast cancer"
+            }
+        ],
+        "AA009": [
+            {
+                "id": 1,
+                "relationship": "Brother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA010": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Colon cancer",
+                "deceased": "Yes",
+                "deathAge": "54",
+                "deathReason": "Colon cancer"
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA011": [
+            {
+                "id": 1,
+                "relationship": "Brother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA012": [
+            {
+                "id": 1,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes",
+                "deceased": "Yes",
+                "deathAge": "71",
+                "deathReason": "Heart attack"
+            },
+            {
+                "id": 2,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hyperlipidemia",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA013": [
+            {
+                "id": 1,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Heart disease",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Skin cancer",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA014": [
+            {
+                "id": 1,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA015": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA016": [
+            {
+                "id": 1,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes",
+                "deceased": "Yes",
+                "deathAge": "70",
+                "deathReason": "Heart attack"
+            }
+        ],
+        "AA017": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Hypertension",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA023": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Skin cancer",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 2,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ],
+        "AA025": [
+            {
+                "id": 1,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Diabetes",
+                "deceased": "Yes",
+                "deathAge": "74",
+                "deathReason": "Diabetic complications"
+            }
+        ],
+        "AA026": [
+            {
+                "id": 1,
+                "relationship": "Father",
+                "ifOtherRelationship": "",
+                "diagnosis": "Heart disease",
+                "deceased": "Yes",
+                "deathAge": "78",
+                "deathReason": "Heart attack"
+            },
+            {
+                "id": 2,
+                "relationship": "Mother",
+                "ifOtherRelationship": "",
+                "diagnosis": "Skin cancer",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            },
+            {
+                "id": 3,
+                "relationship": "Sister",
+                "ifOtherRelationship": "",
+                "diagnosis": "Asthma",
+                "deceased": "No",
+                "deathAge": "",
+                "deathReason": ""
+            }
+        ]
+    }
+}
