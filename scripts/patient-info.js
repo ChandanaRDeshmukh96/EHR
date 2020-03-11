@@ -1,8 +1,9 @@
 // to execute the function directlly, please type in ---> node -e "require('./patient-info.js')()"
 // if the exported funtion has a name ---> node -e 'require("./patient-info")func_name()'
 
+const bookName = "IEHR"
 const fileName = "patient-info";
-const csvFilePath = '../CSV/IEHR/'+fileName+'.csv';
+const csvFilePath = '../CSV/' + bookName + '/' + fileName + '.csv';
 const csv = require('csvtojson');
 const fs = require('fs');
 var moment = require("moment");
@@ -32,7 +33,7 @@ function dataWrapper(data) {
             patientsData.firstName = element.firstName;
             patientsData.middleName = element.middleName;
             patientsData.lastName = element.lastName;
-            patientsData.dob = moment(element.dob).format("MM/DD/YYYY");
+            patientsData.dob = moment(element.dob, "mm/dd/yyyy").format("MM/DD/YYYY");
             patientsData.gender = element.gender;
             patientsData.maritalStatus = element.maritalStatus;
             patientsData.studentStatus = element.studentStatus;
@@ -66,14 +67,14 @@ function dataWrapper(data) {
 // this is the main function. 
 // exporting this function to make it accessible elsewhere.
 
-module.exports = function (){
-csv()
-    .fromFile(csvFilePath)
-    .then((jsonObj) => {
-        var formattedData = dataWrapper(jsonObj);
-        fs.writeFile('../JSON/'+fileName+'.json', JSON.stringify(formattedData), 'utf8', function (err) {
-            if (err) throw err;
-            console.log('Patient data created!');
+module.exports = function () {
+    csv()
+        .fromFile(csvFilePath)
+        .then((jsonObj) => {
+            var formattedData = dataWrapper(jsonObj);
+            fs.writeFile('../JSON/' + bookName + '/' + fileName + '.json', JSON.stringify(formattedData), 'utf8', function (err) {
+                if (err) throw err;
+                console.log('Patient data created!');
+            });
         });
-    });
 };

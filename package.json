@@ -1,0 +1,23 @@
+{
+  "name": "ehr-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChandanaRDeshmukh96/EHR-scripts.git"
+  },
+  "author": "Chandana R Deshmukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChandanaRDeshmukh96/EHR-scripts/issues"
+  },
+  "homepage": "https://github.com/ChandanaRDeshmukh96/EHR-scripts#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "moment": "^2.24.0"
+  }
+}

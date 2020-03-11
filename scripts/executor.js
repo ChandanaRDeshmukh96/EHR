@@ -32,7 +32,7 @@ var patientReport = require('./patient-report.js');
 
 
 // grouping similar data into one function
-function staffAndPatient(){
+function staffAndPatient() {
     // executing and creating JSON file for all data
     console.log("\n\ncreating staff and patient data ...\n\n");
     var patientInfo = require('./patient-info.js');
@@ -41,34 +41,36 @@ function staffAndPatient(){
     providerInfo();
     var medicalStaffInfo = require('./medical-staff-info.js');
     medicalStaffInfo();
-    
+
 };
 // staffAndPatient();
 // patientInfo();   
 
-function insurance(){
+function insurance() {
     console.log("\n\ncreating insurance data...\n\n");
-        
-    var p1 = new Promise (function (resolve, reject){
-        setTimeout(()=>{
+
+    var p1 = new Promise(function (resolve, reject) {
+        setTimeout(() => {
             var insuranceInfo = require('./insurance-info.js');
             insuranceInfo();
-        }, 100, "insInfo"); });
-    var p2 = new Promise (function (resolve, reject){
-        setTimeout(()=>{
+        }, 100, "insInfo");
+    });
+    var p2 = new Promise(function (resolve, reject) {
+        setTimeout(() => {
             var groupInsuranceInfo = require('./group-insurance-info.js');
             groupInsuranceInfo();
-        }, 100, "grpInsInfo"); });
+        }, 100, "grpInsInfo");
+    });
 
-Promise.all([p1, p2]).then(function(values) {
-    var insuranceProviderInfo = require('./insurance-provider-info.js');
-    insuranceProviderInfo();
-    var insuranceCarrierCpt = require('./insurance-carrier-cpt.js');
-    insuranceCarrierCpt();
-  });
+    Promise.all([p1, p2]).then(function (values) {
+        var insuranceProviderInfo = require('./insurance-provider-info.js');
+        insuranceProviderInfo();
+        var insuranceCarrierCpt = require('./insurance-carrier-cpt.js');
+        insuranceCarrierCpt();
+    });
 };
 
-function blockTimeAndAppointments(){
+function blockTimeAndAppointments() {
     console.log("\n\ncreating block time and appointments data...\n\n");
     var appointments = require('./appointments.js');
     appointments();
@@ -76,7 +78,7 @@ function blockTimeAndAppointments(){
     blockTime();
 };
 
-function soapNotesCodes(){
+function soapNotesCodes() {
     console.log("\n\ncreating ICD and CPT codes list of codes...\n\n");
     icdCode();
     cptCode();
@@ -86,7 +88,7 @@ function soapNotesCodes(){
     providerNote();
 }
 
-function toolData(){
+function toolData() {
     console.log("\n\ncreating tool data...\n\n");
     accessLevels();
     referringLabs();
@@ -95,7 +97,7 @@ function toolData(){
     task();
 };
 
-function patientChartData(){
+function patientChartData() {
     console.log("\n\ncreating patient-chart data...\n\n");
     allergyForm();
     familyInfo();
@@ -114,12 +116,14 @@ function patientChartData(){
     patientReport();
 }
 
-staffAndPatient();
-setTimeout(insurance, 3000);
-setTimeout(blockTimeAndAppointments, 6000);
-setTimeout(soapNotesCodes, 9000);
-setTimeout(toolData, 12000);
-setTimeout(patientChartData, 15000);
+module.exports = function () {
+    staffAndPatient();
+    setTimeout(insurance, 3000);
+    setTimeout(blockTimeAndAppointments, 6000);
+    setTimeout(soapNotesCodes, 9000);
+    setTimeout(toolData, 12000);
+    setTimeout(patientChartData, 15000);
+}
 // insurance();
 // blockTimeAndAppointments();
 // toolData();
@@ -131,8 +135,8 @@ setTimeout(patientChartData, 15000);
   -> check if the fucntion is getting executed twice. i.e., does export func export whole doc or only the func?
   -> use promises to create sections of data one after the other
   -> use delay time to display messages properly so that the user gets to know what is happening
-  -> group the sections properly for better results (group all dependecies together. 
-    ex1: insurance data is interdependent group them together. 
+  -> group the sections properly for better results (group all dependecies together.
+    ex1: insurance data is interdependent group them together.
     ex2: patientChart data is dependent on patient data group them differently and create patient data first.)
   -> to automate the changes in Execl online, look for some webhooks. Webhook must trigger the execution of this file which generates all data.
 */
